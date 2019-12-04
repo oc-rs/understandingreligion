@@ -1,5 +1,5 @@
 # Understanding Religion | an OCRS project
-https://understandingreligion.org.uk
+understandingreligion.org.uk
 
 Understanding Religion is a website aimed at providing clean and simple access to information relating to the study of religion. Always free, written clearly for a wide audience, grounded in academic study and supported by references for those who want to dive deeper.
 
