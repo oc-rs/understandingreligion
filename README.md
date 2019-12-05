@@ -42,13 +42,6 @@ Each article will contain an 'abstract' or short summary, roughly explaining the
 ## Traditions
 *Religions, spiritualities, worldviews*
 
-Each article on a tradition should use these headings:
-
-* Beliefs
-* Practices
-* Communities
-* Texts
-
 ## Scholars
 *Investigators, researchers, and thinkers*
 
@@ -70,6 +63,15 @@ Each article on a tradition should use these headings:
 
 ## Texts
 *Repositories of knowledge and tradition*
+
+## Beliefs
+*Theories and values about the world*
+
+## Practices
+*Engagement and activity*
+
+## Communities
+*Organisation and relationship*
 
 ## Glossary
 *Unusual terms and definitions*
