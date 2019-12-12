@@ -13,7 +13,7 @@ The unique aspect of this site will be the way that it groups together these art
 
 Any page might belong to several books, and occur at different places in different books depending on that book's focus.
 
-At the bottom of each page you will see which book(s) you are currently within, and have the option to move forward, backwards, or return to the book's homepage. You might start by reading a book about Catholicism, but after reading the section on the early church find yourself drawn into a different book on Gnosticism (which would naturally cross over at certain points with the Catholocism book). While reading the Gnosticism book you might decide to branch into a book on religious experience, and from there into the neurological study of religion, reductionism, and evolutionary biology!
+At the bottom of each page you will see which book(s) you are currently within, and have the option to move forward, backwards, or return to the book's homepage. You might start by reading a book about Catholicism, but after reading the section on the early church find yourself drawn into a different book on Gnosticism (which would naturally cross over at certain points with the Catholicism book). While reading the Gnosticism book you might decide to branch into a book on religious experience, and from there into the neurological study of religion, reductionism, and evolutionary biology!
 
 This structure, where many paths meet and intertwine allows the reader to follow their own impulses, and rewards inquistiveness without forcing the reader into a narrow learning avenue leading to a dead-end.
 
@@ -25,6 +25,8 @@ This structure, where many paths meet and intertwine allows the reader to follow
 * Why study religion?
 * Do all religions teach the same things?
 * What is religious literacy?
+* What is a cult?
+* Can you be spiritual but not religious?
 
 ## Perspectives
 *Ways of looking at, and thinking about, religion*
@@ -52,6 +54,16 @@ This structure, where many paths meet and intertwine allows the reader to follow
 ## Traditions
 *Religions, spiritualities, worldviews*
 
+* Buddhism
+* Hinduism
+* Christianity
+* Islam
+* Judaism
+* Sikhi
+* Rastafari Movement
+* Taoism
+* Zoroastrianism
+
 ## Scholars
 *Investigators, researchers, and thinkers*
 
@@ -68,8 +80,20 @@ This structure, where many paths meet and intertwine allows the reader to follow
 ## Figures
 *Personalities from religious traditions, both ancient and modern*
 
+* Jesus
+* Lao Tzu
+* Muhammad
+* Regina Jonas
+* Gautama Buddha
+* Guru Nanak
+
 ## Places
 *Sacred and significant locations*
+
+* Mecca
+* Glastonbury
+* Jerusalem
+* Bodh Gaya
 
 ## Texts
 *Repositories of knowledge and tradition*
@@ -82,6 +106,8 @@ This structure, where many paths meet and intertwine allows the reader to follow
 
 ## Communities
 *Organisation and relationship*
+
+## Music
 
 ## Glossary
 *Unusual terms and definitions*
