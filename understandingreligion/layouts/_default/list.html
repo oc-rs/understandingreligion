@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+    {{ partial "head.html" . }}
+
+    <body>
+
+        {{ partial "navbar.html" . }}
+
+        <section style="background-color: #032539" class="hero is-small">
+            <div class="hero-body">
+                <div class="container has-text-white has-text-centered">
+                    <h1 class="title has-text-white is-size-1">
+                    {{ .Title }}
+                    </h1>
+                </div>
+            </div>
+        </section>
+        
+        <section style="background-color: #1c768f" class="section has-text-white has-text-centered">
+            <h3>{{ .Params.abstract }}</h3>
+        </section>
+
+        <section style="background-color: #FBF3F2" class="section">
+            
+            <div class="container">
+                <table>
+                    {{ range .Pages }}
+                    <tr>
+                        <td><a href="{{.Permalink}}">{{.Title}}</a></td>
+                    </tr>
+                    {{ end }}
+                </table>
+
+            </div>
+            
+        </section>
+
+        {{ partial "footer.html" . }}
+    </body>
+</html>
