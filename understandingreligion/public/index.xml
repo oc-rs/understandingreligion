@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is religion?</title>
+      <link>http://example.org/questions/what-is-religion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/questions/what-is-religion/</guid>
+      <description>The first step in the study of any subject is to define our terms, draw a line around the area we’re interested in, and decide how we’ll investigate.
+Just like any other subject, the method of investigation will influence the type of results we achieve.
+To borrow a metaphor from the world of science: if we use a telescope, we only see things that are large and far away; if we use a microscope, we only see things that are small and close.</description>
+    </item>
+    
+  </channel>
+</rss>
