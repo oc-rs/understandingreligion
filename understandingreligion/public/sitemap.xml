@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://www.understandingreligion.org.uk/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/questions/</loc>
+    <loc>https://www.understandingreligion.org.uk/questions/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://www.understandingreligion.org.uk/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://www.understandingreligion.org.uk/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/questions/what-is-religion/</loc>
+    <loc>https://www.understandingreligion.org.uk/questions/what-is-religion/</loc>
   </url>
   
 </urlset>
