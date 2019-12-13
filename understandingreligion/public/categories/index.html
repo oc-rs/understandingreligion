@@ -21,7 +21,7 @@
                   const $target = document.getElementById(target);
                   
                   el.classList.toggle('is-active');
-                  $target.classList.toggle('is-active');
+                    $target.classList.toggle('is-active');
                 });
               });
             }
@@ -36,7 +36,8 @@
 
     <body>
 
-        <nav class="navbar" role="navigation" aria-label="main navigation">
+        
+<nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="/">
         <img src="https://www.oc-rs.org/img/logo-2018-illustrated-notext.jpg" style="border-radius: 250px" width="40" height="40">
@@ -127,7 +128,6 @@
         </div>
     </nav>
 
-
         <section style="background-color: #032539" class="hero is-small">
             <div class="hero-body">
                 <div class="container has-text-white has-text-centered">
@@ -160,36 +160,5 @@
         </p>
     </div>
 </footer>
-
-<script>
-
-document.addEventListener('DOMContentLoaded', () => {
-
-  
-  const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
-
-  
-  if ($navbarBurgers.length > 0) {
-
-    
-    $navbarBurgers.forEach( el => {
-      el.addEventListener('click', () => {
-
-        
-        const target = el.dataset.target;
-        const $target = document.getElementById(target);
-
-        
-        el.classList.toggle('is-active');
-        $target.classList.toggle('is-active');
-
-      });
-    });
-  }
-
-});
-
-</script>
-
     </body>
 </html>
