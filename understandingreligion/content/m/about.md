@@ -10,7 +10,7 @@ We need contributors and editors to write and review content - if you want to ge
 <form name="contact" method="POST" data-netlify="true">
 
 <div class="field">
-  <label class="label">Name</label>
+  <label for="name" class="label">Name</label>
   <div class="control">
     <input class="input" type="text" id="name" placeholder="Tell us your name...">
   </div>
@@ -19,7 +19,7 @@ We need contributors and editors to write and review content - if you want to ge
 <div class="field">
   <label class="label">Email</label>
   <div class="control has-icons-left has-icons-right">
-    <input class="input" type="email" id="email" placeholder="you@email.com" value="">
+    <input for="email" class="input" type="email" id="email" placeholder="you@email.com" value="">
     <span class="icon is-small is-left">
       <i class="fas fa-envelope"></i>
     </span>
@@ -27,7 +27,7 @@ We need contributors and editors to write and review content - if you want to ge
 </div>
 
 <div class="field">
-  <label class="label">Message</label>
+  <label for="message" class="label">Message</label>
   <div class="control">
     <textarea class="textarea" id="message" placeholder="Now this is a story all about how..."></textarea>
   </div>
@@ -35,7 +35,7 @@ We need contributors and editors to write and review content - if you want to ge
 
 <div class="field">
   <div class="control">
-    <label class="checkbox">
+    <label for="terms" class="checkbox">
       <input id="terms" type="checkbox">
       I agree to the <a target="_blank" href="/m/terms/">terms and conditions</a> (opens in new window)
     </label>
