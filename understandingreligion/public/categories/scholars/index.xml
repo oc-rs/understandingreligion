@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scholars on Understanding Religion</title>
+    <link>https://www.understandingreligion.org.uk/categories/scholars/</link>
+    <description>Recent content in Scholars on Understanding Religion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.understandingreligion.org.uk/categories/scholars/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mircea Eliade</title>
+      <link>https://www.understandingreligion.org.uk/p/mircea-eliade/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/mircea-eliade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ninian Smart</title>
+      <link>https://www.understandingreligion.org.uk/p/ninian-smart/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/ninian-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rudolf Otto</title>
+      <link>https://www.understandingreligion.org.uk/p/rudolf-otto/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/rudolf-otto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Émile Durkheim</title>
+      <link>https://www.understandingreligion.org.uk/p/emile-durkheim/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/emile-durkheim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

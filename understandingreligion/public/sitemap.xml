@@ -1,28 +1,467 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/categories/</loc>
-    <priority>0</priority>
+    <loc>https://www.understandingreligion.org.uk/p/buddhism/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/questions/</loc>
+    <loc>https://www.understandingreligion.org.uk/tags/buddhism/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/china/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/india/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/japan/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/material-religion/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/perspectives/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/</loc>
-    <priority>0</priority>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/tibet/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/traditions/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/</loc>
+    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/christianity/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/hinduism/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/islam/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/judaism/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/mircea-eliade/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/ninian-smart/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/questions/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/rastafari-movement/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/rudolf-otto/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/scholars/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/sikhi/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/taoism/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/what-is-religion/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/zoroastrianism/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/emile-durkheim/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/m/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/questions/what-is-religion/</loc>
+    <loc>https://www.understandingreligion.org.uk/p/ahura-mazda/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/allah/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/animism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/austerities/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/bhagavad-gita/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/bodh-gaya/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/brahma/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/brahman/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/brahmin/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/carl-jung/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/chanting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/christian-bible/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/church/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/dharma/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/el/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/elohim/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/glastonbury/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/guru-granth-sahib/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/guru-nanak/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/gurudwara/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/hebrew-bible/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/hymns/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/imam/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/jehovah/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/jerusalem/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/jesus/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/jewish-temple/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/kabir/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/karen-armstrong/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/kirtan/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/lao-tzu/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/mahabharata/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/mantra/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/mecca/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/meditation/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/monotheism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/mosque/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/muhammad/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/nancy-ammerman/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/new-testament/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/old-testament/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/panpsychism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/pantheism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/pascal-boyer/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/pentateuch/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/pilgrimmage/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/polytheism/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/prayer/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/priest/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/ramayana/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/regina-jonas/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/siddartha-gautama/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/sigmund-freud/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/tanakh/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/thomas-aquinas/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/trimurti/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/trinity/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/vedas/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/worship/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/yhwh/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/yoga/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/m/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/b/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/b/introduction-to-religious-studies/</loc>
   </url>
   
 </urlset>

@@ -21,12 +21,39 @@
             <h3>{{ .Params.abstract }}</h3>
         </section>
 
-        <section style="background-color: #FBF3F2" class="section">
+        <div class="content container">
+
+        </div>
+        
+        <div class="content container">
             
-            <div class="content container">
-                {{ .Content }}
+            {{ .Content }}
+
+            {{ range .Params.books }}
+            <div class="card">
+              <div class="card-content">
+                <p class="title">{{ .Name }}</p>
+                <a href="{{ .Link }}">Book Contents</a>
+              </div>
+              <footer class="card-footer">
+                <p class="card-footer-item">
+                  <span>
+                    View on <a href="https://twitter.com/codinghorror/status/506010907021828096">Twitter</a>
+                  </span>
+                </p>
+                <p class="card-footer-item">
+                  <span>
+                    Share on <a href="#">Facebook</a>
+                  </span>
+                </p>
+              </footer>
             </div>
+            {{ end }}
+
+        </div>
             
+            
+
         </section>
 
         {{ partial "footer.html" . }}

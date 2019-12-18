@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Understanding Religion</title>
@@ -6,19 +6,714 @@
     <description>Recent content on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>What is religion?</title>
-      <link>https://www.understandingreligion.org.uk/questions/what-is-religion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Buddhism</title>
+      <link>https://www.understandingreligion.org.uk/p/buddhism/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.understandingreligion.org.uk/questions/what-is-religion/</guid>
+      <guid>https://www.understandingreligion.org.uk/p/buddhism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Material Religion</title>
+      <link>https://www.understandingreligion.org.uk/p/material-religion/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/material-religion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Christianity</title>
+      <link>https://www.understandingreligion.org.uk/p/christianity/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/christianity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hinduism</title>
+      <link>https://www.understandingreligion.org.uk/p/hinduism/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/hinduism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Islam</title>
+      <link>https://www.understandingreligion.org.uk/p/islam/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Judaism</title>
+      <link>https://www.understandingreligion.org.uk/p/judaism/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/judaism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mircea Eliade</title>
+      <link>https://www.understandingreligion.org.uk/p/mircea-eliade/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/mircea-eliade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ninian Smart</title>
+      <link>https://www.understandingreligion.org.uk/p/ninian-smart/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/ninian-smart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rastafari Movement</title>
+      <link>https://www.understandingreligion.org.uk/p/rastafari-movement/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/rastafari-movement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rudolf Otto</title>
+      <link>https://www.understandingreligion.org.uk/p/rudolf-otto/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/rudolf-otto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sikhi (Sikhism)</title>
+      <link>https://www.understandingreligion.org.uk/p/sikhi/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/sikhi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Taoism</title>
+      <link>https://www.understandingreligion.org.uk/p/taoism/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/taoism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What is religion?</title>
+      <link>https://www.understandingreligion.org.uk/p/what-is-religion/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/what-is-religion/</guid>
       <description>The first step in the study of any subject is to define our terms, draw a line around the area we’re interested in, and decide how we’ll investigate.
 Just like any other subject, the method of investigation will influence the type of results we achieve.
 To borrow a metaphor from the world of science: if we use a telescope, we only see things that are large and far away; if we use a microscope, we only see things that are small and close.</description>
+    </item>
+    
+    <item>
+      <title>Zoroastrianism</title>
+      <link>https://www.understandingreligion.org.uk/p/zoroastrianism/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/zoroastrianism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Émile Durkheim</title>
+      <link>https://www.understandingreligion.org.uk/p/emile-durkheim/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/emile-durkheim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/ahura-mazda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/ahura-mazda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/allah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/allah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/animism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/animism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/austerities/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/austerities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/bhagavad-gita/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/bhagavad-gita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/bodh-gaya/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/bodh-gaya/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/brahma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/brahma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/brahman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/brahman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/brahmin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/brahmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/carl-jung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/carl-jung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/chanting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/chanting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/christian-bible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/christian-bible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/church/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/church/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/dharma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/dharma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/el/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/el/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/elohim/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/elohim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/glastonbury/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/glastonbury/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/guru-granth-sahib/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/guru-granth-sahib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/guru-nanak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/guru-nanak/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/gurudwara/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/gurudwara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/hebrew-bible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/hebrew-bible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/hymns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/hymns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/imam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/imam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/jehovah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/jehovah/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/jerusalem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/jerusalem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/jesus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/jesus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/jewish-temple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/jewish-temple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/kabir/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/kabir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/karen-armstrong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/karen-armstrong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/kirtan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/kirtan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/lao-tzu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/lao-tzu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/mahabharata/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/mahabharata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/mantra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/mantra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/mecca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/mecca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/meditation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/meditation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/monotheism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/monotheism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/mosque/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/mosque/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/muhammad/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/muhammad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/nancy-ammerman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/nancy-ammerman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/new-testament/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/new-testament/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/old-testament/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/old-testament/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/panpsychism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/panpsychism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/pantheism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/pantheism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/pascal-boyer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/pascal-boyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/pentateuch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/pentateuch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/pilgrimmage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/pilgrimmage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/polytheism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/polytheism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/prayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/prayer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/priest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/priest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/ramayana/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/ramayana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/regina-jonas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/regina-jonas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/siddartha-gautama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/siddartha-gautama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/sigmund-freud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/sigmund-freud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/tanakh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/tanakh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/thomas-aquinas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/thomas-aquinas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/trimurti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/trimurti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/trinity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/trinity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/vedas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/vedas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/worship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/worship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/yhwh/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/yhwh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.understandingreligion.org.uk/p/yoga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/yoga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About the project</title>
+      <link>https://www.understandingreligion.org.uk/m/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/m/about/</guid>
+      <description>The project is developed by the Online Centre for Religious Studies (https://oc-rs.org), but you can help!
+We need contributors and editors to write and review content - if you want to get involved, use the contact form below.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Religious Studies</title>
+      <link>https://www.understandingreligion.org.uk/b/introduction-to-religious-studies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/b/introduction-to-religious-studies/</guid>
+      <description></description>
     </item>
     
   </channel>

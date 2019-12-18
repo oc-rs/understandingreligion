@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Understanding Religion</title>
+    <link>https://www.understandingreligion.org.uk/m/</link>
+    <description>Recent content on Understanding Religion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://www.understandingreligion.org.uk/m/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About the project</title>
+      <link>https://www.understandingreligion.org.uk/m/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/m/about/</guid>
+      <description>The project is developed by the Online Centre for Religious Studies (https://oc-rs.org), but you can help!
+We need contributors and editors to write and review content - if you want to get involved, use the contact form below.</description>
+    </item>
+    
+  </channel>
+</rss>

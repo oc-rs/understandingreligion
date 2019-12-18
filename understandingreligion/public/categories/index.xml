@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Understanding Religion</title>
@@ -6,9 +6,46 @@
     <description>Recent content in Categories on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Wed, 18 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Perspectives</title>
+      <link>https://www.understandingreligion.org.uk/categories/perspectives/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/perspectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traditions</title>
+      <link>https://www.understandingreligion.org.uk/categories/traditions/</link>
+      <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/traditions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Questions</title>
+      <link>https://www.understandingreligion.org.uk/categories/questions/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scholars</title>
+      <link>https://www.understandingreligion.org.uk/categories/scholars/</link>
+      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/scholars/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

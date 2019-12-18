@@ -1,6 +1,16 @@
 ---
 Title: "What is religion?"
 Abstract: "Although at first glance, you might think that religion is an easy to understand concept - it becomes very difficult to pin down, the more you look at it. There are lots of possible definitions, but none of them are 100% right."
+Categories: ['Questions']
+Tags: []
+Date: 2019-12-14
+LastModifiedDate: 
+
+Books:
+  - Name: "Book1"
+    Link: "/books/book1"
+    NextPageLink: "#"
+    PrevPageLink: "#"
 ---
 
 The first step in the study of any subject is to define our terms, draw a line around the area we’re interested in, and decide how we’ll investigate.
@@ -67,5 +77,13 @@ Durkheim also defines a key concept (sacred things) as 'things set apart and for
 
 Do you think this is a suitable definition of the sacred? What does the word mean to you? Does Durkheim's definition leave room for an unseen reality, or is he claiming that the sacred is purely a human convention?
 
-#### References
-Durkheim, E. (1995 [1912]) The Elementary Forms of Religious Life (trans. K. Fields), New York, The Free Press.
+<article class="message is-info">
+    <div class="message-header">
+        <p>References</p>
+    </div>
+    <div class="message-body">
+        <ul>
+            <li>Durkheim, E. (1995 [1912]) The Elementary Forms of Religious Life (trans. K. Fields), New York, The Free Press.</li>
+        </ul>
+    </div>
+</article>
