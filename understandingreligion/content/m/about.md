@@ -12,14 +12,14 @@ We need contributors and editors to write and review content - if you want to ge
 <div class="field">
   <label for="name" class="label">Name</label>
   <div class="control">
-    <input class="input" type="text" id="name" placeholder="Tell us your name...">
+    <input name="name" class="input" type="text" id="name" placeholder="Tell us your name...">
   </div>
 </div>
 
 <div class="field">
   <label class="label">Email</label>
   <div class="control has-icons-left has-icons-right">
-    <input for="email" class="input" type="email" id="email" placeholder="you@email.com" value="">
+    <input name="email" for="email" class="input" type="email" id="email" placeholder="you@email.com" value="">
     <span class="icon is-small is-left">
       <i class="fas fa-envelope"></i>
     </span>
@@ -29,14 +29,14 @@ We need contributors and editors to write and review content - if you want to ge
 <div class="field">
   <label for="message" class="label">Message</label>
   <div class="control">
-    <textarea class="textarea" id="message" placeholder="Now this is a story all about how..."></textarea>
+    <textarea name="message" class="textarea" id="message" placeholder="Now this is a story all about how..."></textarea>
   </div>
 </div>
 
 <div class="field">
   <div class="control">
     <label for="terms" class="checkbox">
-      <input id="terms" type="checkbox">
+      <input name="terms" id="terms" type="checkbox">
       I agree to the <a target="_blank" href="/m/terms/">terms and conditions</a> (opens in new window)
     </label>
   </div>
