@@ -4,13 +4,25 @@ Abstract: "Although at first glance, you might think that religion is an easy to
 Categories: ['Questions']
 Tags: []
 Date: 2019-12-14
-LastModifiedDate: 
+LastModifiedDate:
+
+References:
+  - Author: Smith, H.
+    Title: The World's Religions
+    Year: 1992
+    Publisher: Harper Collins
+    Location: London
+  - Author: Durkheim, E.
+    Title: The Elementary Forms of Religious Life (trans. K. Fields)
+    Year: 1995 [1912]
+    Publisher: The Free Press
+    Location: New York
 
 Books:
-  - Name: "Book1"
-    Link: "/books/book1"
-    NextPageLink: "#"
-    PrevPageLink: "#"
+  - Name: "Introduction to Religious Studies"
+    Link: "/b/introduction-to-religious-studies/"
+    NextPageLink: "/a/sigmund-freud/"
+    PrevPageLink: "/b/introduction-to-religious-studies/"
 ---
 
 The first step in the study of any subject is to define our terms, draw a line around the area we’re interested in, and decide how we’ll investigate.
@@ -76,14 +88,3 @@ Why do you think this is?
 Durkheim also defines a key concept (sacred things) as 'things set apart and forbidden'.
 
 Do you think this is a suitable definition of the sacred? What does the word mean to you? Does Durkheim's definition leave room for an unseen reality, or is he claiming that the sacred is purely a human convention?
-
-<article class="message is-info">
-    <div class="message-header">
-        <p>References</p>
-    </div>
-    <div class="message-body">
-        <ul>
-            <li>Durkheim, E. (1995 [1912]) The Elementary Forms of Religious Life (trans. K. Fields), New York, The Free Press.</li>
-        </ul>
-    </div>
-</article>

@@ -21,41 +21,18 @@
             <h3>{{ .Params.abstract }}</h3>
         </section>
 
-        <div class="content container">
-
-        </div>
-        
-        <div class="content container">
-            
+        <section class="section">
+          <div class="container content">
             {{ .Content }}
 
-            {{ range .Params.books }}
-            <div class="card">
-              <div class="card-content">
-                <p class="title">{{ .Name }}</p>
-                <a href="{{ .Link }}">Book Contents</a>
-              </div>
-              <footer class="card-footer">
-                <p class="card-footer-item">
-                  <span>
-                    View on <a href="https://twitter.com/codinghorror/status/506010907021828096">Twitter</a>
-                  </span>
-                </p>
-                <p class="card-footer-item">
-                  <span>
-                    Share on <a href="#">Facebook</a>
-                  </span>
-                </p>
-              </footer>
-            </div>
-            {{ end }}
+            {{ partial "references.html" . }}
 
-        </div>
-            
-            
+            {{ partial "book-block.html" . }}
 
+          </div>
         </section>
 
         {{ partial "footer.html" . }}
+
     </body>
 </html>
