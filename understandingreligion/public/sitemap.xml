@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/p/ahura-mazda/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/allah/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/p/animism/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/austerities/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,7 +33,27 @@
   </url>
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/p/bhagavad-gita/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/bodh-gaya/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/brahma/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/figures/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,12 +78,27 @@
   </url>
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/categories/places/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/p/polytheism/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/categories/practices/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/p/six-articles/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/texts/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -209,36 +259,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/m/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/ahura-mazda/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/allah/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/austerities/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/bhagavad-gita/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/bodh-gaya/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/brahma/</loc>
     <priority>0</priority>
   </url>
   
