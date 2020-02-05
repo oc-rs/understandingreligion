@@ -4,7 +4,7 @@
 <p>References</p>
 </div>
 <div class="message-body">
-<ul>
+<ul style="margin-top: 0px">
     
     {{ range sort . "Author" "Asc"}}
     <li>{{ .Author }} ({{ .Year }}) <em>{{ .Title }}</em>, {{ .Location }}, {{ .Publisher }}.</li>

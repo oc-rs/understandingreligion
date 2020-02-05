@@ -1,0 +1,33 @@
+strong {
+    color: inherit;
+}
+
+p>a:link {
+    color: inherit;
+    border-bottom: 2px dotted #FA991C;
+}
+
+p>a:visited {
+    color: inherit;
+    border-bottom: 2px dotted #FA991C;
+}
+
+p>a:hover {
+    color: inherit;
+    border-bottom: 4px solid #FA991C;
+}
+
+footer p>a:link {
+    color: inherit;
+    border-bottom: 2px dotted #FFF;
+}
+
+footer p>a:visited {
+    color: inherit;
+    border-bottom: 2px dotted #FFF;
+}
+
+footer p>a:hover {
+    color: inherit;
+    border-bottom: 4px solid #FFF;
+}

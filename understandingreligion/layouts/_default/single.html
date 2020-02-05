@@ -4,7 +4,6 @@
     {{ partial "head.html" . }}
 
     <body>
-
         {{ partial "navbar.html" . }}
 
         <section style="background-color: #032539" class="hero is-small">
@@ -17,18 +16,19 @@
             </div>
         </section>
         
-        <section style="background-color: #1c768f" class="section has-text-white has-text-centered">
-            <h3>{{ .Params.abstract }}</h3>
-        </section>
+        {{ partial "abstract.html" . }}
 
-        <section class="section">
-          <div class="container content">
-            {{ .Content }}
+        <section style="background-color: #FAFAFA" class="section content">
+          <div style="background-color: #1c768f" class="container columns">
+          </div>
+          <div class="columns">
+              <div class="column is-8 is-offset-2">
+                    {{ .Content }}
 
-            {{ partial "references.html" . }}
-
-            {{ partial "book-block.html" . }}
-
+                    {{ partial "references.html" . }}
+  
+                    {{ partial "book-block.html" . }}
+              </div>
           </div>
         </section>
 

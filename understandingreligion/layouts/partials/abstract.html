@@ -1,0 +1,25 @@
+<section style="background-color: #1c768f" class="section has-text-white">
+
+    <div class="columns">
+
+        <div style="border-left: 10px solid #FA991C" class="column is-3 is-offset-1">
+
+            {{ with .Params.author }}
+            <p><span style="color: #032539">Author:</span> <a href="/a/{{ urlize . }}">{{ . }}</a></p>
+            {{ end }}
+
+            <p><span style="color: #032539">Published on:</span> {{ .PublishDate.Format "02/01/2006" }}</p>
+
+            <p><span style="color: #032539">Last modified:</span> {{ with .Params.LastModifiedDate }}{{ dateFormat "02/01/2006" . }}{{ end }}</p>
+
+        </div>
+
+
+        <div style="border-left: 10px solid #FA991C" class="column is-7">
+
+            {{ .Params.abstract}}
+
+        </div>
+
+    </div>
+</section>

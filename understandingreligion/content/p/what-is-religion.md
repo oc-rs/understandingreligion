@@ -1,10 +1,11 @@
 ---
 Title: "What is religion?"
 Abstract: "Although at first glance, you might think that religion is an easy to understand concept - it becomes very difficult to pin down, the more you look at it. There are lots of possible definitions, but none of them are 100% right."
+Author: Luke Burns
 Categories: ['Questions']
 Tags: []
-Date: 2019-12-14
-LastModifiedDate:
+PublishDate: 2019-12-14
+LastModifiedDate: 2019-12-23
 
 References:
   - Author: Smith, H.
@@ -23,6 +24,10 @@ Books:
     Link: "/b/introduction-to-religious-studies/"
     NextPageLink: "/a/sigmund-freud/"
     PrevPageLink: "/b/introduction-to-religious-studies/"
+  - Name: "The Basics"
+    Link: "/b/the-basics/"
+    NextPageLink: "/a/page/"
+    PrevPageLink: "/a/oldpage/"
 ---
 
 The first step in the study of any subject is to define our terms, draw a line around the area we’re interested in, and decide how we’ll investigate.
@@ -38,7 +43,7 @@ Getting back to religious studies, we find that the telescope/microscope princip
 #### Multidisciplinary: many ways to study
 Multidisciplinary just means that scholars from different academic backgrounds can get involved and provide different (equally valid) perspectives. A historian will have different ideas and observations to a philosopher, who in turn will work differently to an anthropologist, and they will have different skills to a sociologist!
 
-Since all of these disciplines (or ways of study) focus on different areas of human life and activity, using different methods, and drawing different conclusions, it’s especially important to make sure we understand what religion is before we start.
+Since all of these disciplines (or ways of study) focus on different areas of human life and activity, using different methods, and drawing [different conclusions](#), it’s especially important to make sure we understand what religion is before we start.
 
 But... if we start with a preconceived idea of what religion is, won’t we just pick the methods that work for our preconception and ignore the other material that might be relevant?
 
