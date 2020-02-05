@@ -29,7 +29,7 @@
                         <div class="column is-one-quarter">
                           <article class="tile is-child box">
                                 <p class="title">{{ .Title }}</p>
-                                <p class="subtitle">{{ .Params.abstract }}</p>
+                                <p class="subtitle">{{ .Params.abstract | truncate 100 }}</p>
                                 <p><a href="{{.Permalink}}">Start reading...</a></p>
                           </article>
                         </div>
