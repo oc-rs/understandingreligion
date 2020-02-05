@@ -3,17 +3,72 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/p/animism/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/belief/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/beliefs/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/islam/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/panpsychism/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/pantheism/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/polytheism/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/six-articles/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/trinity/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/p/buddhism/</loc>
     <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/buddhism/</loc>
-    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/categories/</loc>
     <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,11 +84,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/japan/</loc>
-    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/</loc>
     <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -59,11 +109,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/categories/traditions/</loc>
-    <lastmod>2019-12-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/</loc>
     <lastmod>2019-12-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -174,11 +219,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/p/allah/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/animism/</loc>
     <priority>0</priority>
   </url>
   
@@ -373,16 +413,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/p/panpsychism/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/pantheism/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/p/pascal-boyer/</loc>
     <priority>0</priority>
   </url>
@@ -394,11 +424,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/p/pilgrimmage/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/polytheism/</loc>
     <priority>0</priority>
   </url>
   
@@ -443,11 +468,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/p/trinity/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/p/vedas/</loc>
     <priority>0</priority>
   </url>
@@ -469,6 +489,14 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/m/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/a/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/a/luke-burns/</loc>
   </url>
   
   <url>

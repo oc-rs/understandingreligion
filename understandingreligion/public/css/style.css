@@ -1,18 +1,27 @@
+.ocrs-activity {
+    background-color: #2d2d2d;
+    color: #FAFAFA;
+    margin-bottom: 1cm;	
+    border-left: 7px solid #22a94b!important;
+    padding: 15px;
+    box-sizing: border-box;
+}
+
 strong {
     color: inherit;
 }
 
-p>a:link {
+p>a:link, li>a:link {
     color: inherit;
     border-bottom: 2px dotted #FA991C;
 }
 
-p>a:visited {
+p>a:visited, li>a:visited {
     color: inherit;
     border-bottom: 2px dotted #FA991C;
 }
 
-p>a:hover {
+p>a:hover, li>a:hover {
     color: inherit;
     border-bottom: 4px solid #FA991C;
 }

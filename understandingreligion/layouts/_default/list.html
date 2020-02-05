@@ -17,20 +17,24 @@
             </div>
         </section>
         
-        <section style="background-color: #1c768f" class="section has-text-white has-text-centered">
-            <h3>{{ .Params.abstract }}</h3>
-        </section>
+        {{ partial "mainpage-abstract.html" . }}
 
         <section style="background-color: #FBF3F2" class="section">
             
             <div class="container">
-                <table>
-                    {{ range .Pages }}
-                    <tr>
-                        <td><a href="{{.Permalink}}">{{.Title}}</a></td>
-                    </tr>
-                    {{ end }}
-                </table>
+
+
+                <div class="columns is-multiline is-mobile">
+                        {{ range .Pages }}
+                        <div class="column is-one-quarter">
+                          <article class="tile is-child box">
+                                <p class="title">{{ .Title }}</p>
+                                <p class="subtitle">{{ .Params.abstract }}</p>
+                                <p><a href="{{.Permalink}}">Start reading...</a></p>
+                          </article>
+                        </div>
+                        {{ end }}
+                      </div>
 
             </div>
             
