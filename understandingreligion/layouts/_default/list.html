@@ -17,18 +17,29 @@
             </div>
         </section>
         
-        {{ partial "mainpage-abstract.html" . }}
+        <section style="background-color: #1c768f" class="section has-text-white">
+
+            <div class="columns">
+        
+                <div style="border-left: 10px solid #FA991C" class="column is-8 is-offset-2">
+        
+                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Search the {{ .Title }} category..." onkeyup="search()">
+        
+                </div>
+        
+            </div>
+        </section>
 
         <section style="background-color: #FBF3F2" class="section">
             
             <div class="container">
 
 
-                <div class="columns is-multiline is-mobile">
+                <div class="columns is-multiline">
                         {{ range .Pages }}
-                        <div class="column is-one-quarter">
+                        <div class="item column is-one-quarter">
                           <article class="tile is-child box">
-                                <p class="title">{{ .Title }}</p>
+                                <p class="title item-header">{{ .Title }}</p>
                                 <p class="subtitle">{{ .Params.abstract | truncate 100 }}</p>
                                 <p><a href="{{.Permalink}}">Start reading...</a></p>
                           </article>
