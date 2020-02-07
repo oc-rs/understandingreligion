@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+
+        <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Guru Tegh Bahadur</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+        <link rel="stylesheet" href="/css/style.css">
+        <script>
+          document.addEventListener('DOMContentLoaded', () => {
+            
+            const $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
+            
+            if ($navbarBurgers.length > 0) {
+              
+              $navbarBurgers.forEach( el => {
+                el.addEventListener('click', () => {
+                  
+                  const target = el.dataset.target;
+                  const $target = document.getElementById(target);
+                  
+                  el.classList.toggle('is-active');
+                    $target.classList.toggle('is-active');
+                });
+              });
+            }
+          });
+        </script>
+        <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+        <script type="text/javascript" src="/js/main.js"></script>
+    </head>
+
+
+    <body>
+        
+<nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+        <img src="https://www.oc-rs.org/img/logo-2018-illustrated-notext.jpg" style="border-radius: 250px" width="40" height="40">
+        </a>
+    
+        <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+        </a>
+    </div>
+    <div class="navbar-menu" id="navMenu">
+        <div class="navbar-start">
+        <a href="/" class="navbar-item">
+            Home
+        </a>
+    
+        <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+                Scholarship
+            </a>
+
+            <div class="navbar-dropdown">
+                <a href="/categories/questions/" class="navbar-item">
+                Key Questions
+                </a>
+                <a href="/categories/perspectives/" class="navbar-item">
+                Perspectives
+                </a>
+                <a href="/categories/scholars/" class="navbar-item">
+                Scholars
+                </a>
+            </div>
+        </div>
+        
+        <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
+                Areas of Study
+            </a>
+
+            <div class="navbar-dropdown">
+                
+                <a href="/categories/beliefs" class="navbar-item">
+                    Beliefs
+                </a>
+                <a href="/categories/clothing/" class="navbar-item">
+                    Clothing
+                </a>
+                <a href="/categories/communities/" class="navbar-item">
+                    Communities
+                </a>
+                <a href="/categories/entheogens/" class="navbar-item">
+                    Entheogens
+                </a>
+                <a href="/categories/figures/" class="navbar-item">
+                    Figures
+                </a>
+                <a href="/categories/food/" class="navbar-item">
+                    Food
+                </a>
+                <a href="/categories/objects/" class="navbar-item">
+                    Objects
+                </a>
+                <a href="/categories/places/" class="navbar-item">
+                    Places
+                </a>
+                <a href="/categories/practices/" class="navbar-item">
+                    Practices
+                </a>
+                <a href="/categories/sounds/" class="navbar-item">
+                    Sounds
+                </a>
+                <a href="/categories/texts/" class="navbar-item">
+                    Texts
+                </a>
+                <a href="/categories/traditions/" class="navbar-item">
+                    Traditions
+                </a>
+            </div>
+        </div>
+
+        <a href="/b/" class="navbar-item">
+            Books
+        </a>
+
+        <a href="/m/about/" class="navbar-item">
+            About Us
+        </a>
+
+        </div>
+        </div>
+    </nav>
+
+        <section style="background-color: #032539" class="hero is-small">
+            <div class="hero-body">
+                <div class="container has-text-white has-text-centered">
+                    <h1 class="title has-text-white is-size-1">
+                    Guru Tegh Bahadur
+                    </h1>
+                </div>
+            </div>
+        </section>
+        
+        <section style="background-color: #1c768f" class="section has-text-white">
+
+    <div class="columns">
+
+        <div style="border-left: 10px solid #FA991C" class="column is-3 is-offset-1">
+
+            
+
+            <p><span style="color: #032539">Published on:</span> 07/02/2020</p>
+
+            <p><span style="color: #032539">Last modified:</span> 07/02/2020</p>
+
+        </div>
+
+
+        <div style="border-left: 10px solid #FA991C" class="column is-7">
+
+            
+
+        </div>
+
+    </div>
+</section>
+
+        <section style="background-color: #FAFAFA" class="section content">
+          <div style="background-color: #1c768f" class="container columns">
+          </div>
+          <div class="columns">
+              <div class="column is-8 is-offset-2">
+                    
+
+                    
+  
+                    
+              </div>
+          </div>
+        </section>
+
+        <footer class="section" style="background-color: #FA991C; color: #000000">
+    <div class="columns is-vcentered has-text-centered">
+        <div class="column">
+            <p><strong>Understanding Religion</strong> | a project by the <a href="https://oc-rs.org">Online Centre for Religious Studies</a></p>
+            <br><p>Website content licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a></p>
+        </div>
+    </div>
+</footer>
+
+    </body>
+</html>

@@ -1,6 +1,6 @@
 ---
 Title: About the project
-Abstract: "Understanding Religion is a website aimed at providing clean and simple access to information relating to the study of religion. Always free, written clearly for a wide audience, grounded in academic study and supported by references for those who want to dive deeper."
+Abstract: "Understanding Religion is a website aimed at providing easy access to information about the study of religion. Always free, written clearly for a wide audience, grounded in academic study and supported by references for those who want to dive deeper."
 ---
 
 The project is developed by the Online Centre for Religious Studies (https://oc-rs.org), but you can help!

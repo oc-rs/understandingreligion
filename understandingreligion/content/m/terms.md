@@ -16,3 +16,6 @@ If you happen to find a mistake - please let us know!
 
 #### Who runs this thing?
 Understanding Religion is a project by the Online Centre for Religious Studies, [come talk to us :)](https://oc-rs.org/contact)
+
+#### Where are the cookies?
+We don't use cookies on this site, so there are no annoying pop-ups asking for your permission. Unless you meant real cookies? We have those. They're in the biscuit tin.

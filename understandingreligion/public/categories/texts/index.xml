@@ -6,10 +6,19 @@
     <description>Recent content in Texts on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/categories/texts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gathas</title>
+      <link>https://www.understandingreligion.org.uk/p/gathas/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/gathas/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bhagavad Gita</title>
@@ -17,6 +26,24 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/p/bhagavad-gita/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lankavatara Sutra</title>
+      <link>https://www.understandingreligion.org.uk/p/lankavatara-sutra/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/lankavatara-sutra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lotus Sutra</title>
+      <link>https://www.understandingreligion.org.uk/p/lotus-sutra/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/lotus-sutra/</guid>
       <description></description>
     </item>
     
@@ -44,6 +71,15 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/p/old-testament/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quran</title>
+      <link>https://www.understandingreligion.org.uk/p/quran/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/quran/</guid>
       <description></description>
     </item>
     
