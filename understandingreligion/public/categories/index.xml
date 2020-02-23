@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 07 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Islam</title>
+      <link>https://www.understandingreligion.org.uk/categories/islam/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/islam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Texts</title>
+      <link>https://www.understandingreligion.org.uk/categories/texts/</link>
+      <pubDate>Sat, 22 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/texts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Entheogens</title>
@@ -66,15 +84,6 @@
     </item>
     
     <item>
-      <title>Texts</title>
-      <link>https://www.understandingreligion.org.uk/categories/texts/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/texts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Traditions</title>
       <link>https://www.understandingreligion.org.uk/categories/traditions/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
@@ -89,15 +98,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/categories/beliefs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Islam</title>
-      <link>https://www.understandingreligion.org.uk/categories/islam/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/islam/</guid>
       <description></description>
     </item>
     

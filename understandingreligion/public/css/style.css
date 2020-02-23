@@ -1,10 +1,21 @@
 .ocrs-activity {
-    background-color: #2d2d2d;
-    color: #FAFAFA;
-    margin-bottom: 1cm;	
     border-left: 7px solid #22a94b!important;
-    padding: 15px;
-    box-sizing: border-box;
+    margin-bottom:20px;
+}
+
+.ocrs-definition {
+    border-left: 7px solid #032539!important;
+    margin-bottom:20px;
+}
+
+blockquote {
+    background-color:#fff!important;
+    box-shadow:0 .5em 1em -.125em rgba(10,10,10,.1),0 0 0 1px rgba(10,10,10,.02);
+    color:#4a4a4a;
+    max-width:100%;
+    position:relative;
+    border-left: 7px solid #FFC500!important;
+    margin-bottom:20px;
 }
 
 strong {
@@ -25,6 +36,8 @@ p>a:hover, li>a:hover {
     color: inherit;
     border-bottom: 4px solid #FA991C;
 }
+
+
 
 footer p>a:link {
     color: inherit;

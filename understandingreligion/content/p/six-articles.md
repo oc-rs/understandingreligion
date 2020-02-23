@@ -29,7 +29,21 @@ The Islamic principle of *Iman*, or faith, is composed of six items, which Musli
 
 References to these six articles of faith are frequently made in Islamic publications - for example, take a look at this information page from the Enfield Islamic Centre's website and see if you can find where the articles are mentioned: http://www.enfieldislamiccentre.org.uk/about-islam
 
-The origin of these six beliefs go back to an event recorded in the *ahadith* - these texts are reported stories about Muhammad, and are frequently used to fill in details about the life of the prophet, and also to provide guidance on points not directly addressed by the Qur'an.
+The origin of these six beliefs go back to an event recorded in the *ahadith*.
+
+<div class="card ocrs-definition">
+  <div class="card-content">
+    <p class="title">
+      AHADITH
+    </p>
+    <p class="subtitle">
+      The ahadith are texts containing reported stories about Muhammad, and are frequently used to fill in details about the life of the prophet; they also provide guidance on points not directly addressed by the Qur'an.
+    </p>
+    <p class="subtitle">
+      <a href="/p/ahadith/">Full article</a>
+    </p>
+  </div>
+</div>
 
 There are two *ahadith* in particular which describe an encounter between Muhammad and the angel Jibril (Gabriel). During this encounter, the angel asks for an explanation of the three different aspects of Islam (islam, iman, ihsan), and this is where the six articles of faith are clearly laid out.
 
@@ -40,15 +54,27 @@ You can read these ahadith online using the links below:
 
 However, in some cases, following these beliefs - even if in accordance with *islam* and *ihsan* - can lead to issues if *other* beliefs or practices contradict established Islamic traditions.
 
-We can see an example of this in the Ahmadiyya Muslim Community in the UK. This group follows the same articles of faith as the rest of the Islamic world, but *also* believes that a man called Mirza Ghulam Ahmad, who lived during the late 1800's and early 1900's, was the prophesied return of the Messiah (i.e. saviour) and Mahdi (redeemer of Islam). Whilst this idea of a redeeming figure is a generally accepted belief in mainstream Islam, this *specific*individual was not acknowledged by the vast majority of Muslims.
+We can see an example of this in the Ahmadiyya Muslim Community in the UK. This group follows the same articles of faith as the rest of the Islamic world, but *also* believes that a man called Mirza Ghulam Ahmad, who lived during the late 1800's and early 1900's, was the prophesied return of the Messiah (i.e. saviour) and Mahdi (redeemer of Islam). Whilst this idea of a redeeming figure is a generally accepted belief in mainstream Islam, this *specific* individual was not acknowledged by the vast majority of Muslims.
 
-<p class="ocrs-activity">To see this division in a real world context, take a moment now to read <a href="http://www.loveforallhatredfornone.org/the-muslim-council-of-britain-has-officially-decided-im-not-islamic-enough-but-i-never-did-anything-wrong/" target="_blank">this account written by Waqar Ahmedi</a>, who is speaking from an Ahmadi perspective, discussing his experiences with the Muslim Council of Britain.<br><br>Now compare this to the official position of the Muslim Council of Britain (published shortly before Ahmedi's piece) and see whether there are any interesting points regarding belief, specifically the six articles of faith, and where there might be points of disagreement: <a href="https://mcb.org.uk/mcb-updates/position-statement-the-muslim-council-of-britain-and-ahmadis/" target="_top">https://mcb.org.uk/mcb-updates/position-statement-the-muslim-council-of-britain-and-ahmadis/</a>
+<div class="card ocrs-activity">
+  <div class="card-content">
+    <p class="content">
+        To see this division in a real world context, take a moment now to read <a href="http://www.loveforallhatredfornone.org/the-muslim-council-of-britain-has-officially-decided-im-not-islamic-enough-but-i-never-did-anything-wrong/" target="_blank">this account written by Waqar Ahmedi</a>, who is speaking from an Ahmadi perspective, discussing his experiences with the Muslim Council of Britain.<br><br>Now compare this to the official position of the Muslim Council of Britain (published shortly before Ahmedi's piece) and see whether there are any interesting points regarding belief, specifically the six articles of faith, and where there might be points of disagreement: <a href="https://mcb.org.uk/mcb-updates/position-statement-the-muslim-council-of-britain-and-ahmadis/" target="_top">https://mcb.org.uk/mcb-updates/position-statement-the-muslim-council-of-britain-and-ahmadis/</a>
+    </p>
+  </div>
+</div>
 
 As you can see, the critical issue here is the finality of Muhammad as the last prophet, however the Ahmadis do not technically refer to their founder as a prophet - instead he is only ever called the Messiah and Mahdi.
 
-<p class="ocrs-activity">Why do you think this distinction still does not satisfy the conditions of the MCB?
+<div class="card ocrs-activity">
+  <div class="card-content">
+    <p class="content">
+        Why do you think this distinction still does not satisfy the conditions of the MCB?
+    </p>
+  </div>
+</div>
 
-#### Additional reading
+## Additional reading
 
 If you would like to read more about the relationship between islam, iman, and ihsan, you can download and read this article: <a href="https://oc-rs.org/files/Burns-Iman-in-Islam-2018.pdf" target="_BLANK">Iman in Islam: faith and practice in Islamic religion</a>.
 
