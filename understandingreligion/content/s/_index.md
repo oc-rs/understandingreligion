@@ -1,4 +1,4 @@
 ---
-Title: Sources
-Abstract: Useful articles, books, and online resources.
+Title: "Sources"
+Abstract: "Useful articles, books, and online resources."
 ---

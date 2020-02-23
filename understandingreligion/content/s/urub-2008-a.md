@@ -9,7 +9,7 @@ Location: Oxon
 
 Reference: Urubshurow, V.K. (2008) Introducing World Religions, Oxon, Routledge.
 
-Abstract: A useful textbook on religious studies, surveying traditions from around the world.
+Abstract: A textbook on religious studies, surveying traditions from around the world.
 
 Categories: 'Sources'
 ---
