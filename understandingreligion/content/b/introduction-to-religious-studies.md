@@ -10,7 +10,7 @@ LastModifiedDate: 2019-12-23
 
 This book introduces the key concepts of contemporary religious studies, along with discussing some relevant examples and case studies.
 
-* [Introduction](/c/irs-1/)
+* [Welcome](/c/irs-1/)
 * [What is religion?](/p/what-is-religion/)
 * [Belief](/p/belief/)
 * [How many religions are there?](/a/how-many-religions/)

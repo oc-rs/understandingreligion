@@ -18,6 +18,7 @@ Books:
 
 ---
 
+## Believing in the unseen
 One of the most prominent and well-known aspects of religion in the Western world is **faith**. This term often comes with a variety of associated meanings and implications, but at its root we can say that faith involves *belief in a set of doctrines or creeds which provide meaning and direction, often in the absence of empirical evidence.*
 
 Since the relationship between religious belief and scientific empiricism has often been contentious, it's worthwhile looking a little more closely at how people believe in things, and what this means.
