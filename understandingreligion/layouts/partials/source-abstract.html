@@ -1,0 +1,25 @@
+<section style="background-color: #1c768f" class="section has-text-white">
+
+    <div class="columns">
+
+        <div style="border-left: 10px solid #FA991C" class="column is-3 is-offset-1">
+
+            <p><span style="color: #032539">Author(s):</span> {{ .Params.sourceauthor }}</p>
+
+            <p><span style="color: #032539">Published in:</span> {{ .Params.year }}</p>
+
+            <p><span style="color: #032539">Published by:</span> {{ .Params.publisher }}</p>
+
+            <p><span style="color: #032539">Location:</span> {{ .Params.location }}</p>
+
+        </div>
+
+
+        <div style="border-left: 10px solid #FA991C" class="column is-7">
+
+            {{ .Params.abstract }}
+
+        </div>
+
+    </div>
+</section>

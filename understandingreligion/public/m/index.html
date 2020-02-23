@@ -29,6 +29,8 @@
         </script>
         <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
         <script type="text/javascript" src="/js/main.js"></script>
+        <script type="text/javascript" src="/js/clipboard.js"></script>
+        
     </head>
 
 
@@ -67,6 +69,9 @@
                 </a>
                 <a href="/categories/scholars/" class="navbar-item">
                 Scholars
+                </a>
+                <a href="/categories/sources/" class="navbar-item">
+                Sources
                 </a>
             </div>
         </div>
@@ -141,35 +146,42 @@
         
         <section style="background-color: #1c768f" class="section has-text-white">
 
-    <div class="columns">
+            <div class="columns">
+        
+                <div style="border-left: 10px solid #FA991C" class="column is-8 is-offset-2">
 
-        <div style="border-left: 10px solid #FA991C" class="column is-8 is-offset-2">
-
-            Information about the site.
-
-        </div>
-
-    </div>
-</section>
+                    
+                    <h2 class="subtitle has-text-white">Information about the site.</h2>
+                    
+        
+                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Search the Main Pages category..." onkeyup="search()">
+        
+                </div>
+        
+            </div>
+        </section>
 
         <section style="background-color: #FBF3F2" class="section">
             
             <div class="container">
 
+
                 <div class="columns is-multiline">
                         
-                        <div class="column is-one-quarter">
+                        <div class="item column is-one-quarter">
                           <article class="tile is-child box">
-                                <p class="title">About the project</p>
-                                <p class="subtitle">Understanding Religion is a website aimed at providing easy access to information about the study of …</p>
+                                <p class="title item-header">About the project</p>
+                                
+                                <p>Understanding Religion is a website aimed at providing easy access to information about the study of …</p>
                                 <p><a href="https://www.understandingreligion.org.uk/m/about/">Start reading...</a></p>
                           </article>
                         </div>
                         
-                        <div class="column is-one-quarter">
+                        <div class="item column is-one-quarter">
                           <article class="tile is-child box">
-                                <p class="title">Terms and Conditions</p>
-                                <p class="subtitle">The boring bits...</p>
+                                <p class="title item-header">Terms and Conditions</p>
+                                
+                                <p>The boring bits...</p>
                                 <p><a href="https://www.understandingreligion.org.uk/m/terms/">Start reading...</a></p>
                           </article>
                         </div>

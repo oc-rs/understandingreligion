@@ -1,4 +1,4 @@
 ---
-Title: "Key Questions"
-Abstract: "Key questions about religion and spirituality"
+Title: "Pages"
+Abstract: "All pages, all categories"
 ---

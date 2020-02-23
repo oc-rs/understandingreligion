@@ -22,6 +22,10 @@
             <div class="columns">
         
                 <div style="border-left: 10px solid #FA991C" class="column is-8 is-offset-2">
+
+                    {{ if (isset .Params "abstract") }}
+                    <h2 class="subtitle has-text-white">{{ .Params.abstract}}</h2>
+                    {{ end }}
         
                     <input id="searchbox" class="input is-size-4" type="text" placeholder="Search the {{ .Title }} category..." onkeyup="search()">
         
@@ -40,7 +44,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 <p class="title item-header">{{ .Title }}</p>
-                                <p class="subtitle">{{ .Params.abstract | truncate 100 }}</p>
+                                {{ if (eq .Params.source true) }}
+                                <p class="subtitle">{{ .Params.sourceauthor }} ({{ .Params.year }})</p>
+                                {{ end }}
+                                <p>{{ .Params.abstract | truncate 100 }}</p>
                                 <p><a href="{{.Permalink}}">Start reading...</a></p>
                           </article>
                         </div>

@@ -17,12 +17,18 @@
             </div>
         </section>
         
-        {{ partial "mainpage-abstract.html" . }}
+        <section style="background-color: #1c768f" class="section has-text-white">
+            <div class="columns">
+                <div style="border-left: 10px solid #FA991C" class="column is-8 is-offset-2">
+                    {{ .Params.abstract}}
+                </div>        
+            </div>
+        </section>
 
         <section style="background-color: #FBF3F2" class="section">
             
             <div class="container">
-
+        
                 <div class="columns is-multiline">
                         {{ range .Pages }}
                         <div class="column is-one-quarter">
@@ -34,7 +40,7 @@
                         </div>
                         {{ end }}
                       </div>
-
+        
             </div>
             
         </section>

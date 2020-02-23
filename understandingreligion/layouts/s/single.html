@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+    {{ partial "head.html" . }}
+
+    <body>
+        {{ partial "navbar.html" . }}
+
+        <section style="background-color: #032539" class="hero is-small">
+            <div class="hero-body">
+                <div class="container has-text-white has-text-centered">
+                    <h1 class="title has-text-white is-size-1">
+                    {{ .Title }}
+                    </h1>
+                </div>
+            </div>
+        </section>
+        
+        {{ partial "source-abstract.html" . }}
+
+        <section style="background-color: #FAFAFA" class="section content">
+          <div style="background-color: #1c768f" class="container columns">
+          </div>
+          <div class="columns">
+                <div class="column is-8 is-offset-2">
+                    {{ .Content }}
+                    <p>{{ .Params.reference }}</p>
+                    <button id="copy" class="button" data-clipboard-text="{{ .Params.reference }}">Copy to clipboard</button>
+                    <div class="tooltip">
+                        <span id="message" class="tooltiptext">Reference copied!</span>
+                    </div>
+                </div>
+          </div>
+        </section>
+
+        {{ partial "footer.html" . }}
+
+        <script>
+            var clipboard = new ClipboardJS('.button');
+      
+            clipboard.on('success', function(e) {
+                console.info('Action:', e.action);
+                console.info('Text:', e.text);
+                console.info('Trigger:', e.trigger);
+            
+                e.clearSelection();
+            });
+            
+            clipboard.on('error', function(e) {
+                console.error('Action:', e.action);
+                console.error('Trigger:', e.trigger);
+            });
+
+            document.getElementById("copy").addEventListener("click",function(){
+                document.getElementsByClassName("tooltip")[0].style.visibility = "visible";
+                document.getElementsByClassName("tooltiptext")[0].style.visibility = "visible";
+            });
+            
+            </script>
+
+     </body>
+</html>
