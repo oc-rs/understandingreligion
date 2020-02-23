@@ -185,6 +185,74 @@
           </div>
         </section>
 
+        <div class="level floating report" id="report">
+            <div class="level-item">
+                <p>?</p>
+            </div>
+        </div>
+
+        <div class="modal">
+        <div class="modal-background"></div>
+        <div class="modal-content">
+            <div class="box">
+                <h2 class="subtitle">Something wrong? Let us know!</h2>
+                <form name="report" method="POST" data-netlify="true">
+
+                    <div class="field">
+                        <label for="name" class="label">Name</label>
+                        <div class="control">
+                        <input name="name" class="input" type="text" id="name" placeholder="Tell us your name...">
+                        </div>
+                    </div>
+                    
+                    <div class="field">
+                        <label class="label">Email</label>
+                        <div class="control has-icons-left has-icons-right">
+                        <input name="email" for="email" class="input" type="email" id="email" placeholder="you@email.com" value="">
+                        <span class="icon is-small is-left">
+                            <i class="fas fa-envelope"></i>
+                        </span>
+                        </div>
+                    </div>
+
+                    <div class="field">
+                        <label for="page" class="label">Page</label>
+                        <div class="control">
+                        <input name="page" class="input" id="page" value="https://www.understandingreligion.org.uk/p/synagogue/" readonly>
+                        </div>
+                    </div>
+                    
+                    <div class="field">
+                        <label for="message" class="label">Message</label>
+                        <div class="control">
+                        <textarea name="message" class="textarea" id="message" placeholder="I have a question about the Synagogue page..."></textarea>
+                        </div>
+                    </div>
+                    
+                    <div class="field">
+                        <div class="control">
+                        <label for="terms" class="checkbox">
+                            <input name="terms" id="terms" type="checkbox">
+                            I agree to the <a target="_blank" href="/m/terms/">terms and conditions</a> (opens in new window)
+                        </label>
+                        </div>
+                    </div>
+                    
+                    <div class="field is-grouped">
+                        <div class="control">
+                        <button class="button is-link">Submit</button>
+                        </div>
+                        <div class="control">
+                        <button class="button is-link is-light">Cancel</button>
+                        </div>
+                    </div>
+                    
+                </form>
+            </div>
+        </div>
+        <button id="close-report" class="modal-close is-large" aria-label="close"></button>
+        </div>
+
         <footer class="section" style="background-color: #FA991C; color: #000000">
     <div class="columns is-vcentered has-text-centered">
         <div class="column">
@@ -193,6 +261,16 @@
         </div>
     </div>
 </footer>
+
+        <script>
+            document.getElementById("report").addEventListener("click",function(){
+                document.getElementsByClassName("modal")[0].className += " is-active";
+            });
+
+            document.getElementById("close-report").addEventListener("click",function(){
+                document.getElementsByClassName("modal")[0].className = "modal";
+            });
+        </script>
 
     </body>
 </html>

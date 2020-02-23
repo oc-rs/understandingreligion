@@ -46,6 +46,32 @@ blockquote {
     visibility: none;
 }
 
+.floating {
+    position: fixed;
+    bottom: 30px;
+    right: 50px;
+    width: 100px;
+    height: 100px;
+    border-radius: 90px;
+}
+
+.report {
+    background-color: #FDD9AA;
+    border: 1px solid #FA991C;
+    color: white;
+    font-size: 3rem;
+}
+
+.report:hover {
+    background-color: #FA991C;
+    border: 1px solid #FDD9AA;
+    color: white;
+    font-size: 3rem;
+    cursor: pointer;
+}
+
+
+
 strong {
     color: inherit;
 }
