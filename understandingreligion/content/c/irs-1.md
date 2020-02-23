@@ -34,7 +34,7 @@ My aim, in writing the course material, is to present information in as clear a 
 
 Don't worry if that's gibberish, it's just there in case you want to read more from the original source of information. You don't have to!
 
->Some quotes will be more substantial, and will stand out like this. Bumble bees are quite lovely, aren't they?.<br><br>**Burns, 2020, Online**
+>Some quotes will be more substantial, and will stand out like this. Bumble bees are quite lovely, aren't they?<br><br>**Burns, 2020, Online**
 
 The references are in the Harvard Style, and will usually have the name of the author I'm referring to, the year that whatever they wrote was published, and the page (or pages) that I took the material from. This is called an in-line reference, in case you're curious.
 
