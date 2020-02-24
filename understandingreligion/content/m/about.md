@@ -47,7 +47,7 @@ We need contributors and editors to write and review content - if you want to ge
     <button class="button is-link">Submit</button>
   </div>
   <div class="control">
-    <button class="button is-link is-light">Cancel</button>
+    <a href="#" class="button is-link is-light">Cancel</a>
   </div>
 </div>
 
