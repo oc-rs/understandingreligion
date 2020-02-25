@@ -33,14 +33,6 @@ We need contributors and editors to write and review content - if you want to ge
   </div>
 </div>
 
-<div class="field">
-  <div class="control">
-    <label for="terms" class="checkbox">
-      <input name="terms" id="terms" type="checkbox">
-      I agree to the <a target="_blank" href="/m/terms/">terms and conditions</a> (opens in new window)
-    </label>
-  </div>
-</div>
 
 <div class="field is-grouped">
   <div class="control">
