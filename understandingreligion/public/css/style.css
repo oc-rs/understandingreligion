@@ -48,10 +48,10 @@ blockquote {
 
 .floating {
     position: fixed;
-    bottom: 30px;
-    right: 50px;
-    width: 100px;
-    height: 100px;
+    bottom: 0px;
+    right: 40px;
+    margin: 0;
+    padding: 0;
     border-radius: 90px;
 }
 
@@ -59,14 +59,14 @@ blockquote {
     background-color: #FDD9AA;
     border: 1px solid #FA991C;
     color: white;
-    font-size: 3rem;
+    font-size: 3rem;;
+    width: 80px;
+    height: 80px;
 }
 
 .report:hover {
     background-color: #FA991C;
     border: 1px solid #FDD9AA;
-    color: white;
-    font-size: 3rem;
     cursor: pointer;
 }
 
@@ -91,7 +91,10 @@ p>a:hover, li>a:hover {
     border-bottom: 4px solid #FA991C;
 }
 
-
+.content p {
+    line-height: 2rem;
+    font-size: 1.1rem;
+}
 
 footer p>a:link {
     color: inherit;

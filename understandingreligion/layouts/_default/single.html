@@ -30,7 +30,7 @@
           </div>
         </section>
 
-        <div class="level floating report" id="report">
+        <div class="level is-mobile floating report" id="report">
             <div class="level-item">
                 <p>?</p>
             </div>
@@ -61,9 +61,9 @@
                     </div>
 
                     <div class="field">
-                        <label for="page" class="label">Page</label>
+                        <label style="display: none" for="page" class="label">Page</label>
                         <div class="control">
-                        <input name="page" class="input" id="page" value="{{ .Permalink }}" readonly>
+                        <input type="hidden" name="page" class="input" id="page" value="{{ .Permalink }}" readonly>
                         </div>
                     </div>
                     
@@ -74,21 +74,12 @@
                         </div>
                     </div>
                     
-                    <div class="field">
-                        <div class="control">
-                        <label for="terms" class="checkbox">
-                            <input name="terms" id="terms" type="checkbox">
-                            I agree to the <a target="_blank" href="/m/terms/">terms and conditions</a> (opens in new window)
-                        </label>
-                        </div>
-                    </div>
-                    
                     <div class="field is-grouped">
                         <div class="control">
                         <button class="button is-link">Submit</button>
                         </div>
                         <div class="control">
-                        <a href="#" class="button is-link is-light">Cancel</a>
+                        <a id="close-report-button" class="button is-link is-light">Cancel</a>
                         </div>
                     </div>
                     
@@ -106,6 +97,10 @@
             });
 
             document.getElementById("close-report").addEventListener("click",function(){
+                document.getElementsByClassName("modal")[0].className = "modal";
+            });
+
+            document.getElementById("close-report-button").addEventListener("click",function(){
                 document.getElementsByClassName("modal")[0].className = "modal";
             });
         </script>
