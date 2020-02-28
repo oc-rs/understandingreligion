@@ -13,5 +13,3 @@ Reference: Plato (1965) The Last Days of Socrates, London, Penguin Books.
 
 Abstract: 
 ---
-
-## Formatted reference

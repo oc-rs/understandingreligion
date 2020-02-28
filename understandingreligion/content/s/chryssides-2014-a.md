@@ -13,5 +13,3 @@ Reference: "Chryssides, G.D. & Greaves, R. (2014 [2007]) The Study of Religion: 
 
 Abstract: 
 ---
-
-## Formatted reference

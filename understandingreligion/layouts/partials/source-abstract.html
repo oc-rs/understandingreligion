@@ -4,13 +4,25 @@
 
         <div style="border-left: 10px solid #FA991C" class="column is-3 is-offset-1">
 
+            {{ if (isset .Params "authorpage") }}
+            <p><span style="color: #032539">Author(s):</span> <a href="{{ .Params.authorpage }}">{{ .Params.sourceauthor }}</a></p>
+            {{ else }}
             <p><span style="color: #032539">Author(s):</span> {{ .Params.sourceauthor }}</p>
+            {{ end }}
+
+            {{ if (isset .Params "translator")}}
+            <p><span style="color: #032539">Translator:</span> {{ .Params.translator }}</p>
+            {{ end }}
 
             <p><span style="color: #032539">Published in:</span> {{ .Params.year }}</p>
 
             <p><span style="color: #032539">Published by:</span> {{ .Params.publisher }}</p>
 
             <p><span style="color: #032539">Location:</span> {{ .Params.location }}</p>
+
+            {{ if (isset .Params "wikipedia") }}
+            <p><span style="color: #032539">Wikipedia:</span> <a target="_blank" href="{{ .Params.wikipedia }}">{{ .Params.title }}</a></p>
+            {{ end }}
 
         </div>
 

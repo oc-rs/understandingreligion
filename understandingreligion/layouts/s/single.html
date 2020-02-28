@@ -24,6 +24,7 @@
           <div class="columns">
                 <div class="column is-8 is-offset-2">
                     {{ .Content }}
+                    <h2>Formatted reference</h2>
                     <p>{{ .Params.reference }}</p>
                     <button id="copy" class="button" data-clipboard-text="{{ .Params.reference }}">Copy to clipboard</button>
                     <div class="tooltip">

@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/categories/beliefs/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+    <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <loc>https://www.understandingreligion.org.uk/p/james-george-frazer/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/scholars/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/texts/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/upanishads/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/wendy-doniger/</loc>
+    <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/beliefs/</loc>
     <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,11 +73,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/p/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/categories/practices/</loc>
     <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url>
@@ -53,17 +83,7 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/categories/scholars/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/p/shechita/</loc>
-    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/</loc>
     <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -84,11 +104,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/categories/islam/</loc>
-    <lastmod>2020-02-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/categories/texts/</loc>
     <lastmod>2020-02-22T00:00:00+00:00</lastmod>
   </url>
   

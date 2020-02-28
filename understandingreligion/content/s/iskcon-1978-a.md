@@ -7,11 +7,10 @@ Year: 1978 [1977]
 Publisher: The Bhaktivedanta Book Trust
 Location: London
 
-Link:
+-Wikipedia:
 
 Reference: Swami Prabhupada (1978 [1977]) The Science of Self-Realization, London, The Bhaktivedanta Book Trust.
 
 Abstract: 
 ---
-
-## Formatted reference
+You can read the full text online, via Prabhupada.io: [The Science of Self-Realization](https://prabhupada.io/books/ssr).

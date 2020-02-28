@@ -2,7 +2,7 @@
 Source: true
 
 Title: Introducing World Religions
-Sourceauthor: Urubshurow, V.K.
+Sourceauthor: Victoria Kennick Urubshurow
 Year: 2008
 Publisher: Routledge
 Location: Oxon
@@ -13,5 +13,3 @@ Abstract: A textbook on religious studies, surveying traditions from around the 
 
 Categories: 'Sources'
 ---
-
-## Formatted reference
