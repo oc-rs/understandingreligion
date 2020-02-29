@@ -6,15 +6,24 @@
     <description>Recent content in Categories on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 28 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Questions</title>
+      <link>https://www.understandingreligion.org.uk/categories/questions/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/questions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scholars</title>
       <link>https://www.understandingreligion.org.uk/categories/scholars/</link>
-      <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/categories/scholars/</guid>
       <description></description>
@@ -134,15 +143,6 @@
       <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/categories/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Questions</title>
-      <link>https://www.understandingreligion.org.uk/categories/questions/</link>
-      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/questions/</guid>
       <description></description>
     </item>
     
