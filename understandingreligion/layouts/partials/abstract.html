@@ -16,6 +16,10 @@
             <p><span style="color: #032539">Wikipedia:</span> <a target="_blank" href="{{ .Params.wikipedia }}">{{ .Params.title }}</a></p>
             {{ end }}
 
+            {{ if (isset .Params "academia") }}
+            <p><span style="color: #032539">Academia:</span> <a target="_blank" href="{{ .Params.academia }}">{{ .Params.title }}</a></p>
+            {{ end }}
+
         </div>
 
 

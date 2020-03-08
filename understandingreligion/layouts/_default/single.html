@@ -18,6 +18,10 @@
         
         {{ partial "abstract.html" . }}
 
+        {{ if (isset .Params "image" )}}
+        <img src="/img/images/{{ .Params.image }}" class="smallbanner">
+        {{ end }}
+
         <section style="background-color: #FAFAFA; margin-bottom: 0px" class="section content">
           <div class="columns">
               <div class="column is-8 is-offset-2">
