@@ -1,15 +1,20 @@
 ---
 Source: true
+Type: Book
 
 Title: "The Study of Religion: An Introduction to Key Ideas and Methods"
+
 Sourceauthor: George D. Chryssides and Ron Greaves
-Year: 2014 [2007]
+-Authorpage:
+-Editor:
+-Translator:
+
+EditionYear: 2014
+OriginalYear: 2007
+
 Publisher: Bloomsbury
 Location: London
-
-Link:
-
+-Abstract:
 Reference: "Chryssides, G.D. & Greaves, R. (2014 [2007]) The Study of Religion: An Introduction to Key Ideas and Methods, London, Bloomsbury."
-
-Abstract: 
+-Wikipedia:
 ---

@@ -14,7 +14,13 @@
             <p><span style="color: #032539">Translator:</span> {{ .Params.translator }}</p>
             {{ end }}
 
-            <p><span style="color: #032539">Published in:</span> {{ .Params.year }}</p>
+            {{ if (isset .Params "editor")}}
+            <p><span style="color: #032539">Editor(s):</span> {{ .Params.editor }}</p>
+            {{ end }}
+
+            <p><span style="color: #032539">Edition published in:</span> {{ .Params.editionyear }}</p>
+
+            <p><span style="color: #032539">Original published in:</span> {{ .Params.originalyear }}</p>
 
             <p><span style="color: #032539">Published by:</span> {{ .Params.publisher }}</p>
 

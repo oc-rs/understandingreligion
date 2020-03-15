@@ -43,12 +43,26 @@
                         {{ range .Pages.ByTitle }}
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
+                                
                                 <p class="title item-header">{{ .Title }}</p>
+                                
                                 {{ if (eq .Params.source true) }}
-                                <p class="subtitle">{{ .Params.sourceauthor }} ({{ .Params.year }})</p>
+                                <p class="subtitle">{{ .Params.sourceauthor }} ({{ .Params.originalyear }})</p>
                                 {{ end }}
+                                
                                 <p>{{ .Params.abstract | truncate 100 }}</p>
-                                <p><a href="{{.Permalink}}">Start reading...</a></p>
+                                
+                                <p style="margin-top: 5px"><a href="{{.Permalink}}">Start reading...</a></p>
+
+                                {{ if (isset .Params "tags") }}
+                                <hr>
+                                {{ else }}
+                                {{ end }}
+
+                                {{ range .Params.tags }}
+                                <span><a class="tag" href="/tags/{{ . }}">{{ . }}</a></span>&nbsp;
+                                {{ end }}
+
                           </article>
                         </div>
                         {{ end }}

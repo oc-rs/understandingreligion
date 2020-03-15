@@ -1,17 +1,21 @@
 ---
 Source: true
+Type: Book
 
-Title: The Upanishads
+Title: "The Upanishads"
+
 Sourceauthor: Anonymous
+-Authorpage:
+-Editor:
 Translator: Juan Mascaró
-Year: 1965
+
+EditionYear: 1965
+OriginalYear: 1965
+
 Publisher: Penguin Classics
 Location: London
-
-Wikipedia: https://en.wikipedia.org/wiki/Upanishads
-
-Reference: The Upanishads (trans. J. Mascaró) (1965) London, Penguin Classics.
-
 Abstract: Mascaró presents a selection of the Hindu Upanishads in English translation.
+Reference: "The Upanishads (trans. J. Mascaró) (1965) London, Penguin Classics."
+-Wikipedia:
 ---
 You can find out more about the Upanishads here: [Upanishads](/p/upanishads/).
