@@ -1,7 +1,7 @@
 ---
 Source: true
-Type: Book
-
+Sourcetype: Book
+Tags: [buddhism]
 Title: "Buddhism: A Very Short Introduction"
 
 Sourceauthor: Damien Keown
@@ -15,6 +15,6 @@ OriginalYear: 1996
 Publisher: Oxford University Press
 Location: Oxford
 Abstract: Provides a good overview of the essential points of Buddhism.
-Reference: "Keown, D. (2000) Buddhism: A Very Short Introduction, Oxford University Press, Oxford."
+Reference: "Keown, D. (2000) Buddhism: A Very Short Introduction, Oxford, Oxford University Press."
 -Wikipedia:
 ---

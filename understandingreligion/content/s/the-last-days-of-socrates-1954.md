@@ -1,7 +1,7 @@
 ---
 Source: true
-Type: Book
-
+Sourcetype: Book
+Tags: [greece,philosophy]
 Title: "The Last Days of Socrates"
 
 Sourceauthor: Plato

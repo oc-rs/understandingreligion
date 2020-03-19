@@ -1,12 +1,11 @@
 ---
 Source: true
-Sourcetype: book
-Tags: [hinduism,india,mythology,test,'sample tag',another test,a different test]
-
+Sourcetype: Book
+Tags: [hinduism,india,mythology]
 Title: "Hindu Myths"
 
 Sourceauthor: Wendy O'Flaherty
-Authorpage: "/p/wendy-doniger"
+Authorpage: /p/wendy-doniger
 -Editor:
 -Translator:
 

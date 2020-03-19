@@ -1,7 +1,7 @@
 ---
 Source: true
-Type: Book
-
+Sourcetype: Book
+Tags: [comparative religion,mythology]
 Title: "The Golden Bough: A Study in Magic and Religion"
 
 Sourceauthor: James George Frazer

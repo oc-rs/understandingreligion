@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/p/capitalist-spirituality/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/perspectives/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/self-religion/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/</loc>
+    <lastmod>2020-03-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/p/agnieszka-halemba/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/categories/</loc>
-    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/</loc>
-    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/categories/scholars/</loc>
-    <lastmod>2020-03-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/</loc>
     <lastmod>2020-03-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -339,11 +354,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/categories/objects/</loc>
-    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/categories/perspectives/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -912,11 +922,43 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/s/doniger-1980-a/</loc>
+    <loc>https://www.understandingreligion.org.uk/tags/bhakti/</loc>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/s/urub-2008-a/</loc>
+    <loc>https://www.understandingreligion.org.uk/s/buddhism-a-very-short-introduction-1996/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/christianity/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/comparative-religion/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/greece/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/hindu-myths-1975/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/hinduism/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/hinduism-a-very-short-introduction-1998/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/introducing-world-religions-2008/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/iskcon/</loc>
   </url>
   
   <url>
@@ -924,11 +966,39 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/s/julian-1982-a/</loc>
+    <loc>https://www.understandingreligion.org.uk/tags/mystic/</loc>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/categories/sources/</loc>
+    <loc>https://www.understandingreligion.org.uk/tags/mysticism/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/mythology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/philosophy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/psychology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/psychology-and-religion-1963/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-experience/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/revelations-of-divine-love-1966/</loc>
   </url>
   
   <url>
@@ -940,27 +1010,43 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/s/frazer-1978-a/</loc>
+    <loc>https://www.understandingreligion.org.uk/s/the-golden-bough-a-study-in-magic-and-religion-1922/</loc>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/s/plato-1969-a/</loc>
+    <loc>https://www.understandingreligion.org.uk/s/the-last-days-of-socrates-1954/</loc>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/s/smart-1978-a/</loc>
+    <loc>https://www.understandingreligion.org.uk/s/the-religious-experience-of-mankind-1969/</loc>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/s/iskcon-1978-a/</loc>
+    <loc>https://www.understandingreligion.org.uk/s/the-science-of-self-realization-1977/</loc>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/s/chryssides-2014-a/</loc>
+    <loc>https://www.understandingreligion.org.uk/s/the-study-of-religion-an-introduction-to-key-ideas-and-methods-2007/</loc>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/s/masc-1965-a/</loc>
+    <loc>https://www.understandingreligion.org.uk/s/the-upanishads-1965/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/vaishnavism/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/women/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/world-religions/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/yoga/</loc>
   </url>
   
 </urlset>

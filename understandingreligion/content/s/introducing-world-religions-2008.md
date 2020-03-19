@@ -1,7 +1,7 @@
 ---
 Source: true
-Type: Book
-
+Sourcetype: Book
+Tags: [religious studies,world religions]
 Title: "Introducing World Religions"
 
 Sourceauthor: Victoria Kennick Urubshurow

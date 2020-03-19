@@ -1,7 +1,7 @@
 ---
 Source: true
-Type: Book
-
+Sourcetype: Book
+Tags: [hinduism]
 Title: "The Upanishads"
 
 Sourceauthor: Anonymous

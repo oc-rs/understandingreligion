@@ -1,7 +1,7 @@
 ---
 Source: true
-Type: Book
-
+Sourcetype: Book
+Tags: [comparative religion]
 Title: "The Religious Experience of Mankind"
 
 Sourceauthor: Ninian Smart

@@ -1,7 +1,7 @@
 ---
 Source: true
-Type: Book
-
+Sourcetype: Book
+Tags: [christianity,women,mystic,mysticism,religious experience]
 Title: "Revelations of Divine Love"
 
 Sourceauthor: Julian of Norwich

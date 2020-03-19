@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>world religions on Understanding Religion</title>
+    <link>https://www.understandingreligion.org.uk/tags/world-religions/</link>
+    <description>Recent content in world religions on Understanding Religion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    
+	<atom:link href="https://www.understandingreligion.org.uk/tags/world-religions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introducing World Religions</title>
+      <link>https://www.understandingreligion.org.uk/s/introducing-world-religions-2008/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/introducing-world-religions-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Study of Religion: An Introduction to Key Ideas and Methods</title>
+      <link>https://www.understandingreligion.org.uk/s/the-study-of-religion-an-introduction-to-key-ideas-and-methods-2007/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/the-study-of-religion-an-introduction-to-key-ideas-and-methods-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

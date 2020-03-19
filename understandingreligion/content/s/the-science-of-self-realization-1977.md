@@ -1,7 +1,7 @@
 ---
 Source: true
-Type: Book
-
+Sourcetype: Book
+Tags: [bhakti,yoga,vaishnavism,iskcon]
 Title: "The Science of Self-Realization"
 
 Sourceauthor: A.C. Bhaktivedanta Swami Prabhupada

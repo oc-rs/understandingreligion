@@ -1,7 +1,7 @@
 ---
 Source: true
-Type: Book
-
+Sourcetype: Book
+Tags: [religious studies,world religions]
 Title: "The Study of Religion: An Introduction to Key Ideas and Methods"
 
 Sourceauthor: George D. Chryssides and Ron Greaves

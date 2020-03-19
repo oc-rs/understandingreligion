@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 08 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Perspectives</title>
+      <link>https://www.understandingreligion.org.uk/categories/perspectives/</link>
+      <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/perspectives/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Scholars</title>
@@ -111,15 +120,6 @@
     </item>
     
     <item>
-      <title>Perspectives</title>
-      <link>https://www.understandingreligion.org.uk/categories/perspectives/</link>
-      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/perspectives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Places</title>
       <link>https://www.understandingreligion.org.uk/categories/places/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -143,15 +143,6 @@
       <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/categories/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sources</title>
-      <link>https://www.understandingreligion.org.uk/categories/sources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/sources/</guid>
       <description></description>
     </item>
     
