@@ -29,74 +29,42 @@
         
                     <input id="searchbox" class="input is-size-4" type="text" placeholder="Search {{ .Title }}..." onkeyup="search()">
 
-                    <button style="margin-top: 20px" class="button is-light" id="try">
-                        More options...&nbsp;&nbsp;
-                        <span class="icon">
-                            <i class="fas fa-chevron-circle-down"></i>
+                    <button style="margin-top: 20px" class="button is-light" id="button">
+                        <span id="more">More options...&nbsp;&nbsp;
+                            <span class="icon">
+                                <i class="fas fa-chevron-circle-down"></i>
+                            </span>
+                        </span>
+                        <span style="display: none" id="less">Hide options...&nbsp;&nbsp;
+                            <span class="icon">
+                                <i class="fas fa-chevron-circle-up"></i>
+                            </span>
                         </span>
                     </button>
 
                 </div>
         
             </div>
-        </section>
 
-        <section id="filters" style="height: 0; padding: 0; overflow: hidden; background-color: #C6DDE3" class="section">
-
-            <div class="columns">
-                <div class="column is-8 is-offset-2">
+            <div id="filters" style="height: 0; padding: 0; overflow: hidden;" class="columns">
+                <div style="border-left: 10px solid #FA991C" class="column is-8 is-offset-2">
                     <div class="columns is-vcentered">
-                        
-                        <div class="column is-1">
-                            <span class="icon is-size-2">
-                                <i class="fas fa-chevron-circle-up"></i>
-                            </span>
-                        </div>
-                        
-                        <div class="column is-11">
-
-                            <div class="columns has-text-centered is-vcentered">
-                                <div class="column is-1">
-                                    <h2 class="heading has-text-right">
-                                        Author
-                                    </h2>
-                                </div>
                             
-                                <div class="column">
-                                    <input id="searchboxAuthor" class="input is-size-4" type="text" placeholder="Search by author..." onkeyup="searchAuthor()">
-                                </div>
+                            <div class="column">
+                                <input id="searchboxAuthor" class="input is-size-4" type="text" placeholder="Search by author..." onkeyup="search()">
                             </div>
-
-                            <div class="columns has-text-centered is-vcentered">
-                                <div class="column is-1">
-                                    <h2 class="heading has-text-right">
-                                        Tags
-                                    </h2>
-                                </div>
                             
-                                <div class="column">
-                                    <input id="searchboxTags" class="input is-size-4" type="text" placeholder="Search by tags..." onkeyup="searchTags()">
-                                </div>
+                            <div class="column">
+                                <input id="searchboxTags" class="input is-size-4" type="text" placeholder="Search by tags..." onkeyup="search()">
                             </div>
-
-                            <div class="columns has-text-centered is-vcentered">
-                                <div class="column is-1">
-                                    <h2 class="heading has-text-right">
-                                        Year
-                                    </h2>
-                                </div>
                             
-                                <div class="column">
-                                    <input id="searchboxYear" class="input is-size-4" type="text" placeholder="Search by year..." onkeyup="searchYear()">
-                                </div>
+                            <div class="column">
+                                <input id="searchboxYear" class="input is-size-4" type="text" placeholder="Search by year..." onkeyup="search()">
                             </div>
-
-                        </div>
 
                     </div>
                 </div>            
             </div>
-
         </section>
 
         <section style="background-color: #FBF3F2" class="section">
@@ -109,10 +77,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">{{ .Title }}</p>
+                                <p class="title item-title">{{ .Title }}</p>
                                 
                                 {{ if (eq .Params.source true) }}
-                                <p class="subtitle item-subtitle">{{ .Params.sourceauthor }} ({{ .Params.originalyear }})</p>
+                                <p class="subtitle"><span class="item-author">{{ .Params.sourceauthor }}</span> (<span class="item-year">{{ .Params.originalyear }}</span>)</p>
                                 {{ end }}
                                 
                                 <p class="item-abstract">{{ .Params.abstract | truncate 100 }}</p>

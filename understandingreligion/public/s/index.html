@@ -32,8 +32,6 @@
           });
         </script>
         <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
-        <script type="text/javascript" src="/js/main.js"></script>
-        <script type="text/javascript" src="/js/clipboard.js"></script>
         
     </head>
 
@@ -160,74 +158,42 @@
         
                     <input id="searchbox" class="input is-size-4" type="text" placeholder="Search Sources..." onkeyup="search()">
 
-                    <button style="margin-top: 20px" class="button is-light" id="try">
-                        More options...&nbsp;&nbsp;
-                        <span class="icon">
-                            <i class="fas fa-chevron-circle-down"></i>
+                    <button style="margin-top: 20px" class="button is-light" id="button">
+                        <span id="more">More options...&nbsp;&nbsp;
+                            <span class="icon">
+                                <i class="fas fa-chevron-circle-down"></i>
+                            </span>
+                        </span>
+                        <span style="display: none" id="less">Hide options...&nbsp;&nbsp;
+                            <span class="icon">
+                                <i class="fas fa-chevron-circle-up"></i>
+                            </span>
                         </span>
                     </button>
 
                 </div>
         
             </div>
-        </section>
 
-        <section id="filters" style="height: 0; padding: 0; overflow: hidden; background-color: #C6DDE3" class="section">
-
-            <div class="columns">
-                <div class="column is-8 is-offset-2">
+            <div id="filters" style="height: 0; padding: 0; overflow: hidden;" class="columns">
+                <div style="border-left: 10px solid #FA991C" class="column is-8 is-offset-2">
                     <div class="columns is-vcentered">
-                        
-                        <div class="column is-1">
-                            <span class="icon is-size-2">
-                                <i class="fas fa-chevron-circle-up"></i>
-                            </span>
-                        </div>
-                        
-                        <div class="column is-11">
-
-                            <div class="columns has-text-centered is-vcentered">
-                                <div class="column is-1">
-                                    <h2 class="heading has-text-right">
-                                        Author
-                                    </h2>
-                                </div>
                             
-                                <div class="column">
-                                    <input id="searchboxAuthor" class="input is-size-4" type="text" placeholder="Search by author..." onkeyup="searchAuthor()">
-                                </div>
+                            <div class="column">
+                                <input id="searchboxAuthor" class="input is-size-4" type="text" placeholder="Search by author..." onkeyup="search()">
                             </div>
-
-                            <div class="columns has-text-centered is-vcentered">
-                                <div class="column is-1">
-                                    <h2 class="heading has-text-right">
-                                        Tags
-                                    </h2>
-                                </div>
                             
-                                <div class="column">
-                                    <input id="searchboxTags" class="input is-size-4" type="text" placeholder="Search by tags..." onkeyup="searchTags()">
-                                </div>
+                            <div class="column">
+                                <input id="searchboxTags" class="input is-size-4" type="text" placeholder="Search by tags..." onkeyup="search()">
                             </div>
-
-                            <div class="columns has-text-centered is-vcentered">
-                                <div class="column is-1">
-                                    <h2 class="heading has-text-right">
-                                        Year
-                                    </h2>
-                                </div>
                             
-                                <div class="column">
-                                    <input id="searchboxYear" class="input is-size-4" type="text" placeholder="Search by year..." onkeyup="searchYear()">
-                                </div>
+                            <div class="column">
+                                <input id="searchboxYear" class="input is-size-4" type="text" placeholder="Search by year..." onkeyup="search()">
                             </div>
-
-                        </div>
 
                     </div>
                 </div>            
             </div>
-
         </section>
 
         <section style="background-color: #FBF3F2" class="section">
@@ -240,10 +206,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">Buddhism: A Very Short Introduction</p>
+                                <p class="title item-title">Buddhism: A Very Short Introduction</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">Damien Keown (1996)</p>
+                                <p class="subtitle"><span class="item-author">Damien Keown</span> (<span class="item-year">1996</span>)</p>
                                 
                                 
                                 <p class="item-abstract">Provides a good overview of the essential points of Buddhism.</p>
@@ -267,10 +233,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">Hindu Myths</p>
+                                <p class="title item-title">Hindu Myths</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">Wendy O&#39;Flaherty (1975)</p>
+                                <p class="subtitle"><span class="item-author">Wendy O&#39;Flaherty</span> (<span class="item-year">1975</span>)</p>
                                 
                                 
                                 <p class="item-abstract">A collection of Puranas - stories about Hindu deities and mythological figures.</p>
@@ -298,10 +264,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">Hinduism: A Very Short Introduction</p>
+                                <p class="title item-title">Hinduism: A Very Short Introduction</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">Kim Knott (1998)</p>
+                                <p class="subtitle"><span class="item-author">Kim Knott</span> (<span class="item-year">1998</span>)</p>
                                 
                                 
                                 <p class="item-abstract"></p>
@@ -325,10 +291,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">Introducing World Religions</p>
+                                <p class="title item-title">Introducing World Religions</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">Victoria Kennick Urubshurow (2008)</p>
+                                <p class="subtitle"><span class="item-author">Victoria Kennick Urubshurow</span> (<span class="item-year">2008</span>)</p>
                                 
                                 
                                 <p class="item-abstract">A textbook on religious studies, surveying traditions from around the world.</p>
@@ -354,10 +320,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">Psychology and Religion</p>
+                                <p class="title item-title">Psychology and Religion</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">G. S. Spinks (1963)</p>
+                                <p class="subtitle"><span class="item-author">G. S. Spinks</span> (<span class="item-year">1963</span>)</p>
                                 
                                 
                                 <p class="item-abstract">A detailed review of the psychological study of religion, touching on the theories of Freud and …</p>
@@ -381,10 +347,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">Revelations of Divine Love</p>
+                                <p class="title item-title">Revelations of Divine Love</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">Julian of Norwich (1966)</p>
+                                <p class="subtitle"><span class="item-author">Julian of Norwich</span> (<span class="item-year">1966</span>)</p>
                                 
                                 
                                 <p class="item-abstract"></p>
@@ -416,10 +382,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">The Golden Bough: A Study in Magic and Religion</p>
+                                <p class="title item-title">The Golden Bough: A Study in Magic and Religion</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">James George Frazer (1922)</p>
+                                <p class="subtitle"><span class="item-author">James George Frazer</span> (<span class="item-year">1922</span>)</p>
                                 
                                 
                                 <p class="item-abstract"></p>
@@ -445,10 +411,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">The Last Days of Socrates</p>
+                                <p class="title item-title">The Last Days of Socrates</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">Plato (1954)</p>
+                                <p class="subtitle"><span class="item-author">Plato</span> (<span class="item-year">1954</span>)</p>
                                 
                                 
                                 <p class="item-abstract">A collection of Plato&#39;s writings, centered around the life and death of Socrates, including …</p>
@@ -474,10 +440,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">The Religious Experience of Mankind</p>
+                                <p class="title item-title">The Religious Experience of Mankind</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">Ninian Smart (1969)</p>
+                                <p class="subtitle"><span class="item-author">Ninian Smart</span> (<span class="item-year">1969</span>)</p>
                                 
                                 
                                 <p class="item-abstract">A comprehensive survey of religious experiences from around the world.</p>
@@ -501,10 +467,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">The Science of Self-Realization</p>
+                                <p class="title item-title">The Science of Self-Realization</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">A.C. Bhaktivedanta Swami Prabhupada (1977)</p>
+                                <p class="subtitle"><span class="item-author">A.C. Bhaktivedanta Swami Prabhupada</span> (<span class="item-year">1977</span>)</p>
                                 
                                 
                                 <p class="item-abstract">A collection of essays on Vaishnavite devotional yoga, or bhakti.</p>
@@ -534,10 +500,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">The Study of Religion: An Introduction to Key Ideas and Methods</p>
+                                <p class="title item-title">The Study of Religion: An Introduction to Key Ideas and Methods</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">George D. Chryssides and Ron Greaves (2007)</p>
+                                <p class="subtitle"><span class="item-author">George D. Chryssides and Ron Greaves</span> (<span class="item-year">2007</span>)</p>
                                 
                                 
                                 <p class="item-abstract"></p>
@@ -563,10 +529,10 @@
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
                                 
-                                <p class="title item-header">The Upanishads</p>
+                                <p class="title item-title">The Upanishads</p>
                                 
                                 
-                                <p class="subtitle item-subtitle">Anonymous (1965)</p>
+                                <p class="subtitle"><span class="item-author">Anonymous</span> (<span class="item-year">1965</span>)</p>
                                 
                                 
                                 <p class="item-abstract">Mascaró presents a selection of the Hindu Upanishads in English translation.</p>
@@ -616,5 +582,8 @@
     </div>
     
 </footer>
+
+<script type="text/javascript" src="/js/main.js"></script>
+<script type="text/javascript" src="/js/clipboard.js"></script>
     </body>
 </html>
