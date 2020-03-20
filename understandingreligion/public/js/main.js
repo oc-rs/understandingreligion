@@ -71,3 +71,158 @@ function search() {
     }
     )
   }
+
+  document.getElementById("searchbox").addEventListener("focus",function(){
+    w = window.innerWidth;
+    m = document.getElementById("search-modal")
+
+    if( w < 500 ){
+      m.classList.add("is-active");
+      document.getElementById("title-mobile-input").focus();
+    }
+    else {
+      null;
+    }
+  }
+  )
+
+  document.getElementById("searchboxAuthor").addEventListener("focus",function(){
+    w = window.innerWidth;
+    m = document.getElementById("search-author-modal")
+
+    if( w < 500 ){
+      m.classList.add("is-active");
+      document.getElementById("author-mobile-input").focus();
+    }
+    else {
+      null;
+    }
+  }
+  )
+
+  document.getElementById("searchboxYear").addEventListener("focus",function(){
+    w = window.innerWidth;
+    m = document.getElementById("search-year-modal")
+
+    if( w < 500 ){
+      m.classList.add("is-active");
+      document.getElementById("year-mobile-input").focus();
+    }
+    else {
+      null;
+    }
+  }
+  )
+
+  document.getElementById("searchboxTags").addEventListener("focus",function(){
+    w = window.innerWidth;
+    m = document.getElementById("search-tag-modal")
+
+    if( w < 500 ){
+      m.classList.add("is-active");
+      document.getElementById("tag-mobile-input").focus();
+    }
+    else {
+      null;
+    }
+  }
+  )
+
+
+function closeModal(){
+    m1 = document.getElementById("search-modal");
+    m2 = document.getElementById("search-author-modal");
+    m3 = document.getElementById("search-year-modal");
+    m4 = document.getElementById("search-tag-modal");
+
+
+    m1.classList.remove("is-active");
+    m2.classList.remove("is-active");
+    m3.classList.remove("is-active");
+    m4.classList.remove("is-active");
+
+  }
+
+  function titleSearch(){    
+    var list = document.getElementsByClassName('title-result-link');
+    var item = document.getElementsByClassName('title-result-item');
+    var input = document.getElementById('title-mobile-input');
+    var filter = input.value.toUpperCase();
+    
+    var title;
+
+  for (i = 0; i < item.length; i++) {
+
+      title = list[i].innerHTML;
+
+      if  (title.toUpperCase().indexOf(filter) > -1)
+      {
+        item[i].style.display = "block";
+      } else {
+        item[i].style.display = "none";
+      }
+      }
+  }
+
+  function authorSearch(){    
+    var list = document.getElementsByClassName('author-result-link');
+    var item = document.getElementsByClassName('author-result-item');
+    var input = document.getElementById('author-mobile-input');
+    var filter = input.value.toUpperCase();
+    
+    var title;
+
+  for (i = 0; i < item.length; i++) {
+
+      title = list[i].innerHTML;
+
+      if  (title.toUpperCase().indexOf(filter) > -1)
+      {
+        item[i].style.display = "block";
+      } else {
+        item[i].style.display = "none";
+      }
+      }
+  }
+
+  function yearSearch(){    
+    var list = document.getElementsByClassName('year-result-link');
+    var item = document.getElementsByClassName('year-result-item');
+    var input = document.getElementById('year-mobile-input');
+    var filter = input.value.toUpperCase();
+    
+    var title;
+
+  for (i = 0; i < item.length; i++) {
+
+      title = list[i].innerHTML;
+
+      if  (title.toUpperCase().indexOf(filter) > -1)
+      {
+        item[i].style.display = "block";
+      } else {
+        item[i].style.display = "none";
+      }
+      }
+  }
+
+  function tagSearch(){    
+    var list = document.getElementsByClassName('tag-result-link');
+    var item = document.getElementsByClassName('tag-result-item');
+    var input = document.getElementById('tag-mobile-input');
+    var filter = input.value.toUpperCase();
+    
+    var title;
+
+  for (i = 0; i < item.length; i++) {
+
+      title = list[i].innerHTML;
+
+      if  (title.toUpperCase().indexOf(filter) > -1)
+      {
+        item[i].style.display = "block";
+      } else {
+        item[i].style.display = "none";
+      }
+      }
+  }

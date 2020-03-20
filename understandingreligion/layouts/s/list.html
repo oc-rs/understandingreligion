@@ -108,6 +108,88 @@
             
         </section>
 
+        <div id="search-modal" class="modal">
+            <div class="modal-background"></div>
+            <div class="container is-fluid" style="position: absolute; top: 25px">
+                <div class="columns is-mobile">
+                    <div class="column is-10">
+                        <input onkeyup="titleSearch()" id="title-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
+                        {{ range .Pages.ByTitle }}
+                        <p class="title-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
+                            <a class="title-result-link" style="color: white;" href="{{ .Permalink }}">
+                               {{ .Title }}
+                            </a>
+                        </p>
+                        {{ end }}
+                    </div>
+                    <div class="column is-2">
+                        <button onclick="closeModal()" class="modal-close is-large"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="search-author-modal" class="modal">
+                <div class="modal-background"></div>
+                <div class="container is-fluid" style="position: absolute; top: 25px">
+                    <div class="columns is-mobile">
+                        <div class="column is-10">
+                            <input onkeyup="authorSearch()" id="author-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
+                            {{ range .Pages.ByTitle }}
+                            <p class="author-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
+                                <a class="author-result-link" style="color: white;" href="{{ .Permalink }}">
+                                   {{ .Params.sourceauthor }} ({{ .Title }})
+                                </a>
+                            </p>
+                            {{ end }}
+                        </div>
+                        <div class="column is-2">
+                            <button onclick="closeModal()" class="modal-close is-large"></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="search-year-modal" class="modal">
+                    <div class="modal-background"></div>
+                    <div class="container is-fluid" style="position: absolute; top: 25px">
+                        <div class="columns is-mobile">
+                            <div class="column is-10">
+                                <input onkeyup="yearSearch()" id="year-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
+                                {{ range .Pages.ByTitle }}
+                                <p class="year-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
+                                    <a class="year-result-link" style="color: white;" href="{{ .Permalink }}">
+                                       {{ .Params.originalyear }} ({{ .Title }})
+                                    </a>
+                                </p>
+                                {{ end }}
+                            </div>
+                            <div class="column is-2">
+                                <button onclick="closeModal()" class="modal-close is-large"></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="search-tag-modal" class="modal">
+                        <div class="modal-background"></div>
+                        <div class="container is-fluid" style="position: absolute; top: 25px">
+                            <div class="columns is-mobile">
+                                <div class="column is-10">
+                                    <input onkeyup="tagSearch()" id="tag-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
+                                    {{ range .Pages.ByTitle }}
+                                    <p class="tag-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
+                                        <a class="tag-result-link" style="color: white;" href="{{ .Permalink }}">{{ .Title }} ( {{ range .Params.tags }}{{ . }} {{ end }})</a>
+                                    </p>
+                                    {{ end }}
+                                </div>
+                                <div class="column is-2">
+                                    <button onclick="closeModal()" class="modal-close is-large"></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
         {{ partial "footer.html" . }}
     </body>
 </html>
