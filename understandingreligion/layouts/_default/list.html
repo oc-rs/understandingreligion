@@ -43,9 +43,9 @@
                         {{ range .Pages.ByTitle }}
                         <div class="item column is-one-quarter">
                           <article class="tile is-child box">
-                                <p class="title item-header">{{ .Title }}</p>
+                                <p class="title item-title">{{ .Title }}</p>
                                 {{ if (eq .Params.source true) }}
-                                <p class="subtitle">{{ .Params.sourceauthor }} ({{ .Params.year }})</p>
+                                <p class="item-author">{{ .Params.sourceauthor }} ({{ .Params.year }})</p>
                                 {{ end }}
                                 <p>{{ .Params.abstract | truncate 100 }}</p>
                                 <p><a href="{{.Permalink}}">Start reading...</a></p>
