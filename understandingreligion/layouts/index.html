@@ -7,28 +7,57 @@
 
       {{ partial "navbar.html" . }} 
 
-        <section style="background-color: #032539" class="hero is-medium">
+        <section style="background-color: #032539" class="hero is-small">
             <div class="hero-body">
                 <div class="container has-text-white has-text-centered">
                     <h1 class="title has-text-white is-size-1">
-                    Understanding Religion
+                        Understanding Religion
                     </h1>
                     <h2 style="color: #FA991C" class="subtitle is-size-5 is-italic">
-                    An OCRS Project
+                        An OCRS Project
                     </h2>
                 </div>
             </div>
         </section>
         
-        <section style="background-color: #1c768f" class="section has-text-white has-text-centered">
-            <h3>A quick and easy resource for learning about religious traditions and worldviews</h3>
+        <section style="background-color: #1c768f" class="section has-text-white">
+            <div class="columns">
+        
+                <div style="border-left: 10px solid #FA991C" class="column is-8 is-offset-2">
+
+                    <h2 class="subtitle has-text-white">A quick and easy resource for learning about religious traditions and worldviews</h2>
+
+                    <div id="searcharea" onblur="hideFrontpageResults()">
+                            <input id="searchbox" class="input is-size-4" type="text" placeholder="Search {{ .Title }}..." onkeyup="searchFrontpage()">
+
+                            <div id="frontpage-results" style="max-height: 0; overflow: hidden; padding: 0; background-color: rgba(0,0,0,0.7); color: white">
+                            {{ range .Site.Pages.ByTitle }}
+                            <p class="frontpageResultItem">
+                                <a class="frontpageResultTitle" href="{{ .Permalink }}">
+                                    {{ .Title }}
+                                </a>
+                                {{ if (isset .Params "categories" )}}
+                                <em>
+                                    {{range .Params.categories }} | {{ . }}{{ end }}{{ end}}
+                                </em>
+                            </p>
+                            {{ end }}
+                        </div>
+                    </div>
+        
+                </div>
+        
+            </div>
         </section>
 
         <section style="background-color: #FBF3F2" class="section">
             
-            <div class="container has-text-centered">
+            <div class="container">
+                <h2 class="is-size-2">
+                    This site is still under development...
+                </h2>
                 <p>
-                    This site is currently under development - please check back soon!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia dolorum in ab quis error labore expedita earum, exercitationem, fugit, id velit sit porro eius. Odit, perspiciatis quos accusamus culpa quo voluptatem distinctio ipsa esse doloribus omnis magni blanditiis, quis alias cupiditate voluptatibus, eum nisi iste minima incidunt provident laboriosam enim accusantium. Ducimus eius, enim porro laudantium nobis vitae voluptate eligendi minima consectetur non provident neque dolorem nam ex ratione repellat iusto minus debitis itaque excepturi sapiente a. Sequi aliquam laborum, magni, nesciunt, reiciendis ipsa quam corporis est in nobis molestias fuga ipsam dicta! Voluptate culpa cum cupiditate nobis eum deleniti?
                 </p>
             </div>
             

@@ -1,3 +1,36 @@
+function searchFrontpage() {
+  var x = document.getElementById("frontpage-results");
+
+  var item = document.getElementsByClassName("frontpageResultItem");
+  var title = document.getElementsByClassName("frontpageResultTitle");
+  
+  var input = document.getElementById('searchbox');
+  var filter = input.value.toUpperCase();
+
+  for (i = 0; i < item.length; i++) {
+    r = title[i].innerHTML;
+
+
+    if (r.toUpperCase().indexOf(filter) > -1){
+      item[i].style.display = "block";
+      } 
+    else {
+        item[i].style.display = "none";
+      }
+  };
+
+  x.style.maxHeight = "200px";
+  x.style.height = "";
+  x.style.padding = "5px";
+  x.style.overflow = "auto";
+}
+
+function hideFrontpageResults() {
+  var x = document.getElementById("frontpage-results");
+
+  x.style.maxHeight = 0;
+  x.style.padding = 0;
+}
 
 function search() {
     var titleList = document.getElementsByClassName('item-title');

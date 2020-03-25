@@ -2,7 +2,7 @@
 Title: "Introduction to Religious Studies"
 Abstract: "Explore the world of religion with this in-depth course and develop a thematic understanding of contemporary religious studies."
 Author: Luke Burns
-Categories: ['Books']
+Categories: []
 Tags: []
 PublishDate: 2019-12-14
 LastModifiedDate: 2020-02-23
