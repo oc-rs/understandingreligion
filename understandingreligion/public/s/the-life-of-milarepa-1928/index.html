@@ -4,7 +4,7 @@
         <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>mythology</title>
+        <title>The Life of Milarepa</title>
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
         <link rel="stylesheet" href="/css/style.css">
         <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
@@ -37,7 +37,6 @@
 
 
     <body>
-
         
 <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
@@ -140,7 +139,7 @@
             <div class="hero-body">
                 <div class="container has-text-white has-text-centered">
                     <h1 class="title has-text-white is-size-1">
-                    mythology
+                    The Life of Milarepa
                     </h1>
                 </div>
             </div>
@@ -148,63 +147,58 @@
         
         <section style="background-color: #1c768f" class="section has-text-white">
 
-            <div class="columns">
-        
-                <div style="border-left: 10px solid #FA991C" class="column is-8 is-offset-2">
+    <div class="columns">
 
+        <div style="border-left: 10px solid #FA991C" class="column is-3 is-offset-1">
+
+            
+            <p><span style="color: #032539">Author(s):</span> Rechung</p>
+            
+
+            
+            <p><span style="color: #032539">Translator:</span> W. Y. Evans-Wentz</p>
+            
+
+            
+            <p><span style="color: #032539">Editor(s):</span> Lobzang Jivaka</p>
+            
+
+            <p><span style="color: #032539">Edition published in:</span> 1962</p>
+
+            <p><span style="color: #032539">Original published in:</span> 1928</p>
+
+            <p><span style="color: #032539">Published by:</span> John Murray</p>
+
+            <p><span style="color: #032539">Location:</span> London</p>
+
+            
+
+        </div>
+
+
+        <div style="border-left: 10px solid #FA991C" class="column is-7">
+
+            An abridged version of Evans-Wentz’s translation, telling the life story of the Tibetan Buddhist monk Milarepa.
+
+        </div>
+
+    </div>
+</section>
+
+        <section style="background-color: #FAFAFA" class="section content">
+          <div style="background-color: #1c768f" class="container columns">
+          </div>
+          <div class="columns">
+                <div class="column is-8 is-offset-2">
                     
-        
-                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Search mythology..." onkeyup="search()">
-        
+                    <h2>Formatted reference</h2>
+                    <p></p>
+                    <button id="copy" class="button" data-clipboard-text="">Copy to clipboard</button>
+                    <div class="tooltip">
+                        <span id="message" class="tooltiptext">Reference copied!</span>
+                    </div>
                 </div>
-        
-            </div>
-        </section>
-
-        <section style="background-color: #FBF3F2" class="section">
-            
-            <div class="container">
-
-
-                <div class="columns is-multiline">
-                        
-                        <div class="item column is-one-quarter">
-                          <article class="tile is-child box">
-                                <p class="title item-title">Hindu Myths</p>
-                                
-                                <p class="item-author">Wendy O&#39;Flaherty ()</p>
-                                
-                                <p>A collection of Puranas - stories about Hindu deities and mythological figures.</p>
-                                <p><a href="https://www.understandingreligion.org.uk/s/hindu-myths-1975/">Start reading...</a></p>
-                          </article>
-                        </div>
-                        
-                        <div class="item column is-one-quarter">
-                          <article class="tile is-child box">
-                                <p class="title item-title">The Golden Bough: A Study in Magic and Religion</p>
-                                
-                                <p class="item-author">James George Frazer ()</p>
-                                
-                                <p></p>
-                                <p><a href="https://www.understandingreligion.org.uk/s/the-golden-bough-a-study-in-magic-and-religion-1922/">Start reading...</a></p>
-                          </article>
-                        </div>
-                        
-                        <div class="item column is-one-quarter">
-                          <article class="tile is-child box">
-                                <p class="title item-title">Theogony and Works and Days</p>
-                                
-                                <p class="item-author">Hesiod ()</p>
-                                
-                                <p></p>
-                                <p><a href="https://www.understandingreligion.org.uk/s/theogony-and-works-and-days-1988/">Start reading...</a></p>
-                          </article>
-                        </div>
-                        
-                      </div>
-
-            </div>
-            
+          </div>
         </section>
 
         <footer class="section" style="margin-top: 0; background-color: #FA991C; color: #000000">
@@ -233,5 +227,29 @@
 
 <script type="text/javascript" src="/js/main.js"></script>
 <script type="text/javascript" src="/js/clipboard.js"></script>
-    </body>
+
+        <script>
+            var clipboard = new ClipboardJS('.button');
+      
+            clipboard.on('success', function(e) {
+                console.info('Action:', e.action);
+                console.info('Text:', e.text);
+                console.info('Trigger:', e.trigger);
+            
+                e.clearSelection();
+            });
+            
+            clipboard.on('error', function(e) {
+                console.error('Action:', e.action);
+                console.error('Trigger:', e.trigger);
+            });
+
+            document.getElementById("copy").addEventListener("click",function(){
+                document.getElementsByClassName("tooltip")[0].style.visibility = "visible";
+                document.getElementsByClassName("tooltiptext")[0].style.visibility = "visible";
+            });
+            
+            </script>
+
+     </body>
 </html>
