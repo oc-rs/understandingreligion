@@ -1,11 +1,13 @@
 ---
-Title: "Ayahuasca"
-Abstract: "A drink prepared by indigenous groups in the Amazon, containing a number of psychoactive chemicals. It is often used in groups to facilitate healing, visions, and insight."
+Title: "Akashic records"
+Abstract: "The Akashic records are a non-physical storehouse of information, proposed by Theosophists to contain a record of all thoughts, words, and actions in the past and future."
 
-Categories: ['Entheogens']
+Author: Luke Burns
+
+Categories: ['Concepts']
 Tags: []
 
-PublishDate: 2020-02-07
+PublishDate: 2020-10-03
 LastModifiedDate: 2020-10-03
 
 # ==================================================
@@ -23,4 +25,5 @@ Books:
     Link: 
     NextPageLink:
     PrevPageLink:
+
 ---

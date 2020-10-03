@@ -1,11 +1,13 @@
 ---
-Title: "Ayahuasca"
-Abstract: "A drink prepared by indigenous groups in the Amazon, containing a number of psychoactive chemicals. It is often used in groups to facilitate healing, visions, and insight."
+Title: "Eid-e-Shuja’"
+Abstract: "Eid-e-Shuja’, also known as Eid-e-Zahra, is a ritual festival observed by most Twelver Shi‘a Muslims. It marks the end of the two-month mourning period after the events of the Karbala massacre, which occurred in 680 AD."
 
-Categories: ['Entheogens']
-Tags: []
+Author: Luke Burns
 
-PublishDate: 2020-02-07
+Categories: ['Occasions']
+Tags: ['islam']
+
+PublishDate: 2020-10-03
 LastModifiedDate: 2020-10-03
 
 # ==================================================
@@ -14,7 +16,7 @@ LastModifiedDate: 2020-10-03
 # Use the line below to define an image
 # e.g. uncomment the line and use "imagename.jpg"
 # --------------------------------------------------
-# Image: ""
+# Image: "chinese-new-year.jpg"
 # ==================================================
 
 
@@ -23,4 +25,5 @@ Books:
     Link: 
     NextPageLink:
     PrevPageLink:
+
 ---

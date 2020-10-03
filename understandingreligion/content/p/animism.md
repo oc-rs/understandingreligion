@@ -1,11 +1,15 @@
 ---
 Title: "Animism"
 Abstract: "Animism is a term based on the Latin word for 'soul', which frames all religious belief in terms of how it imbues the natural world with agency and personality, but more recent scholarship has developed this understanding to focus more on the relationships and responsibilities which typically define animist perspectives."
+
 Author: Luke Burns
+
 Categories: ['Beliefs']
 Tags: []
+
 PublishDate: 2020-01-01
 LastModifiedDate: 2020-02-21
+
 Image: "dancing.jpg"
 
 Books:

@@ -1,11 +1,13 @@
 ---
-Title: "Ayahuasca"
-Abstract: "A drink prepared by indigenous groups in the Amazon, containing a number of psychoactive chemicals. It is often used in groups to facilitate healing, visions, and insight."
+Title: "Blaauboschkraal stone ruins"
+Abstract: "A series of stone circles in South Africa."
 
-Categories: ['Entheogens']
-Tags: []
+Author: Luke Burns
 
-PublishDate: 2020-02-07
+Categories: ['Places']
+Tags: ['megaliths','south africa']
+
+PublishDate: 2020-10-03
 LastModifiedDate: 2020-10-03
 
 # ==================================================
@@ -23,4 +25,10 @@ Books:
     Link: 
     NextPageLink:
     PrevPageLink:
+
 ---
+# Introduction
+A series of stone circles in South Africa.
+
+# Further reading
+https://en.m.wikipedia.org/wiki/Blaauboschkraal_stone_ruins
