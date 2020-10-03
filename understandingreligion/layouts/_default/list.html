@@ -40,19 +40,36 @@
 
 
                 <div class="columns is-multiline">
-                        {{ range .Pages.ByTitle }}
-                        <div class="item column is-one-quarter">
-                          <article class="tile is-child box">
-                                <p class="title item-title">{{ .Title }}</p>
-                                {{ if (eq .Params.source true) }}
-                                <p class="item-author">{{ .Params.sourceauthor }} ({{ .Params.year }})</p>
+                    {{ range .Pages.ByTitle }}
+                    <div class="item column is-one-quarter">
+                      <article class="tile is-child box">
+                            
+                            <p class="title item-title">{{ .Title }}</p>
+                            
+                            {{ if (eq .Params.source true) }}
+                            <p class="subtitle"><span class="item-author">{{ .Params.sourceauthor }}</span> (<span class="item-year">{{ .Params.originalyear }}</span>)</p>
+                            {{ end }}
+                            
+                            <p class="item-abstract">{{ .Params.abstract | truncate 100 }}</p>
+                            
+                            <p style="margin-top: 5px"><a href="{{.Permalink}}">Start reading...</a></p>
+
+                            {{ if (isset .Params "tags") }}
+                            <hr>
+                            <div class="item-taglist">
+                                {{ range .Params.tags }}
+                                <span><a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
                                 {{ end }}
-                                <p>{{ .Params.abstract | truncate 100 }}</p>
-                                <p><a href="{{.Permalink}}">Start reading...</a></p>
-                          </article>
-                        </div>
-                        {{ end }}
-                      </div>
+                            </div>
+                            {{ else }}
+                            {{ end }}
+
+                            
+
+                      </article>
+                    </div>
+                    {{ end }}
+                  </div>
 
             </div>
             

@@ -27,7 +27,7 @@
                     <h2 class="subtitle has-text-white">{{ .Params.abstract}}</h2>
                     {{ end }}
         
-                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Search {{ .Title }}..." onkeyup="search()">
+                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Search {{ .Title }}..." onkeyup="searchSources()">
 
                     <button style="margin-top: 20px" class="button is-light" id="button">
                         <span id="more">More options...&nbsp;&nbsp;
@@ -51,15 +51,15 @@
                     <div class="columns is-vcentered">
                             
                             <div class="column">
-                                <input id="searchboxAuthor" class="input is-size-4" type="text" placeholder="Search by author..." onkeyup="search()">
+                                <input id="searchboxAuthor" class="input is-size-4" type="text" placeholder="Search by author..." onkeyup="searchSources()">
                             </div>
                             
                             <div class="column">
-                                <input id="searchboxTags" class="input is-size-4" type="text" placeholder="Search by tags..." onkeyup="search()">
+                                <input id="searchboxTags" class="input is-size-4" type="text" placeholder="Search by tags..." onkeyup="searchSources()">
                             </div>
                             
                             <div class="column">
-                                <input id="searchboxYear" class="input is-size-4" type="text" placeholder="Search by year..." onkeyup="search()">
+                                <input id="searchboxYear" class="input is-size-4" type="text" placeholder="Search by year..." onkeyup="searchSources()">
                             </div>
 
                     </div>

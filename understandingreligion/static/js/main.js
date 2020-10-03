@@ -32,7 +32,7 @@ function hideFrontpageResults() {
   x.style.padding = 0;
 }
 
-function search() {
+function searchSources() {
     var titleList = document.getElementsByClassName('item-title');
     var authorList = document.getElementsByClassName('item-author');
     var yearList = document.getElementsByClassName('item-year');
@@ -70,6 +70,29 @@ function search() {
           year.toUpperCase().indexOf(yearFilter) > -1
           &&
           tags.toUpperCase().indexOf(tagsFilter) > -1
+          )
+      {
+        item[i].style.display = "block";
+      } else {
+        item[i].style.display = "none";
+      }
+      }
+  };
+
+
+  function search() {
+    var list = document.getElementsByClassName('item-title');
+    var item = document.getElementsByClassName('item');
+    var input = document.getElementById('searchbox');
+    var filter = input.value.toUpperCase();
+    var title;
+
+  for (i = 0; i < item.length; i++) {
+
+      title = list[i].innerHTML;
+
+      if  (
+          title.toUpperCase().indexOf(filter) > -1
           )
       {
         item[i].style.display = "block";

@@ -1,3 +1,13 @@
+sup, sub {
+    vertical-align: baseline;
+    position: relative;
+    top: -0.4em;
+  }
+  
+  sub { 
+    top: 0.4em; 
+  }
+
 .ocrs-activity {
     border-left: 7px solid #22a94b!important;
     margin-bottom:20px;
