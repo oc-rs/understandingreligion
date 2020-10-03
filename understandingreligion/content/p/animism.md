@@ -6,6 +6,7 @@ Categories: ['Beliefs']
 Tags: []
 PublishDate: 2020-01-01
 LastModifiedDate: 2020-02-21
+Image: "dancing.jpg"
 
 Books:
 --  - Name: 
@@ -15,8 +16,7 @@ Books:
 
 ---
 
-<img style="margin: 0px 0px 30px 0px; padding: 0px; max-height: 200px; width: 100%; object-fit: cover;" src="/img/images/dancing.jpg">
-
+# Introduction
 Animism is a category of religious systems in which human activity is understood within a broader context of persons and their relationships; these persons may include visible beings such as humans, animals, plants, and rocks, and non-visible beings such as spirits or ancestors.
 
 New animism is differentiated from 'old' animism by its focus on relational ontologies - ways of being in the world which hinge on relationships, thus taking a more nuanced approach to the subject than historical efforts, which typically centered on the belief in souls which inhabit material bodies and natural phenomena.

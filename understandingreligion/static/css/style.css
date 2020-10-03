@@ -35,6 +35,13 @@ blockquote {
     object-fit: cover;
   }
 
+.mediumbanner {
+    min-width: 100%;
+    max-width: 100%;
+    max-height: 300px!important;
+    object-fit: cover;
+  }
+
 .tooltip {
     position: relative;
     display: inline-block;
