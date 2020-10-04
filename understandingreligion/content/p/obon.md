@@ -16,7 +16,7 @@ LastModifiedDate: 2020-10-04
 # Use the line below to define an image
 # e.g. uncomment the line and use "imagename.jpg"
 # --------------------------------------------------
-# Image: "autumn.jpg"
+Image: "japanese-lanterns.jpg"
 # ==================================================
 
 Books:
