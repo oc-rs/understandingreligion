@@ -2,7 +2,7 @@
 Title: "Belief"
 Abstract: "Religious systems often include beliefs about the world (both seen and unseen), which describe (or dictate) how the world operates. Subscribing to a set of beliefs (orthodoxy) is not always essential for belonging to a religion."
 Author: Luke Burns
-Categories: ['Beliefs']
+Categories: ['Concepts']
 Tags: []
 PublishDate: 2020-01-01
 LastModifiedDate: 2020-01-01

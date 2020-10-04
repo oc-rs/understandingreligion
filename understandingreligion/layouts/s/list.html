@@ -113,7 +113,7 @@
             <div class="container is-fluid" style="position: absolute; top: 25px">
                 <div class="columns is-mobile">
                     <div class="column is-10">
-                        <input onkeyup="titleSearch()" id="title-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
+                        <input onkeyup="titleSearch()" id="title-mobile-input" placeholder="Search by title" style="margin-bottom: 10px;" type="text" class="input">
                         {{ range .Pages.ByTitle }}
                         <p class="title-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
                             <a class="title-result-link" style="color: white;" href="{{ .Permalink }}">
@@ -134,7 +134,7 @@
                 <div class="container is-fluid" style="position: absolute; top: 25px">
                     <div class="columns is-mobile">
                         <div class="column is-10">
-                            <input onkeyup="authorSearch()" id="author-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
+                            <input onkeyup="authorSearch()" placeholder="Search by author" id="author-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
                             {{ range .Pages.ByTitle }}
                             <p class="author-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
                                 <a class="author-result-link" style="color: white;" href="{{ .Permalink }}">
@@ -155,7 +155,7 @@
                     <div class="container is-fluid" style="position: absolute; top: 25px">
                         <div class="columns is-mobile">
                             <div class="column is-10">
-                                <input onkeyup="yearSearch()" id="year-mobile-input" style="margin-bottom: 10px;" type="number" class="input">
+                                <input onkeyup="yearSearch()" placeholder="Search by year" id="year-mobile-input" style="margin-bottom: 10px;" type="number" class="input">
                                 {{ range .Pages.ByTitle }}
                                 <p class="year-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
                                     <a class="year-result-link" style="color: white;" href="{{ .Permalink }}">
@@ -176,7 +176,7 @@
                         <div class="container is-fluid" style="position: absolute; top: 25px">
                             <div class="columns is-mobile">
                                 <div class="column is-10">
-                                    <input onkeyup="tagSearch()" id="tag-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
+                                    <input onkeyup="tagSearch()" placeholder="Search by tags" id="tag-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
                                     {{ range .Pages.ByTitle }}
                                     <p class="tag-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
                                         <a class="tag-result-link" style="color: white;" href="{{ .Permalink }}">{{ .Title }} ( {{ range .Params.tags }}{{ . }} {{ end }})</a>
