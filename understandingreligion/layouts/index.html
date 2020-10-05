@@ -53,12 +53,107 @@
         <section style="background-color: #FBF3F2" class="section">
             
             <div class="container">
-                <h2 class="is-size-2">
-                    This site is still under development...
-                </h2>
-                <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia dolorum in ab quis error labore expedita earum, exercitationem, fugit, id velit sit porro eius. Odit, perspiciatis quos accusamus culpa quo voluptatem distinctio ipsa esse doloribus omnis magni blanditiis, quis alias cupiditate voluptatibus, eum nisi iste minima incidunt provident laboriosam enim accusantium. Ducimus eius, enim porro laudantium nobis vitae voluptate eligendi minima consectetur non provident neque dolorem nam ex ratione repellat iusto minus debitis itaque excepturi sapiente a. Sequi aliquam laborum, magni, nesciunt, reiciendis ipsa quam corporis est in nobis molestias fuga ipsam dicta! Voluptate culpa cum cupiditate nobis eum deleniti?
-                </p>
+
+                <div class="box">
+                    <div class="content">
+                        <h2 class="title is-size-2">
+                            Welcome to Understanding Religion!
+                        </h2>
+        
+                        <p>
+                            This site is designed to make learning about religion and worldviews <strong>easy</strong>. 
+                        </p>
+
+                        <p>
+                            You'll find articles written on a wide variety of topics using clear language and academic sources.
+                        </p>
+    
+                        <p>
+                            There's no agenda, nothing to buy and nothing to sell. We don't collect cookies, don't ask you to sign in, and don't ask you to pay anything.
+                        </p>
+
+                        <p>
+                            If you want to contribute an article, correct an error, or buy us a coffee - you can reach us at <a href="mailto:hello@ocrs.online">hello@ocrs.online</a>
+                        </p>
+
+                        <p>
+                            Want to find out more? <a href="/m/about/">Click here to learn about the project.</a>
+                        </p>
+                    </div>
+                </div>
+                
+                <h2 class="is-size-2 p-3" style="color: #032539">Recent articles</h2>
+
+                <div class="columns is-multiline">
+                    {{ range first 3 (where .Site.RegularPages "Section" "p") }}
+                    <div class="item column is-one-third">
+                      <article class="tile is-child box">
+                            
+                            <p class="title item-title">{{ .Title }}</p>
+
+                            {{ if (isset .Params "image" )}}
+                            <img src="/img/images/{{ .Params.image }}">
+                            {{ end }}
+                            
+                            {{ if (eq .Params.source true) }}
+                            <p class="subtitle"><span class="item-author">{{ .Params.sourceauthor }}</span> (<span class="item-year">{{ .Params.originalyear }}</span>)</p>
+                            {{ end }}
+                            
+                            <p class="item-abstract">{{ .Params.abstract | truncate 100 }}</p>
+                            
+                            <p style="margin-top: 5px"><a href="{{.Permalink}}">Start reading...</a></p>
+
+                            {{ if (isset .Params "tags") }}
+                            <hr>
+                            <div class="item-taglist">
+                                {{ range .Params.tags }}
+                                <span><a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
+                                {{ end }}
+                            </div>
+                            {{ else }}
+                            {{ end }}
+
+                            
+
+                      </article>
+                    </div>
+                    {{ end }}
+                </div>
+
+                <h2 class="is-size-2 p-3" style="color: #032539">Site map</h2>
+
+                <div class="columns is-multiline">
+                    {{ range .Pages.ByTitle }}
+                    <div class="item column is-one-quarter">
+                      <article class="tile is-child box">
+                            
+                            <p class="title item-title">{{ .Title }}</p>
+                            
+                            {{ if (eq .Params.source true) }}
+                            <p class="subtitle"><span class="item-author">{{ .Params.sourceauthor }}</span> (<span class="item-year">{{ .Params.originalyear }}</span>)</p>
+                            {{ end }}
+                            
+                            <p class="item-abstract">{{ .Params.abstract | truncate 100 }}</p>
+                            
+                            <p style="margin-top: 5px"><a href="{{.Permalink}}">Start reading...</a></p>
+
+                            {{ if (isset .Params "tags") }}
+                            <hr>
+                            <div class="item-taglist">
+                                {{ range .Params.tags }}
+                                <span><a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
+                                {{ end }}
+                            </div>
+                            {{ else }}
+                            {{ end }}
+
+                            
+
+                      </article>
+                    </div>
+                    {{ end }}
+                </div>
+
             </div>
             
         </section>

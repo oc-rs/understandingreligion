@@ -1,6 +1,11 @@
 ---
 Title: Terms and Conditions
 Abstract: The boring bits...
+
+Author: Luke Burns
+
+PublishDate: 2020-01-01
+LastModifiedDate: 2020-10-05
 ---
 
 #### If you use this site...
@@ -15,7 +20,7 @@ We aim to not only provide accurate content, but to include references to academ
 If you happen to find a mistake - please let us know!
 
 #### Who runs this thing?
-Understanding Religion is a project by the Online Centre for Religious Studies, [come talk to us :)](https://oc-rs.org/contact)
+Understanding Religion is a project by the Online Centre for Religious Studies, [come talk to us :)](https://ocrs.online/contact)
 
 #### Where are the cookies?
 We don't use cookies on this site, so there are no annoying pop-ups asking for your permission. Unless you meant real cookies? We have those. They're in the biscuit tin.
