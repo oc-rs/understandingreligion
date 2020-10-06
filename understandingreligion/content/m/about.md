@@ -16,6 +16,9 @@ It draws inspiration from a wide variety of online resources - notably [Wikipedi
 
 The goal of the site is to provide contemporary scholarism in an accessible format for readers who might not be specialists in the subject, but who want to learn and discover.
 
+# Copyright
+The website and all its content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) - that means you're welcome to create copies of our articles and use them in your own teaching or learning projects 100% free of charge. You can even adapt or change them - you just need to include a note explaining where the original came from (click the link to find out more).
+
 # Pages and Books
 The core content of the site is the list of articles, or **Pages**, each of which is self-contained and (hopefully) self-explanatory. But nothing in life is really self-contained, everything is connected, and information is always part of a journey.
 
