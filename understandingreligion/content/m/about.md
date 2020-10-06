@@ -8,7 +8,7 @@ PublishDate: 2020-01-01
 LastModifiedDate: 2020-10-06
 ---
 # Introduction
-<span style="color: #1c768f">Understanding Religion</span> is a website that aims to provide easy access to information about the study of religion. 
+<span style="color: #1c768f">Understanding Religion</span> is a website that aims to provide easy access to information about the study of religion, published by the [Online Centre for Religious Studies](https://ocrs.online).
 
 **Always free, written clearly for a wide audience, grounded in academic study and supported by references for those who want to dive deeper.**
 
@@ -160,7 +160,9 @@ The code outside of those dependancies (i.e. the site template, theming, and con
 As far as possible, the site is built using static pages, which means it loads quickly, and is easy to build and maintain. It also means that there's very little in the way of obstructions to the reader - I promise, no pop-ups, no adverts, no cookie notices (we don't use them).
 
 # Patrons and Sponsors
-We're a small scale operation (in fact 'we' is generous) - at the moment the site is written, coded, and maintained by one person (hi, I'm Luke, pleasure to meet you). If you feel like supporting the work done here, you can become a Patron of the OCRS. Here's a link: https://www.patreon.com/_ocrs_
+We're a small scale operation (in fact 'we' is generous) - at the moment the site is written, coded, and maintained by one person (hi, I'm Luke, pleasure to meet you). If you feel like supporting the work done here, you can become a Patron of the OCRS.
+
+<a href="https://www.patreon.com/bePatron?u=8172845" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
 # Contributions
 The project is developed by the Online Centre for Religious Studies (https://ocrs.online), but you can help!
