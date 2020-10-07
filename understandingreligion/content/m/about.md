@@ -14,7 +14,7 @@ LastModifiedDate: 2020-10-06
 
 It draws inspiration from a wide variety of online resources - notably [Wikipedia](https://en.wikipedia.org/wiki/Main_Page), but also Harvard University's [Pluralism Project](https://pluralism.org/home) and the essays and resources published by [REOnline](https://www.reonline.org.uk).
 
-The goal of the site is to provide contemporary scholarism in an accessible format for readers who might not be specialists in the subject, but who want to learn and discover.
+The goal of the site is to provide contemporary scholarship in an accessible format for readers who might not be specialists in the subject, but who want to learn and discover.
 
 # Copyright
 The website and all its content is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) - that means you're welcome to create copies of our articles and use them in your own teaching or learning projects 100% free of charge. You can even adapt or change them - you just need to include a note explaining where the original came from (click the link to find out more).
@@ -167,8 +167,10 @@ We're a small scale operation (in fact 'we' is generous) - at the moment the sit
 
 <a href="https://www.patreon.com/bePatron?u=8172845" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
+Check out a list of our current sponsors here: [ocrs.online/sponsors](https://ocrs.online/sponsors/)
+
 # Contributions
-The project is developed by the Online Centre for Religious Studies (https://ocrs.online), but you can help!
+You can help!
 
 We need contributors and editors to write and review content - if you want to get involved, use the contact form below.
 
@@ -177,7 +179,7 @@ We need contributors and editors to write and review content - if you want to ge
 <div class="field">
   <label for="name" class="label">Name</label>
   <div class="control">
-    <input name="name" class="input" type="text" id="name" placeholder="Tell us your name...">
+    <input name="name" class="input" type="text" id="name" placeholder="What should we call you?">
   </div>
 </div>
 
@@ -194,7 +196,7 @@ We need contributors and editors to write and review content - if you want to ge
 <div class="field">
   <label for="message" class="label">Message</label>
   <div class="control">
-    <textarea name="message" class="textarea" id="message" placeholder="Now this is a story all about how..."></textarea>
+    <textarea name="message" class="textarea" id="message" placeholder="I wanted to say..."></textarea>
   </div>
 </div>
 

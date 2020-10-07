@@ -90,7 +90,7 @@
                 <h2 class="is-size-2 p-3" style="color: #032539">Recent articles</h2>
 
                 <div class="columns is-multiline">
-                    {{ range first 3 (where .Site.RegularPages "Section" "p") }}
+                    {{ range first 3 (sort (where .Site.RegularPages "Section" "p") ".Params.LastModifiedDate" "desc") }}
                     <div class="item column is-one-third">
                       <article class="tile is-child box">
                             

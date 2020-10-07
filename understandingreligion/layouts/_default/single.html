@@ -25,6 +25,11 @@
         <section style="background-color: #FAFAFA; margin-bottom: 0px" class="section content">
           <div class="columns">
               <div class="column is-8 is-offset-2">
+                    <div class="item-taglist">
+                        {{ range .Params.tags }}
+                        <span><a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
+                        {{ end }}
+                    </div>
                     {{ .Content }}
   
                     {{ partial "book-block.html" . }}
