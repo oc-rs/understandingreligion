@@ -14,4 +14,4 @@ collections:
       - { label: 'Title', name: 'Title', widget: 'string' }
       - { label: 'Publish Date', name: 'PublishDate', widget: 'datetime' }
       - { label: 'Abstract', name: 'Abstract', widget: 'string' }
-      - { label: 'Content', name: 'Content', widget: 'markdown' }
+      - { label: 'Content', name: 'body', widget: 'markdown' }
