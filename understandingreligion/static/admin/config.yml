@@ -5,7 +5,7 @@ media_folder: understandingreligion/static/img/images
 collections:
   - name: 'p'
     label: 'Pages'
-    folder: 'content/p'
+    folder: 'understandingreligion/content/p'
     create: true
     slug: '{{slug}}'
     editor:
