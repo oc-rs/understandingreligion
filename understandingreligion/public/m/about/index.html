@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>About the project</title>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
         <link rel="stylesheet" href="/css/style.css">
         <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
@@ -84,17 +84,20 @@
 
             <div class="navbar-dropdown">
                 
-                <a href="/categories/beliefs" class="navbar-item">
-                    Beliefs
-                </a>
                 <a href="/categories/clothing/" class="navbar-item">
                     Clothing
                 </a>
-                <a href="/categories/communities/" class="navbar-item">
-                    Communities
+                <a href="/categories/concepts/" class="navbar-item">
+                    Concepts
                 </a>
                 <a href="/categories/entheogens/" class="navbar-item">
                     Entheogens
+                </a>
+                <a href="/categories/events/" class="navbar-item">
+                    Events
+                </a>
+                <a href="/categories/experiences/" class="navbar-item">
+                    Experiences
                 </a>
                 <a href="/categories/figures/" class="navbar-item">
                     Figures
@@ -105,14 +108,14 @@
                 <a href="/categories/objects/" class="navbar-item">
                     Objects
                 </a>
+                <a href="/categories/occasions/" class="navbar-item">
+                    Occasions
+                </a>
                 <a href="/categories/places/" class="navbar-item">
                     Places
                 </a>
                 <a href="/categories/practices/" class="navbar-item">
                     Practices
-                </a>
-                <a href="/categories/sounds/" class="navbar-item">
-                    Sounds
                 </a>
                 <a href="/categories/texts/" class="navbar-item">
                     Texts
@@ -122,6 +125,10 @@
                 </a>
             </div>
         </div>
+
+        <a href="/tags/" class="navbar-item">
+            Search by Tags
+        </a>
 
         <a href="/b/" class="navbar-item">
             Books
@@ -152,10 +159,12 @@
         <div style="border-left: 10px solid #FA991C" class="column is-3 is-offset-1">
 
             
+            <p><span style="color: #032539">Author:</span> <a href="/a/luke-burns">Luke Burns</a></p>
+            
 
-            <p><span style="color: #032539">Published on:</span> 01/01/0001</p>
+            <p><span style="color: #032539">Published on:</span> 01/01/2020</p>
 
-            <p><span style="color: #032539">Last modified:</span> </p>
+            <p><span style="color: #032539">Last modified:</span> 06/10/2020</p>
 
             
 
@@ -178,13 +187,157 @@
         <section style="background-color: #FAFAFA; margin-bottom: 0px" class="section content">
           <div class="columns">
               <div class="column is-8 is-offset-2">
-                    <p>The project is developed by the Online Centre for Religious Studies (<a href="https://oc-rs.org">https://oc-rs.org</a>), but you can help!</p>
+                    <div class="item-taglist">
+                        
+                    </div>
+                    <h1 id="introduction">Introduction</h1>
+<p><span style="color: #1c768f">Understanding Religion</span> is a website that aims to provide easy access to information about the study of religion, published by the <a href="https://ocrs.online">Online Centre for Religious Studies</a>.</p>
+<p><strong>Always free, written clearly for a wide audience, grounded in academic study and supported by references for those who want to dive deeper.</strong></p>
+<p>It draws inspiration from a wide variety of online resources - notably <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a>, but also Harvard University&rsquo;s <a href="https://pluralism.org/home">Pluralism Project</a> and the essays and resources published by <a href="https://www.reonline.org.uk">REOnline</a>.</p>
+<p>The goal of the site is to provide contemporary scholarship in an accessible format for readers who might not be specialists in the subject, but who want to learn and discover.</p>
+<h1 id="copyright">Copyright</h1>
+<p>The website and all its content is licensed under a <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a> - that means you&rsquo;re welcome to create copies of our articles and use them in your own teaching or learning projects 100% free of charge. You can even adapt or change them - you just need to include a note explaining where the original came from (click the link to find out more).</p>
+<h1 id="pages-and-books">Pages and Books</h1>
+<p>The core content of the site is the list of articles, or <strong>Pages</strong>, each of which is self-contained and (hopefully) self-explanatory. But nothing in life is really self-contained, everything is connected, and information is always part of a journey.</p>
+<p>At <span style="color: #1c768f">Understanding Religion</span>, these journeys are represented by <strong>Books</strong> - collections of <strong>Pages</strong> that share a narrative.</p>
+<p>Each <strong>Page</strong> might belong to one or several <strong>Books</strong>, and the reader can choose to follow these journeys if they want.</p>
+<p>At the bottom of each <strong>Page</strong> you will see which <strong>Book(s)</strong> you are currently within, and have the option to move forward, backwards, or return to the book&rsquo;s homepage. Something like this&hellip;</p>
+<h2>This article is part of the following books:</h2>
+<br>
+<div class="card has-text-centered mb-5">
+    <div class="card-content">
+        <div class="content">
+            <p class="title">Religion in the Online World</p>
+            <a class="button is-success" id="ex">Book Contents</a>
+        </div>
+    </div>
+    <footer class="card-footer">
+        <a id="ex-b" class="is-size-4 card-footer-item"><span class="icon has-text-info">
+                <i class="fas fa-arrow-circle-left"></i>
+              </span> &nbsp;&nbsp;Back</a>
+        <a id="ex-f" class="is-size-4 card-footer-item">Forward &nbsp;&nbsp;<span class="icon has-text-info">
+                <i class="fas fa-arrow-circle-right"></i>
+              </span></a>
+    </footer>
+</div>
+<div id="m" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Religion in the Online World</p>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h1>This is just an example</h1>
+        <p>But normally that link would take you to the <strong>Book</strong> contents page, which will provide a brief overview and list of all the <strong>Pages</strong> contained within.</p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+      <button id="m-close-button" class="button is-success">Okay, got it!</button>
+    </footer>
+  </div>
+  <button id="m-close" class="modal-close is-large" aria-label="close"></button>
+</div>
+<div id="m-back" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Religion in the Online World</p>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h1>Rewind...</h1>
+        <p>You can move backward through the <strong>Book</strong> by clicking the Back button.</p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+      <button id="m-back-close-button" class="button is-success">Makes sense</button>
+    </footer>
+  </div>
+  <button id="m-back-close" class="modal-close is-large" aria-label="close"></button>
+</div>
+<div id="m-forward" class="modal">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">Religion in the Online World</p>
+    </header>
+    <section class="modal-card-body">
+      <div class="content">
+        <h1>Onward!</h1>
+        <p>Finished reading and want to move on? Clicking the Forward button will take you to the next <strong>Page</strong> in the sequence.</p>
+      </div>
+    </section>
+    <footer class="modal-card-foot">
+      <button id="m-forward-close-button" class="button is-success">Groovy</button>
+    </footer>
+  </div>
+  <button id="m-forward-close" class="modal-close is-large" aria-label="close"></button>
+</div>
+<script>
+  document.getElementById("ex").addEventListener("click",function() {
+    var m = document.getElementById("m");
+    m.classList.add("is-active");
+  })
+
+  document.getElementById("ex-b").addEventListener("click",function() {
+    var m = document.getElementById("m-back");
+    m.classList.add("is-active");
+  })
+
+  document.getElementById("ex-f").addEventListener("click",function() {
+    var m = document.getElementById("m-forward");
+    m.classList.add("is-active");
+  })
+
+  document.getElementById("m-close").addEventListener("click",function() {
+    var m = document.getElementById("m");
+    m.classList.remove("is-active");
+  })
+
+  document.getElementById("m-close-button").addEventListener("click",function() {
+    var m = document.getElementById("m");
+    m.classList.remove("is-active");
+  })
+
+  document.getElementById("m-back-close").addEventListener("click",function() {
+    var m = document.getElementById("m-back");
+    m.classList.remove("is-active");
+  })
+
+  document.getElementById("m-back-close-button").addEventListener("click",function() {
+    var m = document.getElementById("m-back");
+    m.classList.remove("is-active");
+  })
+
+  document.getElementById("m-forward-close").addEventListener("click",function() {
+    var m = document.getElementById("m-forward");
+    m.classList.remove("is-active");
+  })
+
+  document.getElementById("m-forward-close-button").addEventListener("click",function() {
+    var m = document.getElementById("m-forward");
+    m.classList.remove("is-active");
+  })
+</script>
+<p>You might start by reading a book about Catholicism, but after reading the section on the early church find yourself drawn into a different book on Gnosticism (which would naturally cross over at certain points with the Catholicism book). While reading the Gnosticism book you might decide to branch into a book on religious experience, and from there into the neurological study of religion, reductionism, and evolutionary biology!</p>
+<p>This structure, where many paths meet and intertwine allows you to follow your own impulses through the material, learning in your own way and at your own pace.</p>
+<h1 id="technology">Technology</h1>
+<p>The site is built using <a href="https://gohugo.io">Hugo</a> and <a href="https://bulma.io">Bulma</a>, we host our source code on <a href="https://github.com/oc-rs/understandingreligion">Github</a>, and deploy via <a href="https://www.netlify.com">Netlify</a>.</p>
+<p>The code outside of those dependancies (i.e. the site template, theming, and content) was written by <a href="/a/luke-burns/">Luke Burns</a>.</p>
+<p>As far as possible, the site is built using static pages, which means it loads quickly, and is easy to build and maintain. It also means that there&rsquo;s very little in the way of obstructions to the reader - I promise, no pop-ups, no adverts, no cookie notices (we don&rsquo;t use them).</p>
+<h1 id="patrons-and-sponsors">Patrons and Sponsors</h1>
+<p>We&rsquo;re a small scale operation (in fact &lsquo;we&rsquo; is generous) - at the moment the site is written, coded, and maintained by one person (hi, I&rsquo;m Luke, pleasure to meet you). If you feel like supporting the work done here, you can become a Patron of the OCRS.</p>
+<p><a href="https://www.patreon.com/bePatron?u=8172845" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script></p>
+<p>Check out a list of our current sponsors here: <a href="https://ocrs.online/sponsors/">ocrs.online/sponsors</a></p>
+<h1 id="contributions">Contributions</h1>
+<p>You can help!</p>
 <p>We need contributors and editors to write and review content - if you want to get involved, use the contact form below.</p>
 <form name="contact" method="POST" data-netlify="true">
 <div class="field">
   <label for="name" class="label">Name</label>
   <div class="control">
-    <input name="name" class="input" type="text" id="name" placeholder="Tell us your name...">
+    <input name="name" class="input" type="text" id="name" placeholder="What should we call you?">
   </div>
 </div>
 <div class="field">
@@ -199,7 +352,7 @@
 <div class="field">
   <label for="message" class="label">Message</label>
   <div class="control">
-    <textarea name="message" class="textarea" id="message" placeholder="Now this is a story all about how..."></textarea>
+    <textarea name="message" class="textarea" id="message" placeholder="I wanted to say..."></textarea>
   </div>
 </div>
 <div class="field is-grouped">
@@ -211,6 +364,7 @@
   </div>
 </div>
 </form>
+
   
                     
               </div>

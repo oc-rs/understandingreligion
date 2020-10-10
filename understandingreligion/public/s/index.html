@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>Sources</title>
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.8.0/css/bulma.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
         <link rel="stylesheet" href="/css/style.css">
         <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
@@ -85,17 +85,20 @@
 
             <div class="navbar-dropdown">
                 
-                <a href="/categories/beliefs" class="navbar-item">
-                    Beliefs
-                </a>
                 <a href="/categories/clothing/" class="navbar-item">
                     Clothing
                 </a>
-                <a href="/categories/communities/" class="navbar-item">
-                    Communities
+                <a href="/categories/concepts/" class="navbar-item">
+                    Concepts
                 </a>
                 <a href="/categories/entheogens/" class="navbar-item">
                     Entheogens
+                </a>
+                <a href="/categories/events/" class="navbar-item">
+                    Events
+                </a>
+                <a href="/categories/experiences/" class="navbar-item">
+                    Experiences
                 </a>
                 <a href="/categories/figures/" class="navbar-item">
                     Figures
@@ -106,14 +109,14 @@
                 <a href="/categories/objects/" class="navbar-item">
                     Objects
                 </a>
+                <a href="/categories/occasions/" class="navbar-item">
+                    Occasions
+                </a>
                 <a href="/categories/places/" class="navbar-item">
                     Places
                 </a>
                 <a href="/categories/practices/" class="navbar-item">
                     Practices
-                </a>
-                <a href="/categories/sounds/" class="navbar-item">
-                    Sounds
                 </a>
                 <a href="/categories/texts/" class="navbar-item">
                     Texts
@@ -123,6 +126,10 @@
                 </a>
             </div>
         </div>
+
+        <a href="/tags/" class="navbar-item">
+            Search by Tags
+        </a>
 
         <a href="/b/" class="navbar-item">
             Books
@@ -156,7 +163,7 @@
                     <h2 class="subtitle has-text-white">Useful articles, books, and online resources.</h2>
                     
         
-                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Search Sources..." onkeyup="search()">
+                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Search Sources..." onkeyup="searchSources()">
 
                     <button style="margin-top: 20px" class="button is-light" id="button">
                         <span id="more">More options...&nbsp;&nbsp;
@@ -180,15 +187,15 @@
                     <div class="columns is-vcentered">
                             
                             <div class="column">
-                                <input id="searchboxAuthor" class="input is-size-4" type="text" placeholder="Search by author..." onkeyup="search()">
+                                <input id="searchboxAuthor" class="input is-size-4" type="text" placeholder="Search by author..." onkeyup="searchSources()">
                             </div>
                             
                             <div class="column">
-                                <input id="searchboxTags" class="input is-size-4" type="text" placeholder="Search by tags..." onkeyup="search()">
+                                <input id="searchboxTags" class="input is-size-4" type="text" placeholder="Search by tags..." onkeyup="searchSources()">
                             </div>
                             
                             <div class="column">
-                                <input id="searchboxYear" class="input is-size-4" type="text" placeholder="Search by year..." onkeyup="search()">
+                                <input id="searchboxYear" class="input is-size-4" type="text" placeholder="Search by year..." onkeyup="searchSources()">
                             </div>
 
                     </div>
@@ -812,7 +819,7 @@
             <div class="container is-fluid" style="position: absolute; top: 25px">
                 <div class="columns is-mobile">
                     <div class="column is-10">
-                        <input onkeyup="titleSearch()" id="title-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
+                        <input onkeyup="titleSearch()" id="title-mobile-input" placeholder="Search by title" style="margin-bottom: 10px;" type="text" class="input">
                         
                         <p class="title-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
                             <a class="title-result-link" style="color: white;" href="https://www.understandingreligion.org.uk/s/be-love-now-2010/">
@@ -947,7 +954,7 @@
                 <div class="container is-fluid" style="position: absolute; top: 25px">
                     <div class="columns is-mobile">
                         <div class="column is-10">
-                            <input onkeyup="authorSearch()" id="author-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
+                            <input onkeyup="authorSearch()" placeholder="Search by author" id="author-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
                             
                             <p class="author-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
                                 <a class="author-result-link" style="color: white;" href="https://www.understandingreligion.org.uk/s/be-love-now-2010/">
@@ -1082,7 +1089,7 @@
                     <div class="container is-fluid" style="position: absolute; top: 25px">
                         <div class="columns is-mobile">
                             <div class="column is-10">
-                                <input onkeyup="yearSearch()" id="year-mobile-input" style="margin-bottom: 10px;" type="number" class="input">
+                                <input onkeyup="yearSearch()" placeholder="Search by year" id="year-mobile-input" style="margin-bottom: 10px;" type="number" class="input">
                                 
                                 <p class="year-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
                                     <a class="year-result-link" style="color: white;" href="https://www.understandingreligion.org.uk/s/be-love-now-2010/">
@@ -1217,7 +1224,7 @@
                         <div class="container is-fluid" style="position: absolute; top: 25px">
                             <div class="columns is-mobile">
                                 <div class="column is-10">
-                                    <input onkeyup="tagSearch()" id="tag-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
+                                    <input onkeyup="tagSearch()" placeholder="Search by tags" id="tag-mobile-input" style="margin-bottom: 10px;" type="text" class="input">
                                     
                                     <p class="tag-result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
                                         <a class="tag-result-link" style="color: white;" href="https://www.understandingreligion.org.uk/s/be-love-now-2010/">Be Love Now ( hinduism yoga )</a>
