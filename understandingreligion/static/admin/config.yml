@@ -12,6 +12,6 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'Title', widget: 'string' }
-      - { label: 'Publish Date', name: 'publishdate', widget: 'datetime' }
-      - { label: 'Abstract', name: 'abstract', widget: 'string' }
-      - { label: 'Content', name: 'content', widget: 'markdown' }
+      - { label: 'Publish Date', name: 'PublishDate', widget: 'datetime' }
+      - { label: 'Abstract', name: 'Abstract', widget: 'string' }
+      - { label: 'Content', name: 'Content', widget: 'markdown' }
