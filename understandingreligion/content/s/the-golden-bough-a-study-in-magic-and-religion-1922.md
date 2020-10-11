@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [comparative religion,mythology]
 Title: "The Golden Bough: A Study in Magic and Religion"
 

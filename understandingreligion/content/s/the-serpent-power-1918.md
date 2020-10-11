@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [yoga,kundalini,hinduism,india]
 Title: "The Serpent Power"
 

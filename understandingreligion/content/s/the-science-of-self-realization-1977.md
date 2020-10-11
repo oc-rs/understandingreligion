@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [bhakti,yoga,vaishnavism,iskcon]
 Title: "The Science of Self-Realization"
 

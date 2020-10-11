@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [greece,philosophy]
 Title: "The Last Days of Socrates"
 

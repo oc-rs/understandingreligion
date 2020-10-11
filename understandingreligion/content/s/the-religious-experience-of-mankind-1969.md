@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [comparative religion]
 Title: "The Religious Experience of Mankind"
 

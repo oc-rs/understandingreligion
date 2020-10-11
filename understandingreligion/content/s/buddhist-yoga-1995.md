@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [buddhism,yoga]
 Title: "Buddhist Yoga"
 

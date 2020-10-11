@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [religious studies,world religions]
 Title: "The Study of Religion: An Introduction to Key Ideas and Methods"
 

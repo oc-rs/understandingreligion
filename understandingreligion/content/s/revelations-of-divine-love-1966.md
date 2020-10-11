@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [christianity,women,mystic,mysticism,religious experience]
 Title: "Revelations of Divine Love"
 

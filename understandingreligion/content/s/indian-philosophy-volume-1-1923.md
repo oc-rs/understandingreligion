@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [india,philosophy,buddhism,hinduism,jainism]
 Title: "Indian Philosophy: Volume 1"
 

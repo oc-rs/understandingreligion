@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [hinduism,india,mythology]
 Title: "Hindu Myths"
 

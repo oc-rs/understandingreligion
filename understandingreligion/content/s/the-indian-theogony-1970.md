@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [hinduism,india,comparative mythology]
 Title: "The Indian Theogony"
 

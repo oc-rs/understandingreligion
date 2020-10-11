@@ -1,6 +1,7 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
+
 Tags: [hinduism,yoga]
 Title: "Be Love Now"
 

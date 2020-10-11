@@ -2,6 +2,11 @@ baseURL = "https://www.understandingreligion.org.uk/"
 languageCode = "en-gb"
 title = "Understanding Religion"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  sourcetype = "sourcetypes"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]

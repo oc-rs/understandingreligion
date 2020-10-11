@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [philosophy,greece,catholicism]
 Title: "History of Western Philosophy"
 

@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [buddhism]
 Title: "Buddhism: A Very Short Introduction"
 

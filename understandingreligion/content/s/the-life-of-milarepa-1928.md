@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [tibet,buddhism,biography]
 Title: "The Life of Milarepa"
 

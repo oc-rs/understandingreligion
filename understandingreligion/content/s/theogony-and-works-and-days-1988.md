@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [greece,mythology ]
 Title: "Theogony and Works and Days"
 

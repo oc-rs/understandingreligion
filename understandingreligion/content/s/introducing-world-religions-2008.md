@@ -1,6 +1,6 @@
 ---
 Source: true
-Sourcetype: Book
+Sourcetypes: [Books]
 Tags: [religious studies,world religions]
 Title: "Introducing World Religions"
 
