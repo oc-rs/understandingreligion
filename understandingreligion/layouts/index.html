@@ -69,7 +69,7 @@
                         </p>
     
                         <p>
-                            There's no agenda, nothing to buy and nothing to sell. We don't collect cookies, don't ask you to sign in, and don't ask you to pay anything.
+                            The content is free to use and free to share.
                         </p>
 
                         <p>
@@ -86,13 +86,77 @@
 
                     </div>
                 </div>
+
+                <h2 class="is-size-2 p-3" style="color: #032539; text-decoration: underline solid #FA991C">Featured article</h2>
+
+                <div class="columns is-multiline">
+                    {{ range first 1 (where .Site.RegularPages "Params.featured" true) }}
+                    <div class="item column">
+                      <article class="tile is-child box">
+
+                            {{ if (isset .Params "categories") }}
+                            {{ range .Params.categories }}
+                            <p style="background-color: #032539; color: #FFF; position: relative; top: -30px; left: -10px; padding: 5px; margin: 0px; display: inline-block"><a style="border-bottom: none;" href="/categories/{{ . | urlize }}">{{ . }}</a></p>
+                            {{ end }}
+                            {{ else }}
+                            {{ end }}    
+                        
+                            {{ if (eq .Params.source true) }}
+                            {{ range .Params.sourcetypes }}
+                            <p style="background-color: #FA991C; color: #000000; position: relative; top: -30px; left: -10px; padding: 5px; margin: 0px; display: inline-block"><a href="/sourcetypes/{{ . | urlize }}">{{ . }}</a></p>
+                            {{ end }}
+                            {{ end }}
+                            
+                            <p class="title item-title">{{ .Title }}</p>
+
+                            {{ if (isset .Params "image" )}}
+                            <img style="max-height: 200px; min-width: 100%; object-fit: cover" src="/img/images/{{ .Params.image }}">
+                            {{ end }}
+                            
+                            {{ if (eq .Params.source true) }}
+                            <p class="subtitle"><span class="item-author">{{ .Params.sourceauthor }}</span> (<span class="item-year">{{ .Params.originalyear }}</span>)</p>
+                            {{ end }}
+                            
+                            <p class="item-abstract">{{ .Params.abstract }}</p>
+                            
+                            <p style="margin-top: 5px"><a href="{{.Permalink}}">Start reading...</a></p>
+
+                            {{ if (isset .Params "tags") }}
+                            <hr>
+                            <div class="item-taglist">
+                                {{ range .Params.tags }}
+                                <span><a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
+                                {{ end }}
+                            </div>
+                            {{ else }}
+                            {{ end }}
+
+                            
+
+                      </article>
+                    </div>
+                    {{ end }}
+                </div>
                 
-                <h2 class="is-size-2 p-3" style="color: #032539">Recent articles</h2>
+                <h2 class="is-size-2 p-3" style="color: #032539; text-decoration: underline solid #FA991C">Recent articles</h2>
 
                 <div class="columns is-multiline">
                     {{ range first 3 (sort (where .Site.RegularPages "Section" "p") ".Params.LastModifiedDate" "desc") }}
                     <div class="item column is-one-third">
                       <article class="tile is-child box">
+
+                            {{ if (isset .Params "categories") }}
+                            {{ range .Params.categories }}
+                            <p style="background-color: #032539; color: #FFF; position: relative; top: -30px; left: -10px; padding: 5px; margin: 0px; display: inline-block"><a style="border-bottom: none;" href="/categories/{{ . | urlize }}">{{ . }}</a></p>
+                            {{ end }}
+                            {{ else }}
+                            {{ end }}    
+                        
+                            {{ if (eq .Params.source true) }}
+                            {{ range .Params.sourcetypes }}
+                            <p style="background-color: #FA991C; color: #000000; position: relative; top: -30px; left: -10px; padding: 5px; margin: 0px; display: inline-block"><a href="/sourcetypes/{{ . | urlize }}">{{ . }}</a></p>
+                            {{ end }}
+                            {{ end }}
                             
                             <p class="title item-title">{{ .Title }}</p>
 
@@ -125,7 +189,7 @@
                     {{ end }}
                 </div>
 
-                <h2 class="is-size-2 p-3" style="color: #032539">Site map</h2>
+                <h2 class="is-size-2 p-3" style="color: #032539; text-decoration: underline solid #FA991C">Site map</h2>
 
                 <div class="columns is-multiline">
                     {{ range .Pages.ByTitle }}

@@ -4,13 +4,15 @@ Abstract: "Animism is a term based on the Latin word for 'soul', which frames al
 
 Author: Luke Burns
 
-Categories: ['Beliefs']
-Tags: []
+Categories: ['Concepts']
+Tags: ['indigenous']
 
 PublishDate: 2020-01-01
 LastModifiedDate: 2020-02-21
 
 Image: "dancing.jpg"
+
+Featured: true
 
 Books:
 --  - Name: 
