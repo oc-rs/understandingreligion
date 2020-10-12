@@ -8,6 +8,20 @@
         <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
         <link rel="manifest" href="/img/site.webmanifest">
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@_ocrs_" />
+        <meta name="twitter:creator" content="@_ocrs_" />
+        <meta property="og:url" content="{{ .Permalink }}" />
+        <meta property="og:title" content="{{ .Title }}" />
+        <meta property="og:description" content="{{ .Params.abstract }}" />
+
+        {{ if (isset .Params "image") }}
+        <meta property="og:image" content="/img/images/{{ .Params.image }}" />
+        {{ else }}
+        <meta property="og:image" content="/img/logo.jpg" />
+        {{ end }}
+
         <script>
           document.addEventListener('DOMContentLoaded', () => {
             // Get all "navbar-burger" elements
