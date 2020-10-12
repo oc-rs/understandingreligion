@@ -60,7 +60,7 @@
                             <p class="title item-title">{{ .Title }}</p>
                             
                             {{ if (eq .Params.source true) }}
-                            <p class="subtitle"><span class="item-author">{{ .Params.sourceauthor }}</span> (<span class="item-year">{{ .Params.originalyear }}</span>)</p>
+                            <p class="subtitle"><span class="item-author">{{ .Params.sourceauthor }}</span> {{ with .Params.originalyear }}(<span class="item-year">{{ . }}</span>){{end}}</p>
                             {{ end }}
                             
                             <p class="item-abstract">{{ .Params.abstract | truncate 100 }}</p>

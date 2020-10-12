@@ -6,9 +6,19 @@
     <description>Recent content in Sourcetypes on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/sourcetypes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Podcasts</title>
+      <link>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Books</title>

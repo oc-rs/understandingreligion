@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasts on Understanding Religion</title>
+    <link>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</link>
+    <description>Recent content in Podcasts on Understanding Religion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.understandingreligion.org.uk/sourcetypes/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>#She Too</title>
+      <link>https://www.understandingreligion.org.uk/s/she-too/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/she-too/</guid>
+      <description>Introduction A seven-part podcast series exploring some of the texts that include violence against women in the Bible.
+Link You can access the podcast here: https://www.biblesociety.org.uk/explore-the-bible/shetoo/</description>
+    </item>
+    
+    <item>
+      <title>New Testament Review</title>
+      <link>https://www.understandingreligion.org.uk/s/new-testament-review/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/new-testament-review/</guid>
+      <description>Introduction Influential works of New Testament scholarship discussed by two Duke PhD candidates.
+Link You can access the podcast here: https://podcasts.apple.com/us/podcast/new-testament-review/id1377442882</description>
+    </item>
+    
+    <item>
+      <title>NT Pod</title>
+      <link>https://www.understandingreligion.org.uk/s/nt-pod/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/nt-pod/</guid>
+      <description>Introduction Podcast about the New Testament and Christian Origins. Condensed comment from an academic perspective for everyone interested in historical approaches to the New Testament. By Mark Goodacre, Frances Hill Fox Professor of Religious Studies, Duke University.
+Link You can access the podcast here: https://podacre.blogspot.com</description>
+    </item>
+    
+    <item>
+      <title>Religion Bites</title>
+      <link>https://www.understandingreligion.org.uk/s/religion-bites/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/religion-bites/</guid>
+      <description>Introduction This is a podcast by Malory Nye on the study of religion.
+Link You can access the podcast here: https://medium.com/religion-bites-podcast</description>
+    </item>
+    
+    <item>
+      <title>The Faith and Belief Forum: Podcast</title>
+      <link>https://www.understandingreligion.org.uk/s/faith-and-belief-forum-podcast/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/faith-and-belief-forum-podcast/</guid>
+      <description>Introduction This podcast is produced by the Faith and Belief Forum, an organisation dedicated to building good relations between people of different identities.
+Link You can access the podcast here: https://faithbeliefforum.org/category/podcast/</description>
+    </item>
+    
+  </channel>
+</rss>
