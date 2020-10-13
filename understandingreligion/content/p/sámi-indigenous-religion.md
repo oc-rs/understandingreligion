@@ -5,7 +5,7 @@ Abstract: ""
 Author: Luke Burns
 
 Categories: ['Traditions']
-Tags: []
+Tags: ['indigenous']
 
 PublishDate: 2020-10-04
 LastModifiedDate: 2020-10-04

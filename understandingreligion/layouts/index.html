@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html class="has-navbar-fixed-top">
 
     {{ partial "head.html" . }}
 
@@ -189,6 +189,64 @@
                     {{ end }}
                 </div>
 
+                <!-- end of recent articles -->
+
+
+                <!-- recent sources -->
+                <h2 class="is-size-2 p-3" style="color: #032539; text-decoration: underline solid #FA991C">Recent sources</h2>
+
+                <div class="columns is-multiline">
+                    {{ range first 3 (sort (where .Site.RegularPages "Section" "s") ".Params.LastModifiedDate" "desc") }}
+                    <div class="item column is-one-third">
+                      <article class="tile is-child box">
+
+                            {{ if (isset .Params "categories") }}
+                            {{ range .Params.categories }}
+                            <p style="background-color: #032539; color: #FFF; position: relative; top: -30px; left: -10px; padding: 5px; margin: 0px; display: inline-block"><a style="border-bottom: none;" href="/categories/{{ . | urlize }}">{{ . }}</a></p>
+                            {{ end }}
+                            {{ else }}
+                            {{ end }}    
+                        
+                            {{ if (eq .Params.source true) }}
+                            {{ range .Params.sourcetypes }}
+                            <p style="background-color: #FA991C; color: #000000; position: relative; top: -30px; left: -10px; padding: 5px; margin: 0px; display: inline-block"><a href="/sourcetypes/{{ . | urlize }}">{{ . }}</a></p>
+                            {{ end }}
+                            {{ end }}
+                            
+                            <p class="title item-title">{{ .Title }}</p>
+
+                            {{ if (isset .Params "image" )}}
+                            <img src="/img/images/{{ .Params.image }}">
+                            {{ end }}
+                            
+                            {{ if (eq .Params.source true) }}
+                            <p class="subtitle"><span class="item-author">{{ .Params.sourceauthor }}</span> {{ with .Params.originalyear }}(<span class="item-year">{{ . }}</span>){{end}}</p>
+                            {{ end }}
+                            
+                            <p class="item-abstract">{{ .Params.abstract | truncate 100 }}</p>
+                            
+                            <p style="margin-top: 5px"><a href="{{.Permalink}}">Start reading...</a></p>
+
+                            {{ if (isset .Params "tags") }}
+                            <hr>
+                            <div class="item-taglist">
+                                {{ range .Params.tags }}
+                                <span><a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
+                                {{ end }}
+                            </div>
+                            {{ else }}
+                            {{ end }}
+
+                            
+
+                      </article>
+                    </div>
+                    {{ end }}
+                </div>
+                <!-- end of recent sources -->
+
+
+                <!-- site map -->
                 <h2 class="is-size-2 p-3" style="color: #032539; text-decoration: underline solid #FA991C">Site map</h2>
 
                 <div class="columns is-multiline">
