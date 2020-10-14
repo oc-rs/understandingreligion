@@ -14,7 +14,12 @@
         <meta name="twitter:creator" content="@_ocrs_" />
         <meta property="og:url" content="{{ .Permalink }}" />
         <meta property="og:title" content="{{ .Title }}" />
+
+        {{ if (isset .Params "abstract") }}
         <meta property="og:description" content="{{ .Params.abstract }}" />
+        {{ else }}
+        <meta property="og:description" content="Understanding Religion is a website that aims to provide easy access to information about the study of religion, published by the Online Centre for Religious Studies. Always free, written clearly for a wide audience, grounded in academic study and supported by references for those who want to dive deeper." />
+        {{ end }}
 
         {{ if (isset .Params "image") }}
         <meta property="og:image" content="https://www.understandingreligion.org.uk/img/images/{{ .Params.image }}" />
