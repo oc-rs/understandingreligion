@@ -3,7 +3,7 @@ Title: "The Database of Religious History"
 Abstract: "The world’s first comprehensive online quantitative and qualitative encyclopedia of religious cultural history."
 
 Source: true
-Sourcetypes: [Website]
+Sourcetypes: [Websites]
 
 Tags: []
 

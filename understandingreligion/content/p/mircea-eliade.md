@@ -4,7 +4,7 @@ Abstract: ""
 Categories: ['Scholars']
 Tags: []
 Date: 2019-12-14
-LastModifiedDate: 
+LastModifiedDate: 2019-12-14
 
 Books:
   - Name: "Book1"

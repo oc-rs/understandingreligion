@@ -27,43 +27,8 @@
                     <h2 class="subtitle has-text-white">{{ .Params.abstract}}</h2>
                     {{ end }}
         
-                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Search {{ .Title }}..." onkeyup="searchSources()">
-
-                    <button style="margin-top: 20px" class="button is-light" id="button">
-                        <span id="more">More options...&nbsp;&nbsp;
-                            <span class="icon">
-                                <i class="fas fa-chevron-circle-down"></i>
-                            </span>
-                        </span>
-                        <span style="display: none" id="less">Hide options...&nbsp;&nbsp;
-                            <span class="icon">
-                                <i class="fas fa-chevron-circle-up"></i>
-                            </span>
-                        </span>
-                    </button>
-
+                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Search {{ .Title }}..." onkeyup="search()">
                 </div>
-        
-            </div>
-
-            <div id="filters" style="height: 0; padding: 0; overflow: hidden;" class="columns">
-                <div style="border-left: 10px solid #FA991C" class="column is-8 is-offset-2">
-                    <div class="columns is-vcentered">
-                            
-                            <div class="column">
-                                <input id="searchboxAuthor" class="input is-size-4" type="text" placeholder="Search by author..." onkeyup="searchSources()">
-                            </div>
-                            
-                            <div class="column">
-                                <input id="searchboxTags" class="input is-size-4" type="text" placeholder="Search by tags..." onkeyup="searchSources()">
-                            </div>
-                            
-                            <div class="column">
-                                <input id="searchboxYear" class="input is-size-4" type="text" placeholder="Search by year..." onkeyup="searchSources()">
-                            </div>
-
-                    </div>
-                </div>            
             </div>
         </section>
 
@@ -110,43 +75,43 @@
                                 {{ else }}
                                 {{ end }}
 
-                                <p id="searchstring" style="display: none">
+                                <p class="searchstring" style="display: none">
 
-                                    <span id="ss_categories">
+                                    <span class="ss_categories">
                                     {{ with .Params.categories }}
                                     {{ . }}
                                     {{ end }}    
                                     </span>
                                     
-                                    <span id="ss_sourcetypes">
+                                    <span class="ss_sourcetypes">
                                     {{ with .Params.sourcetypes }}
                                     {{ . }}
                                     {{ end }}
                                     </span>
                                     
-                                    <span id="ss_title">
+                                    <span class="ss_title">
                                     {{ .Title }}
                                     </span>
                                     
-                                    <span id="ss_sourceauthor">
+                                    <span class="ss_sourceauthor">
                                     {{ with .Params.sourceauthor }}
                                     {{ . }}
                                     {{ end }}
                                     </span>
                                     
-                                    <span id="ss_year">
+                                    <span class="ss_year">
                                     {{ with .Params.originalyear }}
                                     {{ . }}
                                     {{ end }}
                                     </span>
                                     
-                                    <span id="ss_abstract">
+                                    <span class="ss_abstract">
                                     {{ with .Params.abstract }}
                                     {{ . }}
                                     {{ end }}
                                     </span>
                                     
-                                    <span id="ss_tags">
+                                    <span class="ss_tags">
                                     {{ with .Params.tags }}
                                     {{ . }}
                                     {{ end }}

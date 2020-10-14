@@ -3,7 +3,7 @@ Title: "SOAS Centre of Yoga Studies: YouTube Channel"
 Abstract: "Run by SOAS University, the Centre of Yoga Studies researches and shares information about yoga practices and history."
 
 Source: true
-Sourcetypes: [YouTube Channel]
+Sourcetypes: [YouTube Channels]
 
 Tags: []
 
