@@ -128,8 +128,92 @@
 
             </div>
             
+            
         </section>
 
+        <!-- CONTROL PANEL -->
+        <div class="level is-mobile" style="position: fixed; bottom: 0px; margin: 0px; padding: 5px; width: 100%; background-color: #DADADA">
+            <a id="launch-search-modal" class="level-item" style="color: inherit">
+                    <i class="fas fa-search"></i> &nbsp; Search here
+            </a>
+            <div class="level-item has-text-centered">
+                <div>
+                    <p class="heading">Pages in category</p>
+                    <p class="title">{{ len .Pages.ByTitle }}</p>
+                </div>
+            </div>
+            <a class="level-item" href="#top" style="color: inherit">
+                ^ Jump to top
+            </a>
+        </div>
+        <!-- CONTROL PANEL -->
+
+        <!-- SEARCH MODAL -->
+        <div id="search-modal" class="modal">
+            <div class="modal-background"></div>
+            <div class="container is-fluid" style="position: absolute; top: 25px">
+                <div class="columns is-mobile">
+                    <div class="column is-10">
+                        <input style="font-size: 1.5rem" onkeyup="m_search()" id="mobile-input" placeholder="Search {{ .Title }}" style="margin-bottom: 10px;" type="text" class="input">
+                        {{ range .Pages.ByTitle }}
+                        <p class="m_result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
+                            <a class="m_result-link" style="color: white;" href="{{ .Permalink }}">
+                               {{ .Title }}
+                            </a>
+                        </p>
+                        <p class="m_searchstring" style="display: none">
+
+                            <span class="m_ss_categories">
+                            {{ with .Params.categories }}
+                            {{ . }}
+                            {{ end }}    
+                            </span>
+                            
+                            <span class="m_ss_sourcetypes">
+                            {{ with .Params.sourcetypes }}
+                            {{ . }}
+                            {{ end }}
+                            </span>
+                            
+                            <span class="m_ss_title">
+                            {{ .Title }}
+                            </span>
+                            
+                            <span class="m_ss_sourceauthor">
+                            {{ with .Params.sourceauthor }}
+                            {{ . }}
+                            {{ end }}
+                            </span>
+                            
+                            <span class="m_ss_year">
+                            {{ with .Params.originalyear }}
+                            {{ . }}
+                            {{ end }}
+                            </span>
+                            
+                            <span class="m_ss_abstract">
+                            {{ with .Params.abstract }}
+                            {{ . }}
+                            {{ end }}
+                            </span>
+                            
+                            <span class="m_ss_tags">
+                            {{ with .Params.tags }}
+                            {{ . }}
+                            {{ end }}
+                            </span>
+                            
+                        </p>
+                        {{ end }}
+                    </div>
+                    <div class="column is-2">
+                        <button onclick="closeModal()" class="has-background-danger modal-close is-large"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END OF SEARCH MODAL -->
+        
         {{ partial "footer.html" . }}
     </body>
 </html>

@@ -397,8 +397,164 @@
 
             </div>
             
+            
         </section>
 
+        
+        <div class="level is-mobile" style="position: fixed; bottom: 0px; margin: 0px; padding: 5px; width: 100%; background-color: #DADADA">
+            <a id="launch-search-modal" class="level-item" style="color: inherit">
+                    <i class="fas fa-search"></i> &nbsp; Search here
+            </a>
+            <div class="level-item has-text-centered">
+                <div>
+                    <p class="heading">Pages in category</p>
+                    <p class="title">3</p>
+                </div>
+            </div>
+            <a class="level-item" href="#top" style="color: inherit">
+                ^ Jump to top
+            </a>
+        </div>
+        
+
+        
+        <div id="search-modal" class="modal">
+            <div class="modal-background"></div>
+            <div class="container is-fluid" style="position: absolute; top: 25px">
+                <div class="columns is-mobile">
+                    <div class="column is-10">
+                        <input style="font-size: 1.5rem" onkeyup="m_search()" id="mobile-input" placeholder="Search Food" style="margin-bottom: 10px;" type="text" class="input">
+                        
+                        <p class="m_result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
+                            <a class="m_result-link" style="color: white;" href="https://www.understandingreligion.org.uk/p/eucharist/">
+                               Eucharist
+                            </a>
+                        </p>
+                        <p class="m_searchstring" style="display: none">
+
+                            <span class="m_ss_categories">
+                            
+                            [Practices Food]
+                                
+                            </span>
+                            
+                            <span class="m_ss_sourcetypes">
+                            
+                            </span>
+                            
+                            <span class="m_ss_title">
+                            Eucharist
+                            </span>
+                            
+                            <span class="m_ss_sourceauthor">
+                            
+                            </span>
+                            
+                            <span class="m_ss_year">
+                            
+                            </span>
+                            
+                            <span class="m_ss_abstract">
+                            
+                            </span>
+                            
+                            <span class="m_ss_tags">
+                            
+                            </span>
+                            
+                        </p>
+                        
+                        <p class="m_result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
+                            <a class="m_result-link" style="color: white;" href="https://www.understandingreligion.org.uk/p/kashrut/">
+                               Kashrut
+                            </a>
+                        </p>
+                        <p class="m_searchstring" style="display: none">
+
+                            <span class="m_ss_categories">
+                            
+                            [Practices Beliefs Food]
+                                
+                            </span>
+                            
+                            <span class="m_ss_sourcetypes">
+                            
+                            </span>
+                            
+                            <span class="m_ss_title">
+                            Kashrut
+                            </span>
+                            
+                            <span class="m_ss_sourceauthor">
+                            
+                            </span>
+                            
+                            <span class="m_ss_year">
+                            
+                            </span>
+                            
+                            <span class="m_ss_abstract">
+                            
+                            Jewish dietary law.
+                            
+                            </span>
+                            
+                            <span class="m_ss_tags">
+                            
+                            </span>
+                            
+                        </p>
+                        
+                        <p class="m_result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
+                            <a class="m_result-link" style="color: white;" href="https://www.understandingreligion.org.uk/p/kosher/">
+                               Kosher
+                            </a>
+                        </p>
+                        <p class="m_searchstring" style="display: none">
+
+                            <span class="m_ss_categories">
+                            
+                            [Practices Beliefs Food]
+                                
+                            </span>
+                            
+                            <span class="m_ss_sourcetypes">
+                            
+                            </span>
+                            
+                            <span class="m_ss_title">
+                            Kosher
+                            </span>
+                            
+                            <span class="m_ss_sourceauthor">
+                            
+                            </span>
+                            
+                            <span class="m_ss_year">
+                            
+                            </span>
+                            
+                            <span class="m_ss_abstract">
+                            
+                            Food which is appropriate to eat in Jewish traditions.
+                            
+                            </span>
+                            
+                            <span class="m_ss_tags">
+                            
+                            </span>
+                            
+                        </p>
+                        
+                    </div>
+                    <div class="column is-2">
+                        <button onclick="closeModal()" class="has-background-danger modal-close is-large"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
         <footer class="section" style="margin-top: 0; background-color: #FA991C; color: #000000">
     <div style="margin-top: 0;" class="columns is-vcentered has-text-centered">
         <div class="column">

@@ -276,8 +276,90 @@
 
             </div>
             
+            
         </section>
 
+        
+        <div class="level is-mobile" style="position: fixed; bottom: 0px; margin: 0px; padding: 5px; width: 100%; background-color: #DADADA">
+            <a id="launch-search-modal" class="level-item" style="color: inherit">
+                    <i class="fas fa-search"></i> &nbsp; Search here
+            </a>
+            <div class="level-item has-text-centered">
+                <div>
+                    <p class="heading">Pages in category</p>
+                    <p class="title">1</p>
+                </div>
+            </div>
+            <a class="level-item" href="#top" style="color: inherit">
+                ^ Jump to top
+            </a>
+        </div>
+        
+
+        
+        <div id="search-modal" class="modal">
+            <div class="modal-background"></div>
+            <div class="container is-fluid" style="position: absolute; top: 25px">
+                <div class="columns is-mobile">
+                    <div class="column is-10">
+                        <input style="font-size: 1.5rem" onkeyup="m_search()" id="mobile-input" placeholder="Search kundalini" style="margin-bottom: 10px;" type="text" class="input">
+                        
+                        <p class="m_result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
+                            <a class="m_result-link" style="color: white;" href="https://www.understandingreligion.org.uk/s/the-serpent-power-1918/">
+                               The Serpent Power
+                            </a>
+                        </p>
+                        <p class="m_searchstring" style="display: none">
+
+                            <span class="m_ss_categories">
+                                
+                            </span>
+                            
+                            <span class="m_ss_sourcetypes">
+                            
+                            [Books]
+                            
+                            </span>
+                            
+                            <span class="m_ss_title">
+                            The Serpent Power
+                            </span>
+                            
+                            <span class="m_ss_sourceauthor">
+                            
+                            Sir John Woodroffe
+                            
+                            </span>
+                            
+                            <span class="m_ss_year">
+                            
+                            1918
+                            
+                            </span>
+                            
+                            <span class="m_ss_abstract">
+                            
+                            An introduction to the concept of laya yoga, along with translations of two Sanskrit works - the Sat-Chakra-Nirupana and the Paduka-Pancaka.
+                            
+                            </span>
+                            
+                            <span class="m_ss_tags">
+                            
+                            [yoga kundalini hinduism india]
+                            
+                            </span>
+                            
+                        </p>
+                        
+                    </div>
+                    <div class="column is-2">
+                        <button onclick="closeModal()" class="has-background-danger modal-close is-large"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
         <footer class="section" style="margin-top: 0; background-color: #FA991C; color: #000000">
     <div style="margin-top: 0;" class="columns is-vcentered has-text-centered">
         <div class="column">

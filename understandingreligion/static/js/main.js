@@ -32,6 +32,7 @@ function hideFrontpageResults() {
   x.style.padding = 0;
 }
 
+// Normal search function for desktop interface
 function search() {
     var list = document.getElementsByClassName('searchstring');
     var item = document.getElementsByClassName('item');
@@ -53,105 +54,76 @@ function search() {
       }
       }
   };
+// End of normal search function for desktop interface
 
 
 
 
-  window.onload=function(){
-    document.getElementById("button").addEventListener("click",function(){
-      var i = document.getElementById("filters");
-      var less = document.getElementById("less");
-      var more = document.getElementById("more");
+// Launch mobile-friendly search modal if window size is small
+document.getElementById("searchbox").addEventListener("focus",function(){
+  w = window.innerWidth;
+  m = document.getElementById("search-modal")
 
-      if (more.style.display != "none") {
-        more.style.display = "none";
-        less.style.display = "block";
-        i.style.height = "auto";
-        i.style.padding = "";
-      }
-
-      else {
-        more.style.display = "block";
-        less.style.display = "none";
-        i.style.height = "0";
-        i.style.padding = "0";
-      };
-      
-
-    }
-    )
+  if( w < 500 ){
+    m.classList.add("is-active");
+    document.getElementById("mobile-input").focus();
   }
-
-  document.getElementById("searchbox").addEventListener("focus",function(){
-    w = window.innerWidth;
-    m = document.getElementById("search-modal")
-
-    if( w < 500 ){
-      m.classList.add("is-active");
-      document.getElementById("title-mobile-input").focus();
-    }
-    else {
-      null;
-    }
+  else {
+    null;
   }
-  )
+}
+)
+// End of launch mobile-friendly search modal if window size is small
 
-  document.getElementById("searchboxAuthor").addEventListener("focus",function(){
-    w = window.innerWidth;
-    m = document.getElementById("search-author-modal")
+document.getElementById("launch-search-modal").addEventListener("click",function(){
+  w = window.innerWidth;
+  m = document.getElementById("search-modal")
 
-    if( w < 500 ){
-      m.classList.add("is-active");
-      document.getElementById("author-mobile-input").focus();
-    }
-    else {
-      null;
-    }
+  if( w < 500 ){
+    m.classList.add("is-active");
+    document.getElementById("mobile-input").focus();
   }
-  )
-
-  document.getElementById("searchboxYear").addEventListener("focus",function(){
-    w = window.innerWidth;
-    m = document.getElementById("search-year-modal")
-
-    if( w < 500 ){
-      m.classList.add("is-active");
-      document.getElementById("year-mobile-input").focus();
-    }
-    else {
-      null;
-    }
+  else {
+    document.getElementById("searchbox").focus();
   }
-  )
-
-  document.getElementById("searchboxTags").addEventListener("focus",function(){
-    w = window.innerWidth;
-    m = document.getElementById("search-tag-modal")
-
-    if( w < 500 ){
-      m.classList.add("is-active");
-      document.getElementById("tag-mobile-input").focus();
-    }
-    else {
-      null;
-    }
-  }
-  )
+}
+)
+// End of launch mobile-friendly search modal if window size is small
 
 
+// Close mobile-friendly search modal
 function closeModal(){
     m1 = document.getElementById("search-modal");
-    m2 = document.getElementById("search-author-modal");
-    m3 = document.getElementById("search-year-modal");
-    m4 = document.getElementById("search-tag-modal");
-
 
     m1.classList.remove("is-active");
-    m2.classList.remove("is-active");
-    m3.classList.remove("is-active");
-    m4.classList.remove("is-active");
-
   }
+// End of close mobile-friendly search modal
+
+
+// Search function within mobile-friendly search modal
+function m_search(){    
+  var list = document.getElementsByClassName('m_searchstring'); // Get search string for each record
+  var item = document.getElementsByClassName('m_result-item'); // Get record container
+  var input = document.getElementById('mobile-input'); // Get search text from user
+  var filter = input.value.toUpperCase(); // Standardise input
+  
+  var title; // Empty variable to populate with search criteria during loop
+
+for (i = 0; i < item.length; i++) {
+
+    title = list[i].innerHTML;
+
+    if  (title.toUpperCase().indexOf(filter) > -1)
+    {
+      item[i].style.display = "block";
+    } else {
+      item[i].style.display = "none";
+    }
+    }
+}
+// End of 
+
+
 
   function titleSearch(){    
     var list = document.getElementsByClassName('title-result-link');
