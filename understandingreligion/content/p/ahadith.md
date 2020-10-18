@@ -5,7 +5,7 @@ Abstract: "The ahadith are texts containing reported stories about Muhammad, and
 Author: Luke Burns
 
 Categories: ['Texts']
-Tags: ['islam']
+Tags: ['islam','stub']
 
 PublishDate: 2020-02-22
 LastModifiedDate: 2020-02-22

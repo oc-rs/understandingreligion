@@ -2,8 +2,8 @@
 Title: "Six Articles of Faith"
 Abstract: "Within Islam, there are three aspects which are generally agreed upon - these are islam (submission), iman (faith), and ihsan (perfection). In this article, we're going to focus on iman and see how it is understood in relation to Islam as a religious tradition, but it's clear from this threefold division that faith by itself isn't the whole story."
 Author: Luke Burns
-Categories: ['Beliefs','Islam']
-Tags: []
+Categories: ['Concepts']
+Tags: ['islam']
 PublishDate: 2020-01-01
 LastModifiedDate: 2020-01-01
 

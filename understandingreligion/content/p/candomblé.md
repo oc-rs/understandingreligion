@@ -15,5 +15,5 @@ Books:
 
 ---
 
-## This article is still growing!
-You can help move it along... Get in touch if you would like to submit content.
+# This article is still growing!
+You can help move it along... [Get in touch](/m/about#contributions) if you would like to submit content.

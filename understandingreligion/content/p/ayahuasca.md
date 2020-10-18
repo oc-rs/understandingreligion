@@ -3,7 +3,7 @@ Title: "Ayahuasca"
 Abstract: "A drink prepared by indigenous groups in the Amazon, containing a number of psychoactive chemicals. It is often used in groups to facilitate healing, visions, and insight."
 
 Categories: ['Entheogens']
-Tags: []
+Tags: ['stub']
 
 PublishDate: 2020-02-07
 LastModifiedDate: 2020-10-03

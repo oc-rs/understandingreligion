@@ -1,3 +1,12 @@
+document.onscroll = function() {
+  if (window.innerHeight + window.scrollY > document.body.clientHeight) {
+      document.getElementById('controlpanel').style.display='none';
+  }
+  else {
+    document.getElementById('controlpanel').style.display='';
+  }
+}
+
 function searchFrontpage() {
   var x = document.getElementById("frontpage-results");
 

@@ -5,7 +5,7 @@ Abstract: "The Akashic records are a non-physical storehouse of information, pro
 Author: Luke Burns
 
 Categories: ['Concepts']
-Tags: []
+Tags: ['stub']
 
 PublishDate: 2020-10-03
 LastModifiedDate: 2020-10-03

@@ -5,7 +5,7 @@ Abstract: "A series of stone circles in South Africa."
 Author: Luke Burns
 
 Categories: ['Places']
-Tags: ['megaliths','south africa']
+Tags: ['megaliths','south africa','stub']
 
 PublishDate: 2020-10-03
 LastModifiedDate: 2020-10-03
