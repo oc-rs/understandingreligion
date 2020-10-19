@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Texts</title>
+      <link>https://www.understandingreligion.org.uk/categories/texts/</link>
+      <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/texts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Traditions</title>
@@ -71,15 +80,6 @@
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/categories/practices/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Texts</title>
-      <link>https://www.understandingreligion.org.uk/categories/texts/</link>
-      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/texts/</guid>
       <description></description>
     </item>
     
