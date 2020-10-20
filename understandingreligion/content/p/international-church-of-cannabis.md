@@ -8,7 +8,7 @@ Categories: ['Traditions']
 Tags: ['stub','entheogens']
 
 PublishDate: 2020-10-18
-LastModifiedDate: 2020-10-18
+LastModifiedDate: 2020-10-20
 
 # ==================================================
 # HEADER IMAGE
@@ -16,7 +16,7 @@ LastModifiedDate: 2020-10-18
 # Use the line below to define an image
 # e.g. uncomment the line and use "imagename.jpg"
 # --------------------------------------------------
-#Image: "himalaya.jpg"
+Image: "church-of-cannabis.jpg"
 # ==================================================
 
 Books:
@@ -31,6 +31,15 @@ The International Church of Cannabis is a religious group based in Denver, Color
 
 The church is unaffiliated with any other religious traditions, but its members are not restricted in any way - the church is viewed as a supplement to, rather than a replacement for, a person’s religious identity.
 
+>...there is no need to convert to Elevationism. It claims no divine law, no unquestionable doctrine, and no authoritarian structure.
+>
+>elevationists.org
+
 # References
-* en.m.wikipedia.org › wiki › Internat...International Church of Cannabis - Wikipedia
-* www.atlasobscura.com › places › int...Web resultsInternational Church of Cannabis – Denver, Colorado - Atlas Obscura
+* https://elevationists.org
+* https://en.wikipedia.org/wiki/International_Church_of_Cannabis
+* https://www.atlasobscura.com/places/international-church-of-cannabis
+
+# Image Credits
+## Banner
+Photo by <a href="https://unsplash.com/@nicolegeri?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Nicole Geri</a> on <a href="https://unsplash.com/s/photos/church-of-cannabis?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>

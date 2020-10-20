@@ -108,6 +108,26 @@
   </url>
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/books/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/buddhism/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/buddhism-a-very-short-introduction-1996/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/buddhist-yoga-1995/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/s/encounter/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
@@ -169,6 +189,11 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/s/woolf-research/</loc>
+    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/yoga/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -250,11 +275,6 @@
   <url>
     <loc>https://www.understandingreligion.org.uk/p/mohandas-gandhi/</loc>
     <lastmod>2020-10-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/buddhism/</loc>
-    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -1271,18 +1291,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/books/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/s/buddhism-a-very-short-introduction-1996/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/s/buddhist-yoga-1995/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/tags/catholicism/</loc>
   </url>
   
@@ -1412,10 +1420,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/world-religions/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/yoga/</loc>
   </url>
   
 </urlset>

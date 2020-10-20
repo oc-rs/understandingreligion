@@ -1,8 +1,14 @@
 ---
+Title: "Buddhism: A Very Short Introduction"
+Abstract: Provides a good overview of the essential points of Buddhism.
+
 Source: true
 Sourcetypes: [Books]
+
 Tags: [buddhism]
-Title: "Buddhism: A Very Short Introduction"
+
+PublishDate: 2020-10-13
+LastModifiedDate: 2020-10-13
 
 Sourceauthor: Damien Keown
 -Authorpage:
@@ -14,7 +20,5 @@ OriginalYear: 1996
 
 Publisher: Oxford University Press
 Location: Oxford
-Abstract: Provides a good overview of the essential points of Buddhism.
-Reference: "Keown, D. (2000) Buddhism: A Very Short Introduction, Oxford, Oxford University Press."
 -Wikipedia:
 ---
