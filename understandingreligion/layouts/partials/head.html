@@ -23,8 +23,10 @@
 
         {{ if (isset .Params "image") }}
         <meta property="og:image" content="https://www.understandingreligion.org.uk/img/images/{{ .Params.image }}" />
+        <meta property="twitter:image" content="https://www.understandingreligion.org.uk/img/images/{{ .Params.image }}" />
         {{ else }}
         <meta property="og:image" content="https://www.understandingreligion.org.uk/img/logo.jpg" />
+        <meta property="twitter:image" content="https://www.understandingreligion.org.uk/img/logo.jpg" />
         {{ end }}
 
         <script>
