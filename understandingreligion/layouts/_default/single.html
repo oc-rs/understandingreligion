@@ -35,13 +35,20 @@
                     {{ partial "book-block.html" . }}
               </div>
           </div>
-        </section>
-
-        <div class="level is-mobile floating report" id="report">
-            <div class="level-item">
-                <p>?</p>
+            <!-- CONTROL PANEL -->
+            <div id="controlpanel" class="level is-mobile" style="position: fixed; bottom: 0px; left: 0px; margin: 0px; padding: 15px; width: 100%; background-color: #DADADA">
+                <a id="launch-search-modal" class="level-item" style="color: inherit">
+                    <i class="fas fa-search"></i> &nbsp; Search site
+                </a>
+                <a class="level-item" href="#top" style="color: inherit">
+                    <i class="fas fa-chevron-circle-up"></i> &nbsp; Jump to top
+                </a>
+                <a id="report" class="level-item" style="color: inherit">
+                    <i class="fas fa-exclamation-triangle"></i> &nbsp; Report problem
+                </a>
             </div>
-        </div>
+            <!-- CONTROL PANEL -->
+        </section>
 
         <div style="background-color: #FAFAFA; margin-bottom: 0px; padding: 40px" class="level">
             <div class="level-item">
@@ -51,7 +58,73 @@
 
         {{ partial "footer.html" . }}
 
-        <div class="modal">
+        <!-- SEARCH MODAL -->
+        <div id="search-modal" class="modal">
+            <div class="modal-background"></div>
+            <div class="container is-fluid" style="position: absolute; top: 25px">
+                <div class="columns is-mobile">
+                    <div class="column is-10">
+                        <input style="font-size: 1.5rem" onkeyup="m_search()" id="mobile-input" placeholder="Search {{ .Title }}" style="margin-bottom: 10px;" type="text" class="input">
+                        {{ range .Site.Pages.ByTitle }}
+                        <p class="m_result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
+                            <a class="m_result-link" style="color: white;" href="{{ .Permalink }}">
+                               {{ .Title }}
+                            </a>
+                        </p>
+                        <p class="m_searchstring" style="display: none">
+
+                            <span class="m_ss_categories">
+                            {{ with .Params.categories }}
+                            {{ . }}
+                            {{ end }}    
+                            </span>
+                            
+                            <span class="m_ss_sourcetypes">
+                            {{ with .Params.sourcetypes }}
+                            {{ . }}
+                            {{ end }}
+                            </span>
+                            
+                            <span class="m_ss_title">
+                            {{ .Title }}
+                            </span>
+                            
+                            <span class="m_ss_sourceauthor">
+                            {{ with .Params.sourceauthor }}
+                            {{ . }}
+                            {{ end }}
+                            </span>
+                            
+                            <span class="m_ss_year">
+                            {{ with .Params.originalyear }}
+                            {{ . }}
+                            {{ end }}
+                            </span>
+                            
+                            <span class="m_ss_abstract">
+                            {{ with .Params.abstract }}
+                            {{ . }}
+                            {{ end }}
+                            </span>
+                            
+                            <span class="m_ss_tags">
+                            {{ with .Params.tags }}
+                            {{ . }}
+                            {{ end }}
+                            </span>
+                            
+                        </p>
+                        {{ end }}
+                    </div>
+                    <div class="column is-2">
+                        <button onclick="closeModal()" class="has-background-danger modal-close is-large"></button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- END OF SEARCH MODAL -->
+
+        <div id="report-modal" class="modal">
             <div class="modal-background"></div>
             <div class="modal-content">
                 <div class="box">
@@ -106,15 +179,15 @@
 
         <script>
             document.getElementById("report").addEventListener("click",function(){
-                document.getElementsByClassName("modal")[0].className += " is-active";
+                document.getElementById("report-modal").className += " is-active";
             });
 
             document.getElementById("close-report").addEventListener("click",function(){
-                document.getElementsByClassName("modal")[0].className = "modal";
+                document.getElementById("report-modal").className = "modal";
             });
 
             document.getElementById("close-report-button").addEventListener("click",function(){
-                document.getElementsByClassName("modal")[0].className = "modal";
+                document.getElementById("report-modal").className = "modal";
             });
         </script>
 

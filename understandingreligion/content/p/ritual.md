@@ -4,7 +4,7 @@ Abstract: "Some religious practices have specific rules about how they are perfo
 
 Author: Luke Burns
 
-Categories: ['Practices']
+Categories: ['Practices','Concepts']
 Tags: ['ritual','order','meaning']
 
 PublishDate: 2020-02-23

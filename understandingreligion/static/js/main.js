@@ -7,6 +7,12 @@ document.onscroll = function() {
   }
 }
 
+function keyPress (e) {
+  if(e.key === "Escape") {
+      // write your logic here.
+  }
+}
+
 function searchFrontpage() {
   var x = document.getElementById("frontpage-results");
 
@@ -69,6 +75,8 @@ function search() {
 
 
 // Launch mobile-friendly search modal if window size is small
+var s = document.getElementById("searchbox");
+if(s){
 document.getElementById("searchbox").addEventListener("focus",function(){
   w = window.innerWidth;
   m = document.getElementById("search-modal")
@@ -82,19 +90,20 @@ document.getElementById("searchbox").addEventListener("focus",function(){
   }
 }
 )
+}
 // End of launch mobile-friendly search modal if window size is small
 
 document.getElementById("launch-search-modal").addEventListener("click",function(){
   w = window.innerWidth;
   m = document.getElementById("search-modal")
 
-  if( w < 500 ){
+//  if( w < 500 ){
     m.classList.add("is-active");
     document.getElementById("mobile-input").focus();
-  }
-  else {
-    document.getElementById("searchbox").focus();
-  }
+//  }
+//  else {
+//    document.getElementById("searchbox").focus();
+//  }
 }
 )
 // End of launch mobile-friendly search modal if window size is small
