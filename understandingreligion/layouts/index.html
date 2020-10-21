@@ -151,6 +151,8 @@
                     <div class="item column is-one-third">
                         {{ if (isset .Params "image" )}}
                         <img style="max-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/images/{{ .Params.image }}">
+                        {{ else }}
+                        <img style="max-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/logo.jpg">
                         {{ end }}
                     
                       <article class="tile is-child box">
