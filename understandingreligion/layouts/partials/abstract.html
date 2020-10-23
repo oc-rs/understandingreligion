@@ -8,7 +8,7 @@
             <p><span style="color: #032539">Author:</span> <a href="/a/{{ urlize .Params.author }}">{{ .Params.author }}</a></p>
             {{ end }}
 
-            <p><span style="color: #032539">Published on:</span> {{ .PublishDate.Format "02/01/2006" }}</p>
+            <p><span style="color: #032539">This page published on:</span> {{ .PublishDate.Format "02/01/2006" }}</p>
 
             <p><span style="color: #032539">Last modified:</span> {{ with .Params.LastModifiedDate }}{{ dateFormat "02/01/2006" . }}{{ end }}</p>
 

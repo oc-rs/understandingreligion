@@ -4,8 +4,8 @@ Abstract: Although the word 'texts' might imply a written document, the term has
 
 Author: Luke Burns
 
-Categories: ['Texts']
-Tags: []
+Categories: ['Texts','Concepts']
+Tags: ['texts','scripture','art','material religion']
 
 PublishDate: 2020-10-19
 LastModifiedDate: 2020-10-19

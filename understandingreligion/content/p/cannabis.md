@@ -47,5 +47,6 @@ Photo by [herbalhemp](https://pixabay.com/users/herbalhemp-6915040/) on Pixabay,
 
 # Further reading
 * www.cannabisculture.com/content/2016/10/13/jesus-heal-cannabis/
+* www.cannabisculture.com/content/2016/12/20/early-christianitys-drug-fuelled-magic-rituals/
 * https://en.wikipedia.org/wiki/Cannabis_(drug)
 * https://en.wikipedia.org/wiki/Entheogenic_use_of_cannabis
