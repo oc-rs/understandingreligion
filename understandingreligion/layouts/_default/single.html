@@ -35,20 +35,37 @@
                     {{ partial "book-block.html" . }}
               </div>
           </div>
-            <!-- CONTROL PANEL -->
-            <div id="controlpanel" class="level is-mobile" style="position: fixed; bottom: 0px; left: 0px; margin: 0px; padding: 15px; width: 100%; background-color: #DADADA">
-                <a id="launch-search-modal" class="level-item" style="color: inherit">
-                    <i class="fas fa-search"></i> &nbsp; Search site
-                </a>
-                <a class="level-item" href="#top" style="color: inherit">
-                    <i class="fas fa-chevron-circle-up"></i> &nbsp; Jump to top
-                </a>
-                <a id="report" class="level-item" style="color: inherit">
-                    <i class="fas fa-exclamation-triangle"></i> &nbsp; Report problem
+            
+        </section>
+
+        <!-- CONTROL PANEL -->
+        <div id="controlpanel" class="level is-mobile" style="position: fixed; bottom: 0px; margin: 0px; padding: 5px; width: 100%; background-color: #DADADA">
+            <div class="level-item has-text-centered">
+                <a id="launch-search-modal" style="color: inherit">
+                    <p class="heading">Search</p>
+                    <p class="title">
+                        <i class="fas fa-search"></i>
+                    </p>
                 </a>
             </div>
-            <!-- CONTROL PANEL -->
-        </section>
+            <div class="level-item has-text-centered">
+                <a href="#top" style="color: inherit">
+                    <p class="heading">Top</p>
+                    <p class="title">
+                        <i class="fas fa-chevron-circle-up"></i>
+                    </p>
+                </a>
+            </div>
+            <div class="level-item has-text-centered">
+                <a id="report" href="#top" style="color: inherit">
+                    <p class="heading">Report</p>
+                    <p class="title">
+                        <i class="fas fa-exclamation-triangle"></i>
+                    </p>
+                </a>
+            </div>
+        </div>
+        <!-- CONTROL PANEL -->
 
         <div style="background-color: #FAFAFA; margin-bottom: 0px; padding: 40px" class="level">
             <div class="level-item">
@@ -64,7 +81,7 @@
             <div class="container is-fluid" style="position: absolute; top: 25px">
                 <div class="columns is-mobile">
                     <div class="column is-10">
-                        <input style="font-size: 1.5rem" onkeyup="m_search()" id="mobile-input" placeholder="Search {{ .Title }}" style="margin-bottom: 10px;" type="text" class="input">
+                        <input style="font-size: 1.5rem" onkeyup="m_search()" id="mobile-input" placeholder="Search site" style="margin-bottom: 10px;" type="text" class="input">
                         {{ range .Site.Pages.ByTitle }}
                         <p class="m_result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
                             <a class="m_result-link" style="color: white;" href="{{ .Permalink }}">
@@ -73,45 +90,31 @@
                         </p>
                         <p class="m_searchstring" style="display: none">
 
-                            <span class="m_ss_categories">
                             {{ with .Params.categories }}
                             {{ . }}
-                            {{ end }}    
-                            </span>
+                            {{ end }}
                             
-                            <span class="m_ss_sourcetypes">
                             {{ with .Params.sourcetypes }}
                             {{ . }}
                             {{ end }}
-                            </span>
                             
-                            <span class="m_ss_title">
                             {{ .Title }}
-                            </span>
                             
-                            <span class="m_ss_sourceauthor">
                             {{ with .Params.sourceauthor }}
                             {{ . }}
                             {{ end }}
-                            </span>
                             
-                            <span class="m_ss_year">
                             {{ with .Params.originalyear }}
                             {{ . }}
                             {{ end }}
-                            </span>
                             
-                            <span class="m_ss_abstract">
                             {{ with .Params.abstract }}
                             {{ . }}
                             {{ end }}
-                            </span>
                             
-                            <span class="m_ss_tags">
                             {{ with .Params.tags }}
                             {{ . }}
                             {{ end }}
-                            </span>
                             
                         </p>
                         {{ end }}
