@@ -2,6 +2,8 @@
 Title: "Ritual"
 Abstract: "Some religious practices have specific rules about how they are performed, these practices are sometimes called rituals. There is no hard line between 'religious practice' and 'ritual', but practices with more rules can be described as more ritualistic."
 
+Featured: true
+
 Author: Luke Burns
 
 Categories: ['Practices','Concepts']

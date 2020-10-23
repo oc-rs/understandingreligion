@@ -12,7 +12,7 @@ LastModifiedDate: 2020-02-21
 
 Image: "dancing.jpg"
 
-Featured: true
+Featured: false
 
 Books:
 --  - Name: 
