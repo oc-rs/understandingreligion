@@ -5,8 +5,9 @@ Author: Luke Burns
 Categories: ['Questions']
 Tags: []
 PublishDate: 2019-12-14
-LastModifiedDate: 2019-12-23
+LastModifiedDate: 2020-10-26
 
+Image: yoga-monkey.jpg
 
 Books:
   - Name: "Introduction to Religious Studies"
@@ -77,9 +78,6 @@ As religious studies scholars, we will look at the human activities typically as
 
 >A religion is a unified system of beliefs and practices relative to sacred things, i.e., things set apart and forbidden—beliefs and practices which unite in one single moral community called a Church, all those who adhere to them.<br><br>**Durkheim, 1995, p.44**
 
-In the next few units, we'll explore each of these aspects in more detail.
-
-
 <div class="card ocrs-activity">
   <div class="card-content">
     <p class="content">
@@ -96,6 +94,10 @@ Durkheim also defines a key concept (sacred things) as 'things set apart and for
   </div>
 </div>
 
-## References
+# References
 * Durkheim, E. (1995[1912]) *The Elementary Forms of Religious Life (trans. K. Fields)*, New York, The Free Press.
 * Smith, H. (1992) *The World's Religions*, London, Harper Collins.
+
+# Image credits
+## Banner
+Image by <a href="https://pixabay.com/users/asundermeier-448808/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5507087">Anke Sundermeier</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5507087">Pixabay</a>

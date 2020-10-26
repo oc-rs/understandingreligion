@@ -3,12 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/p/alternative-perspectives/</loc>
-    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+    <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <loc>https://www.understandingreligion.org.uk/p/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/questions/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/what-is-religious-literacy/</loc>
+    <lastmod>2020-10-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/alternative-perspectives/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,17 +53,7 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/p/</loc>
-    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/categories/perspectives/</loc>
-    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/</loc>
     <lastmod>2020-10-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -109,11 +129,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/sourcetypes/</loc>
-    <lastmod>2020-10-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/</loc>
     <lastmod>2020-10-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -653,11 +668,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/categories/questions/</loc>
-    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/p/trimarga/</loc>
     <lastmod>2020-02-29T00:00:00+00:00</lastmod>
   </url>
@@ -680,6 +690,26 @@
   <url>
     <loc>https://www.understandingreligion.org.uk/p/wendy-doniger/</loc>
     <lastmod>2020-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/enlightenment/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/experiences/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/satori/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/zen/</loc>
+    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -793,6 +823,11 @@
   </url>
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/tags/cubes/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/p/dmt/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
@@ -868,6 +903,11 @@
   </url>
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/tags/magic-mushrooms/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/p/mahayana-buddhism/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
@@ -919,6 +959,11 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/shamanism/</loc>
+    <lastmod>2020-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/shrooms/</loc>
     <lastmod>2020-02-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -1560,10 +1605,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/religious-experience/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
   </url>
   
   <url>

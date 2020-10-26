@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>religious studies</title>
+      <link>https://www.understandingreligion.org.uk/tags/religious-studies/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/tags/religious-studies/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>bias</title>
@@ -363,6 +372,24 @@
     </item>
     
     <item>
+      <title>enlightenment</title>
+      <link>https://www.understandingreligion.org.uk/tags/enlightenment/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/tags/enlightenment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zen</title>
+      <link>https://www.understandingreligion.org.uk/tags/zen/</link>
+      <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/tags/zen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>american religion</title>
       <link>https://www.understandingreligion.org.uk/tags/american-religion/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
@@ -417,11 +444,29 @@
     </item>
     
     <item>
+      <title>cubes</title>
+      <link>https://www.understandingreligion.org.uk/tags/cubes/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/tags/cubes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>dmt</title>
       <link>https://www.understandingreligion.org.uk/tags/dmt/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/tags/dmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>magic mushrooms</title>
+      <link>https://www.understandingreligion.org.uk/tags/magic-mushrooms/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/tags/magic-mushrooms/</guid>
       <description></description>
     </item>
     
@@ -440,6 +485,15 @@
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/tags/shamanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>shrooms</title>
+      <link>https://www.understandingreligion.org.uk/tags/shrooms/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/tags/shrooms/</guid>
       <description></description>
     </item>
     
@@ -629,15 +683,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/tags/religious-experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>religious studies</title>
-      <link>https://www.understandingreligion.org.uk/tags/religious-studies/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/tags/religious-studies/</guid>
       <description></description>
     </item>
     

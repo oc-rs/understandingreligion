@@ -42,7 +42,14 @@
                 <div class="columns is-multiline">
                     {{ range .Pages.ByTitle }}
                     <div class="item column is-one-quarter">
-                      <article class="tile is-child box">
+                        
+                        {{ if (isset .Params "image" )}}
+                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/thumbnails/{{ .Params.image }}">
+                        {{ else }}
+                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/logo.jpg">
+                        {{ end }}
+                        
+                        <article class="tile is-child box">
 
                         {{ if (isset .Params "categories") }}
                         {{ range .Params.categories }}
