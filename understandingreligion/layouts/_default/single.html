@@ -25,6 +25,12 @@
         <section style="background-color: #FAFAFA; margin-bottom: 0px" class="section content">
           <div class="columns">
               <div class="column is-8 is-offset-2">
+                {{ if (isset .Params "categories") }}
+                {{ range .Params.categories }}
+                <p style="background-color: #032539; color: #FFF; padding: 5px; margin: 0px 0px 10px 0px; display: inline-block"><a style="border-bottom: none;" href="/categories/{{ . | urlize }}">{{ . }}</a></p>
+                {{ end }}
+                {{ else }}
+                {{ end }}
                     <div class="item-taglist">
                         {{ range .Params.tags }}
                         <span><a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
@@ -66,12 +72,6 @@
             </div>
         </div>
         <!-- CONTROL PANEL -->
-
-        <div style="background-color: #FAFAFA; margin-bottom: 0px; padding: 40px" class="level">
-            <div class="level-item">
-                <p class="title"><a href="#top">back to the start</a></p>
-            </div>
-        </div>
 
         {{ partial "footer.html" . }}
 
