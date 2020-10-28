@@ -32,19 +32,37 @@
                 <a href="/categories/scholars/" class="navbar-item">
                 Scholars
                 </a>
-                <a href="/s/" class="navbar-item">
+            </div>
+        </div>
+
+        <div class="navbar-item has-dropdown is-hoverable">
+            <a class="navbar-link">
                 Sources
+            </a>
+
+            <div class="navbar-dropdown">
+                <a href="/s/" class="navbar-item">
+                    All Sources
                 </a>
+                <hr class="navbar-divider">
+                {{range ($.Site.GetPage "taxonomyTerm" "sourcetypes").Pages.ByTitle }}
+                <a href="{{ .Permalink }}" class="navbar-item">
+                {{ .Title }}
+                </a>
+                {{ end }}
             </div>
         </div>
         
         <div class="navbar-item has-dropdown is-hoverable">
             <a class="navbar-link">
-                Areas of Study
+                Pages
             </a>
 
             <div class="navbar-dropdown">
-                
+                <a href="/p/" class="navbar-item">
+                    All Pages
+                </a>
+                <hr class="navbar-divider">
                 <a href="/categories/clothing/" class="navbar-item">
                     Clothing
                 </a>
