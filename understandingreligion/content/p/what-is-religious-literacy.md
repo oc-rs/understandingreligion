@@ -1,5 +1,5 @@
 ---
-Title: What is Religious Literacy?
+Title: What is religious literacy?
 Abstract: Religious literacy is a term that has become more popular in recent years, but what exactly do we mean when we talk about it?
 
 Featured: false
@@ -7,7 +7,7 @@ Featured: false
 Author: Luke Burns
 
 Categories: ['Questions']
-Tags: ['religious studies']
+Tags: ['religious studies','religious literacy']
 
 PublishDate: 2020-10-26
 LastModifiedDate: 2020-10-26
