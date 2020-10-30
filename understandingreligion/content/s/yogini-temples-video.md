@@ -5,7 +5,7 @@ Abstract: A live recording of an online talk and Q+A via zoom on 21st October 20
 Source: true
 Sourcetypes: [Videos]
 
-Tags: []
+Tags: ['yoga']
 
 PublishDate: 2020-10-28
 LastModifiedDate: 2020-10-28

@@ -1,10 +1,14 @@
 ---
 Title: "Rudolf Otto"
 Abstract: ""
+
+Author: Luke Burns
+
 Categories: ['Scholars']
 Tags: []
-Date: 2019-12-14
-LastModifiedDate: 
+
+PublishDate: 2019-12-14
+LastModifiedDate: 2019-12-14
 
 Books:
   - Name: "Book1"
