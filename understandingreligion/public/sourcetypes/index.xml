@@ -6,10 +6,19 @@
     <description>Recent content in Sourcetypes on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/sourcetypes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Online Courses</title>
+      <link>https://www.understandingreligion.org.uk/sourcetypes/online-courses/</link>
+      <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/sourcetypes/online-courses/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reports</title>
@@ -26,15 +35,6 @@
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/sourcetypes/youtube-channels/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Online Courses</title>
-      <link>https://www.understandingreligion.org.uk/sourcetypes/online-courses/</link>
-      <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/sourcetypes/online-courses/</guid>
       <description></description>
     </item>
     
