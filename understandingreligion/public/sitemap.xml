@@ -3,17 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/questions/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/what-is-religious-studies/</loc>
+    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/tags/1960s/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/s/wicca-religious-change-course/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/categories/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,37 +58,12 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/p/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/categories/questions/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/s/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/sourcetypes/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -114,11 +119,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/nordic-animism/</loc>
-    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/occult/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -373,6 +373,11 @@
   </url>
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/tags/occult/</loc>
+    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
@@ -564,11 +569,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/culture/</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/indigenous/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -829,6 +829,11 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/p/himalayan-institute-of-yoga-science-and-philosophy/</loc>
+    <lastmod>2020-10-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/indigenous/</loc>
     <lastmod>2020-10-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -1828,12 +1833,22 @@
   </url>
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/tags/arabia/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/b/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/p/christianity/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/christianity/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1853,12 +1868,27 @@
   </url>
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/tags/israel/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/jesus/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/p/judaism/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/p/mircea-eliade/</loc>
+    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/muhammad/</loc>
     <lastmod>2019-12-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -1922,10 +1952,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/catholicism/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/christianity/</loc>
   </url>
   
   <url>
