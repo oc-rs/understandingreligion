@@ -2,4 +2,4 @@
   from = "/p/world-regligions-paradigm/"
   to = "/p/world-religions-paradigm/"
   status = 301
-  force = false
+  force = true
