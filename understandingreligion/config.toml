@@ -24,3 +24,7 @@ title = "Understanding Religion"
       hardWraps = false
       unsafe = true
       xHTML = false
+    [markup.tableOfContents]
+      endLevel = 4
+      ordered = true
+      startLevel = 1

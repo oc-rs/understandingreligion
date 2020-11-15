@@ -3,18 +3,60 @@
     word-wrap: break-word;
 }
 
-.content p {
-    text-align: justify;
-    text-justify: inter-word;
+/* 
+These heading pseudo elements are for
+adjusting the page scroll to account
+for the fixed navbar.
+
+Borrowed from CSS Tricks!
+https://css-tricks.com/hash-tag-links-padding/
+*/
+h1::before { 
+    display: block; 
+    content: " "; 
+    margin-top: -60px; 
+    height: 60px; 
+    visibility: hidden; 
+    pointer-events: none;
+  }
+
+h2::before { 
+    display: block; 
+    content: " "; 
+    margin-top: -60px; 
+    height: 60px; 
+    visibility: hidden; 
+    pointer-events: none;
 }
 
-sup, sub {
+h3::before { 
+    display: block; 
+    content: " "; 
+    margin-top: -60px; 
+    height: 60px; 
+    visibility: hidden; 
+    pointer-events: none;
+}
+
+h4::before { 
+    display: block; 
+    content: " "; 
+    margin-top: -60px; 
+    height: 60px; 
+    visibility: hidden; 
+    pointer-events: none;
+}
+/* End of heading pseudo elements */
+
+sup {
     vertical-align: baseline;
     position: relative;
     top: -0.4em;
   }
   
-  sub { 
+  sub {
+    vertical-align: baseline;
+    position: relative;
     top: 0.4em; 
   }
 

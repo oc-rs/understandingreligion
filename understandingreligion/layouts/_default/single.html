@@ -36,6 +36,9 @@
                         <span><a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
                         {{ end }}
                     </div>
+                    <h1>Table of Contents</h1>
+                    {{ .TableOfContents }}
+
                     {{ .Content }}
   
                     {{ partial "book-block.html" . }}

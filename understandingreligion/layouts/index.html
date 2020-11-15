@@ -206,6 +206,11 @@
                 <div class="columns is-multiline">
                     {{ range first 3 (sort (where .Site.RegularPages "Section" "s") ".Params.LastModifiedDate" "desc") }}
                     <div class="item column is-one-third">
+                        {{ if (isset .Params "image" )}}
+                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/thumbnails/{{ .Params.image }}">
+                        {{ else }}
+                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/logo.jpg">
+                        {{ end }}
                       <article class="tile is-child box">
 
                         {{ if (isset .Params "categories") }}
@@ -223,10 +228,6 @@
                             
                             <p class="title item-title">{{ .Title }}</p>
 
-                            {{ if (isset .Params "image" )}}
-                            <img src="/img/images/{{ .Params.image }}">
-                            {{ end }}
-                            
                             {{ if (eq .Params.source true) }}
                             <p class="subtitle"><span class="item-author">{{ .Params.sourceauthor }}</span> {{ with .Params.originalyear }}(<span class="item-year">{{ . }}</span>){{end}}</p>
                             {{ end }}

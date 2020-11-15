@@ -3,17 +3,82 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/perspectives/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/phenomenology/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/seven-dimensions-of-religion/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/</loc>
+    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/books/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-experience/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/the-varieties-of-religious-experience/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/world-religions/</loc>
+    <lastmod>2020-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.understandingreligion.org.uk/p/bodhisattva/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/buddhism/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/categories/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,32 +93,12 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/p/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/tags/theravada/</loc>
     <lastmod>2020-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/</loc>
-    <lastmod>2020-11-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/p/liquid-religion/</loc>
-    <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/categories/perspectives/</loc>
     <lastmod>2020-11-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -74,11 +119,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/categories/questions/</loc>
-    <lastmod>2020-11-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
     <lastmod>2020-11-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,16 +144,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/paganism/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/s/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -709,11 +739,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/s/an-a-z-of-believing/</loc>
-    <lastmod>2020-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/books/</loc>
     <lastmod>2020-10-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -2040,10 +2065,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/religious-experience/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/s/revelations-of-divine-love-1966/</loc>
   </url>
   
@@ -2089,10 +2110,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/women/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/world-religions/</loc>
   </url>
   
 </urlset>

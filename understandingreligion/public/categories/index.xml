@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 12 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Perspectives</title>
+      <link>https://www.understandingreligion.org.uk/categories/perspectives/</link>
+      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/perspectives/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Figures</title>
@@ -17,15 +26,6 @@
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/categories/figures/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perspectives</title>
-      <link>https://www.understandingreligion.org.uk/categories/perspectives/</link>
-      <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/perspectives/</guid>
       <description></description>
     </item>
     
