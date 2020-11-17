@@ -4,7 +4,7 @@ Abstract: When the category of religion is used to describe 'world religions', i
 
 Author: Luke Burns
 
-Categories: ['Concepts','Perspectives']
+Categories: ['Perspectives']
 Tags: ['religious studies']
 
 Image: world-religion.jpg

@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Places</title>
+      <link>https://www.understandingreligion.org.uk/categories/places/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/places/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Perspectives</title>
@@ -50,7 +59,7 @@
     <item>
       <title>Concepts</title>
       <link>https://www.understandingreligion.org.uk/categories/concepts/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/categories/concepts/</guid>
       <description></description>
@@ -89,15 +98,6 @@
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/categories/occasions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Places</title>
-      <link>https://www.understandingreligion.org.uk/categories/places/</link>
-      <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/places/</guid>
       <description></description>
     </item>
     
