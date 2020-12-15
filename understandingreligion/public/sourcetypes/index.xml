@@ -6,10 +6,28 @@
     <description>Recent content in Sourcetypes on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/sourcetypes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Podcasts</title>
+      <link>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Websites</title>
+      <link>https://www.understandingreligion.org.uk/sourcetypes/websites/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/sourcetypes/websites/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Books</title>
@@ -57,15 +75,6 @@
     </item>
     
     <item>
-      <title>Podcasts</title>
-      <link>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Videos</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/videos/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
@@ -80,15 +89,6 @@
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/sourcetypes/articles/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Websites</title>
-      <link>https://www.understandingreligion.org.uk/sourcetypes/websites/</link>
-      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/sourcetypes/websites/</guid>
       <description></description>
     </item>
     

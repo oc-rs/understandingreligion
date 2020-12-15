@@ -6,10 +6,19 @@
     <description>Recent content in Websites on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/sourcetypes/websites/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Access to Insight</title>
+      <link>https://www.understandingreligion.org.uk/s/access-to-insight/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/access-to-insight/</guid>
+      <description>Link You can access the website here: https://www.accesstoinsight.org/index.html</description>
+    </item>
     
     <item>
       <title>The Database of Religious History</title>

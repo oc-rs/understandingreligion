@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gcse on Understanding Religion</title>
+    <link>https://www.understandingreligion.org.uk/tags/gcse/</link>
+    <description>Recent content in gcse on Understanding Religion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.understandingreligion.org.uk/tags/gcse/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Text Talks</title>
+      <link>https://www.understandingreligion.org.uk/s/texttalks/</link>
+      <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/texttalks/</guid>
+      <description>Introduction  Developed by Dr. Brian Black, Text Talks provides teachers and students (and anyone else who’s interested) with weekly podcasts and resources based around the GCSE and A Level Syllabuses for Buddhism and Hinduism.
+Dr. Black works with Alex Owens and Katie Work, two PhD Students based at Lancaster University, to produce these resources. Alex studies Buddhism with a specialism in Environmentalism and Western Buddhism. Katie studies Hinduism with a specialism in Gender and Indian Textual Traditions.</description>
+    </item>
+    
+  </channel>
+</rss>
