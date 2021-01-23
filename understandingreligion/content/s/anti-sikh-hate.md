@@ -10,13 +10,13 @@ Tags: ['sikhi','sikhism','hate crime','discrimination']
 PublishDate: 2020-10-28
 LastModifiedDate: 2020-10-28
 
--Sourceauthor:
+Sourceauthor: The All Party Parliamentary Group for British Sikhs
 -Authorpage:
 -Editor:
 -Translator:
 
 -EditionYear:
--OriginalYear:
+OriginalYear: 2020
 
 Publisher: The All Party Parliamentary Group for British Sikhs
 -Location:

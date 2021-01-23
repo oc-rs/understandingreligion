@@ -10,13 +10,13 @@ Tags: ['religious education']
 PublishDate: 2020-10-28
 LastModifiedDate: 2020-10-28
 
--Sourceauthor:
+Sourceauthor: Theos Think Tank
 -Authorpage:
 -Editor:
 -Translator:
 
 -EditionYear:
--OriginalYear:
+OriginalYear: 2020
 
 Publisher: Theos Think Tank
 -Location:
