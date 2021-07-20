@@ -6,10 +6,30 @@
     <description>Recent content in religious studies on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 15 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/tags/religious-studies/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BBC Bitesize</title>
+      <link>https://www.understandingreligion.org.uk/s/bbc-bitesize/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/bbc-bitesize/</guid>
+      <description>Introduction BBC Bitesize is a learning resource for UK students of all ages, with revision guides and learning materials on a variety of topics - including religion.
+Link You can access the site here: https://www.bbc.co.uk/bitesize</description>
+    </item>
+    
+    <item>
+      <title>BBC Teach</title>
+      <link>https://www.understandingreligion.org.uk/s/bbc-teach/</link>
+      <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/bbc-teach/</guid>
+      <description>Introduction BBC Teach is a resource for UK teachers of all age groups, with materials on a variety of topics - including religion.
+Link You can access the site here: https://www.bbc.co.uk/teach</description>
+    </item>
     
     <item>
       <title>Seven Dimensions of Religion</title>
