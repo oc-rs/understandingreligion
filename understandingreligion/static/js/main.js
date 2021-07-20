@@ -89,23 +89,6 @@ document.getElementById("searchbox").addEventListener("focus",function(){
 }
 )
 }
-// End of launch mobile-friendly search modal if window size is small
-
-document.getElementById("launch-search-modal").addEventListener("click",function(){
-  w = window.innerWidth;
-  m = document.getElementById("search-modal")
-
-//  if( w < 500 ){
-    m.classList.add("is-active");
-    document.getElementById("mobile-input").focus();
-//  }
-//  else {
-//    document.getElementById("searchbox").focus();
-//  }
-}
-)
-// End of launch mobile-friendly search modal if window size is small
-
 
 // Close mobile-friendly search modal
 function closeModal(){
