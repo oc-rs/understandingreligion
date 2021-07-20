@@ -1,17 +1,15 @@
 document.onscroll = function() {
-  if (window.innerHeight + window.scrollY > document.body.clientHeight) {
+  var c = document.getElementById("controlpanel");
+  if(c){
+    if (window.innerHeight + window.scrollY > document.body.clientHeight) {
       document.getElementById('controlpanel').style.display='none';
-  }
-  else {
-    document.getElementById('controlpanel').style.display='';
+    }
+    else {
+      document.getElementById('controlpanel').style.display='';
+    }
   }
 }
 
-function keyPress (e) {
-  if(e.key === "Escape") {
-      // write your logic here.
-  }
-}
 
 function searchFrontpage() {
   var x = document.getElementById("frontpage-results");
