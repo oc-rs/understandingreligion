@@ -31,10 +31,11 @@
                             <input id="searchbox" class="input is-size-4" type="text" placeholder="Search the site..." onkeyup="searchFrontpage()">
 
                             <div id="frontpage-results" style="display: none; max-height: 200px; overflow: auto; padding: 5px; background-color: rgba(0,0,0,0.7); color: white">
-                            {{ range where .Site.Pages.ByTitle "Section" "not in" (slice "c" "m" "a") }}
+                            {{ range where .Site.Pages.ByTitle "Section" "not in" (slice "c" "m" "a" "b") }}
                             <p class="frontpageResultItem">
+
                                 {{ if eq .Section "tags" }}
-                                <i class="fas fa-tag"></i>&nbsp;
+                                <i class="fas fa-tag tooltip"></i>&nbsp;
                                 {{ end }}
 
                                 {{ if eq .Section "s" }}

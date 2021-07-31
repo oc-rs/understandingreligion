@@ -27,7 +27,7 @@
                     <h2 class="subtitle has-text-white">{{ .Params.abstract}}</h2>
                     {{ end }}
         
-                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Search {{ .Title }}..." onkeyup="search()">
+                    <input id="searchbox" class="input is-size-4" type="text" placeholder="Filter results..." onkeyup="search()">
         
                 </div>
         
@@ -129,7 +129,7 @@
             <div class="level-item has-text-centered">
                 <a id="launch-search-modal" style="color: inherit">
                     <p class="heading">Search</p>
-                    <p class="title">
+                    <p onclick="launch_search_modal()" class="title">
                         <i class="fas fa-search"></i>
                     </p>
                 </a>
@@ -154,57 +154,7 @@
         </div>
         <!-- CONTROL PANEL -->
 
-        <!-- SEARCH MODAL -->
-        <div id="search-modal" class="modal">
-            <div class="modal-background"></div>
-            <div class="container is-fluid" style="position: absolute; top: 25px">
-                <div class="columns is-mobile">
-                    <div class="column is-10">
-                        <input style="font-size: 1.5rem" onkeyup="m_search()" id="mobile-input" placeholder="Search {{ .Title }}" style="margin-bottom: 10px;" type="text" class="input">
-                        {{ range .Pages.ByTitle }}
-                        <p class="m_result-item" style="display: none; padding: 5px; border-bottom: 1px solid grey">
-                            <a class="m_result-link" style="color: white;" href="{{ .Permalink }}">
-                               {{ .Title }}
-                            </a>
-                        </p>
-                        <p class="m_searchstring" style="display: none">
-
-                            {{ with .Params.categories }}
-                            {{ . }}
-                            {{ end }}
-                            
-                            {{ with .Params.sourcetypes }}
-                            {{ . }}
-                            {{ end }}
-                            
-                            {{ .Title }}
-                            
-                            {{ with .Params.sourceauthor }}
-                            {{ . }}
-                            {{ end }}
-                            
-                            {{ with .Params.originalyear }}
-                            {{ . }}
-                            {{ end }}
-                            
-                            {{ with .Params.abstract }}
-                            {{ . }}
-                            {{ end }}
-                            
-                            {{ with .Params.tags }}
-                            {{ . }}
-                            {{ end }}
-                            
-                        </p>
-                        {{ end }}
-                    </div>
-                    <div class="column is-2">
-                        <button onclick="closeModal()" class="has-background-danger modal-close is-large"></button>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- END OF SEARCH MODAL -->
+        {{ partial "site-search-modal.html" . }}
         
         {{ partial "footer.html" . }}
     </body>

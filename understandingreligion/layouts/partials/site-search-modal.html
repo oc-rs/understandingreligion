@@ -1,0 +1,72 @@
+<!-- SEARCH MODAL -->
+<div id="site-search-modal" class="modal">
+  <div onclick="close_site_search_modal()" class="modal-background"></div>
+  
+  <div class="modal-card">
+    
+    <header class="modal-card-head">
+      <input id="site-search-input" class="input is-size-4" type="text" placeholder="Search the site..." onkeyup="site_search()">
+    </header>
+    
+    <section class="modal-card-body">
+      <div id="searcharea">
+        <div id="site-search-results" style="display: none; max-height: 200px; overflow: auto; padding: 5px; background-color: rgba(0,0,0,0.7); color: white">
+          
+          {{ range where .Site.Pages.ByTitle "Section" "not in" (slice "c" "m" "a" "b") }}
+          <p class="site-search-result-item">
+
+            {{ if eq .Section "tags" }}
+            <i class="fas fa-tag"></i>&nbsp;
+            {{ end }}
+
+            {{ if eq .Section "s" }}
+            <i class="fas fa-link"></i>&nbsp;
+            {{ end }}
+
+            {{ if eq .Section "categories" }}
+            <i class="fas fa-th-large"></i>&nbsp;
+            {{ end }}
+
+            {{ if eq .Section "sourcetypes" }}
+            <i class="fas fa-th-large"></i>&nbsp;
+            {{ end }}
+
+            {{ if eq .Section "p" }}
+            <i class="far fa-newspaper"></i>&nbsp;
+            {{ end }}
+
+            <a class="site-search-result-title" href="{{ .Permalink }}">
+              {{ .Title }}
+            </a>
+
+            <span class="site-searchstring" style="display: none">
+
+              {{ with .Params.categories }}
+              {{ . }}
+              {{ end }}    
+
+              {{ with .Params.sourcetypes }}
+              {{ . }}
+              {{ end }}
+
+              {{ .Title }}
+
+              {{ with .Params.tags }}
+              {{ . }}
+              {{ end }}
+              
+            </span>
+
+          </p>
+          {{ end }}
+
+        </div>
+      </div>
+    </section>
+  
+    <footer class="modal-card-foot">
+      <button onclick="close_site_search_modal()" class="button">Cancel</button>
+    </footer>
+
+  </div><!-- END OF MODAL CARD -->
+</div><!-- END OF SEARCH MODAL -->

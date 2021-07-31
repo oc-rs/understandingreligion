@@ -12,12 +12,60 @@ document.onscroll = function() {
   }
 }
 
+// Launch mobile-friendly search modal
+var s = document.getElementById("searchbox");
+if(s){
+document.getElementById("searchbox").addEventListener("focus",function(){
+  w = window.innerWidth;
+  m = document.getElementById("search-modal")
+
+  if( w < 500 ){
+    m.classList.add("is-active");
+    document.getElementById("mobile-input").focus();
+  }
+  else {
+    null;
+  }
+}
+)
+}
+
 // DEFINED FUNCTIONS
+
+// SITE SEARCH
+function site_search() {
+  var results = document.getElementById("site-search-results");
+  var searchstring = document.getElementsByClassName('site-searchstring');
+  var item = document.getElementsByClassName("site-search-result-item");
+  var title = document.getElementsByClassName("site-search-result-title");
+  
+  var input = document.getElementById('site-search-input');
+  var filter = input.value.toUpperCase();
+
+  if (input.value.length > 0) {
+    results.style.display = "block";
+  }
+  else {
+    results.style.display = "none";
+  }
+
+  for (i = 0; i < item.length; i++) {
+    r = searchstring[i].innerHTML;
+
+
+    if (r.toUpperCase().indexOf(filter) > -1){
+      item[i].style.display = "block";
+      } 
+    else {
+        item[i].style.display = "none";
+      }
+  };
+}
 
 // FRONT PAGE SEARCH
 function searchFrontpage() {
   var results = document.getElementById("frontpage-results");
-  
+
   var item = document.getElementsByClassName("frontpageResultItem");
   var title = document.getElementsByClassName("frontpageResultTitle");
   
@@ -68,26 +116,13 @@ function search() {
   };
 // End of normal search function for desktop interface
 
+// Launch mobile-friendly search modal
+function launch_search_modal() {
+  m = document.getElementById("site-search-modal");
 
-
-
-// Launch mobile-friendly search modal if window size is small
-var s = document.getElementById("searchbox");
-if(s){
-document.getElementById("searchbox").addEventListener("focus",function(){
-  w = window.innerWidth;
-  m = document.getElementById("search-modal")
-
-  if( w < 500 ){
-    m.classList.add("is-active");
-    document.getElementById("mobile-input").focus();
-  }
-  else {
-    null;
-  }
-}
-)
-}
+  m.classList.add("is-active");
+  document.getElementById("site-search-input").focus();
+};
 
 // Close mobile-friendly search modal
 function closeModal(){
@@ -97,6 +132,12 @@ function closeModal(){
   }
 // End of close mobile-friendly search modal
 
+
+function close_site_search_modal(){
+  m1 = document.getElementById("site-search-modal");
+
+  m1.classList.remove("is-active");
+}
 
 // Search function within mobile-friendly search modal
 function m_search(){    

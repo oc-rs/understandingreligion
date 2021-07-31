@@ -4,11 +4,12 @@
 
         <div style="border-left: 10px solid #FA991C" class="column is-3 is-offset-1">
 
+            <p><strong>Page Details</strong></p>
             {{ if (isset .Params "author") }}
             <p><span style="color: #032539">Page author:</span> <a href="/a/{{ urlize .Params.author }}">{{ .Params.author }}</a></p>
             {{ end }}
 
-            <p><span style="color: #032539">This page published on:</span> {{ .PublishDate.Format "02/01/2006" }}</p>
+            <p><span style="color: #032539">This page created on:</span> {{ .PublishDate.Format "02/01/2006" }}</p>
 
             <p><span style="color: #032539">Last modified:</span> {{ with .Params.LastModifiedDate }}{{ dateFormat "02/01/2006" . }}{{ end }}</p>
 
@@ -19,6 +20,12 @@
             {{ if (isset .Params "academia") }}
             <p><span style="color: #032539">Academia:</span> <a target="_blank" href="{{ .Params.academia }}">{{ .Params.title }}</a></p>
             {{ end }}
+
+        </div>
+
+        <div style="border-left: 10px solid #FA991C" class="column is-3">
+
+            <p><strong>Source Details</strong></p>
 
             {{ if (isset .Params "sourceauthor") }}
             {{ if (isset .Params "authorpage") }}
@@ -55,8 +62,8 @@
         </div>
 
 
-        <div style="border-left: 10px solid #FA991C" class="column is-7">
-
+        <div style="border-left: 10px solid #FA991C" class="column is-4">
+            <p><strong>Abstract</strong></p>
             {{ .Params.abstract}}
 
         </div>
