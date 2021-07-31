@@ -1,3 +1,5 @@
+// Hides the control panel when you scroll to the bottom
+// of the page, so that you can view all of the footer content
 document.onscroll = function() {
   var c = document.getElementById("controlpanel");
   if(c){
@@ -10,15 +12,24 @@ document.onscroll = function() {
   }
 }
 
+// DEFINED FUNCTIONS
 
+// FRONT PAGE SEARCH
 function searchFrontpage() {
-  var x = document.getElementById("frontpage-results");
-
+  var results = document.getElementById("frontpage-results");
+  
   var item = document.getElementsByClassName("frontpageResultItem");
   var title = document.getElementsByClassName("frontpageResultTitle");
   
   var input = document.getElementById('searchbox');
   var filter = input.value.toUpperCase();
+
+  if (input.value.length > 0) {
+    results.style.display = "block";
+  }
+  else {
+    results.style.display = "none";
+  }
 
   for (i = 0; i < item.length; i++) {
     r = title[i].innerHTML;
@@ -31,18 +42,6 @@ function searchFrontpage() {
         item[i].style.display = "none";
       }
   };
-
-  x.style.maxHeight = "200px";
-  x.style.height = "";
-  x.style.padding = "5px";
-  x.style.overflow = "auto";
-}
-
-function hideFrontpageResults() {
-  var x = document.getElementById("frontpage-results");
-
-  x.style.maxHeight = 0;
-  x.style.padding = 0;
 }
 
 // Normal search function for desktop interface

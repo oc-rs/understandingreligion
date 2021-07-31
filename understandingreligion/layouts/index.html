@@ -27,19 +27,37 @@
 
                     <h2 class="subtitle has-text-white">A quick and easy resource for learning about religious traditions and worldviews</h2>
 
-                    <div id="searcharea" onblur="hideFrontpageResults()">
-                            <input id="searchbox" class="input is-size-4" type="text" placeholder="Search {{ .Title }}..." onkeyup="searchFrontpage()">
+                    <div id="searcharea">
+                            <input id="searchbox" class="input is-size-4" type="text" placeholder="Search the site..." onkeyup="searchFrontpage()">
 
-                            <div id="frontpage-results" style="max-height: 0; overflow: hidden; padding: 0; background-color: rgba(0,0,0,0.7); color: white">
-                            {{ range .Site.Pages.ByTitle }}
+                            <div id="frontpage-results" style="display: none; max-height: 200px; overflow: auto; padding: 5px; background-color: rgba(0,0,0,0.7); color: white">
+                            {{ range where .Site.Pages.ByTitle "Section" "not in" (slice "c" "m" "a") }}
                             <p class="frontpageResultItem">
+                                {{ if eq .Section "tags" }}
+                                <i class="fas fa-tag"></i>&nbsp;
+                                {{ end }}
+
+                                {{ if eq .Section "s" }}
+                                <i class="fas fa-link"></i>&nbsp;
+                                {{ end }}
+
+                                {{ if eq .Section "categories" }}
+                                <i class="fas fa-th-large"></i>&nbsp;
+                                {{ end }}
+
+                                {{ if eq .Section "sourcetypes" }}
+                                <i class="fas fa-th-large"></i>&nbsp;
+                                {{ end }}
+                                
+                                {{ if eq .Section "p" }}
+                                <i class="far fa-newspaper"></i>&nbsp;
+                                {{ end }}
+
+
                                 <a class="frontpageResultTitle" href="{{ .Permalink }}">
                                     {{ .Title }}
                                 </a>
-                                {{ if (isset .Params "categories" )}}
-                                <em>
-                                    {{range .Params.categories }} | {{ . }}{{ end }}{{ end}}
-                                </em>
+
                             </p>
                             {{ end }}
                         </div>
@@ -78,10 +96,6 @@
 
                         <p>
                             Want to find out more? <a href="/m/about/">Click here to learn about the project.</a>
-                        </p>
-                        
-                        <p>
-                            <a href="https://www.patreon.com/bePatron?u=8172845" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
                         </p>
 
                     </div>
