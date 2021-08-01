@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 23 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>islam</title>
+      <link>https://www.understandingreligion.org.uk/tags/islam/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/tags/islam/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>hinduism</title>
@@ -251,15 +260,6 @@
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/tags/denmark/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>islam</title>
-      <link>https://www.understandingreligion.org.uk/tags/islam/</link>
-      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/tags/islam/</guid>
       <description></description>
     </item>
     
@@ -795,6 +795,15 @@
     </item>
     
     <item>
+      <title>christianity</title>
+      <link>https://www.understandingreligion.org.uk/tags/christianity/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/tags/christianity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>egypt</title>
       <link>https://www.understandingreligion.org.uk/tags/egypt/</link>
       <pubDate>Tue, 06 Oct 2020 00:00:00 +0000</pubDate>
@@ -1043,15 +1052,6 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/tags/bhakti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>christianity</title>
-      <link>https://www.understandingreligion.org.uk/tags/christianity/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/tags/christianity/</guid>
       <description></description>
     </item>
     

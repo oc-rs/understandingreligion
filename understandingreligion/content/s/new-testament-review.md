@@ -5,10 +5,10 @@ Abstract: "Influential works of New Testament scholarship discussed by two Duke 
 Source: true
 Sourcetypes: [Podcasts]
 
-Tags: []
+Tags: [christianity]
 
 PublishDate: 2020-10-12
-LastModifiedDate: 2020-10-12
+LastModifiedDate: 2021-08-01
 
 -Sourceauthor:
 -Authorpage:
