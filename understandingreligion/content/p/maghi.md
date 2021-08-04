@@ -5,7 +5,7 @@ Abstract: "This is an annual festival commemorating the forty Sikh martyrs who o
 Author: Luke Burns
 
 Categories: ['Occasions']
-Tags: []
+Tags: [sikhi,sikhism]
 
 PublishDate: 2020-10-04
 LastModifiedDate: 2020-10-04

@@ -5,7 +5,7 @@ Abstract: A diverse range of Indian religious systems, which regard the Vedas as
 Author: Luke Burns
 
 Categories: ['Traditions']
-Tags: ['india']
+Tags: [hinduism,'india']
 
 PublishDate: 2019-12-14
 LastModifiedDate: 2020-11-07

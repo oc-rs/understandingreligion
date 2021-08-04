@@ -4,7 +4,7 @@ Abstract: "The trimarga are three methods of liberation found within Hindu tradi
 Author: Luke Burns
 
 Categories: ['Practices']
-Tags: []
+Tags: [hinduism]
 
 PublishDate: 2020-02-29
 LastModifiedDate: 2020-02-29

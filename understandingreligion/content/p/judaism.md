@@ -2,7 +2,7 @@
 Title: "Judaism"
 Abstract: ""
 Categories: ['Traditions']
-Tags: []
+Tags: [judaism]
 Date: 2019-12-14
 LastModifiedDate: 2019-12-14
 

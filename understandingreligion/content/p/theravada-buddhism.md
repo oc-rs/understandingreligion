@@ -5,7 +5,7 @@ Abstract: Theravada is a form of Buddhism that venerates the Buddha but does not
 Author: Luke Burns
 
 Categories: ['Traditions']
-Tags: ['buddhism','india']
+Tags: ['buddhism','india',theravada,theravada buddhism]
 
 PublishDate: 2020-02-07
 LastModifiedDate: 2020-11-10

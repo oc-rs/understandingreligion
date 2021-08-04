@@ -3,7 +3,7 @@ Title: "Jesus"
 Abstract: "The founding figure of Christianity, Jesus was a Jewish mircle-worker and teacher who proclaimed a divine message in the 1st century CE."
 
 Categories: ['Figures']
-Tags: []
+Tags: [christianity]
 
 Author: Luke Burns
 PublishDate: 2020-01-01

@@ -5,7 +5,7 @@ Abstract: Join 50 leading scholars in exploring antisemitism, from its roots to 
 Source: true
 Sourcetypes: [Online Courses]
 
-Tags: ['antisemitism','hate']
+Tags: ['antisemitism','hate',judaism]
 
 PublishDate: 2020-10-29
 LastModifiedDate: 2020-10-29

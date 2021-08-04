@@ -5,7 +5,7 @@ Abstract: ""
 Author: Luke Burns
 
 Categories: ['Figures']
-Tags: []
+Tags: [christianity,martyrdom,korea]
 
 PublishDate: 2020-10-04
 LastModifiedDate: 2020-10-04

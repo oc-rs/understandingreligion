@@ -5,7 +5,7 @@ Abstract: "Within the Sikh religion, one of the important practical aspects is s
 Author: Luke Burns
 
 Categories: ['Concepts']
-Tags: []
+Tags: [sikhi,sikhism]
 
 PublishDate: 2020-10-14
 LastModifiedDate: 2020-10-14

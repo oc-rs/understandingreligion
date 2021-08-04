@@ -4,7 +4,7 @@ Abstract: "Sikhi is the name of a religious tradition which emerged in the Punja
 Image: amritsar.jpg
 
 Categories: ['Traditions']
-Tags: ['punjab','india']
+Tags: ['punjab','india',sikhi,sikhism]
 
 Author: Luke Burns
 Date: 2019-12-14

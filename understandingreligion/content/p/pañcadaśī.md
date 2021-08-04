@@ -5,7 +5,7 @@ Abstract: "The Pañcadaśī is a Hindu philosophical text, in the tradition of a
 Author: Luke Burns
 
 Categories: ['Texts']
-Tags: ['hinduism','vedanta']
+Tags: ['hinduism','vedanta',advaita vedanta]
 
 PublishDate: 2020-10-04
 LastModifiedDate: 2020-10-04

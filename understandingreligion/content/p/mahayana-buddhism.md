@@ -3,7 +3,7 @@ Title: "Mahayana Buddhism"
 Abstract: A form of Buddhism which is focused on attaining liberation for all beings out of compassion for the suffering of the world.
 
 Categories: ['Traditions']
-Tags: ['buddhism','india']
+Tags: ['buddhism','india',mahayana,mahayana buddhism]
 
 Author: Luke Burns
 

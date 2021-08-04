@@ -5,7 +5,7 @@ Abstract: "Facilitating faith discussions that transcend creedal and ideological
 Source: true
 Sourcetypes: [Podcasts]
 
-Tags: [islam]
+Tags: [islam,quran,tadabbur]
 
 PublishDate: 2021-08-01
 LastModifiedDate: 2021-08-01

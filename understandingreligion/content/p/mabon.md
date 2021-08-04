@@ -5,7 +5,7 @@ Abstract: "Mabon is a pagan festival that takes place on the autumnal equinox, d
 Author: Luke Burns
 
 Categories: ['Occasions']
-Tags: []
+Tags: [paganism]
 
 PublishDate: 2020-10-04
 LastModifiedDate: 2020-10-04

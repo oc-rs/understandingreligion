@@ -3,7 +3,7 @@ Title: "Mosque"
 Abstract: ""
 Author: Luke Burns
 Categories: ['Places']
-Tags: []
+Tags: [islam]
 PublishDate: 2020-01-01
 LastModifiedDate: 2020-01-01
 

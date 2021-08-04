@@ -2,7 +2,7 @@
 Title: "Vaishnavism"
 Abstract: ""
 Categories: ['Traditions']
-Tags: []
+Tags: [hinduism,vaishnavism]
 Date: 2020-02-07
 LastModifiedDate: 2020-02-07
 

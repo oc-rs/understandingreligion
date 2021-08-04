@@ -3,7 +3,7 @@ Title: "Islam"
 Abstract: A  monotheistic tradition that developed during 7th century Arabia, and which traces its roots back to the one god of the Hebrews.
 
 Categories: ['Traditions']
-Tags: ['arabia','muhammad']
+Tags: [islam,'arabia','muhammad']
 
 PublishDate: 2019-12-14
 LastModifiedDate: 2020-11-07

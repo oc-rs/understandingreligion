@@ -2,7 +2,7 @@
 Title: "Eastern Orthodox Church"
 Abstract: ""
 Categories: ['Traditions']
-Tags: []
+Tags: [christianity]
 Date: 2020-02-07
 LastModifiedDate: 2020-02-07
 

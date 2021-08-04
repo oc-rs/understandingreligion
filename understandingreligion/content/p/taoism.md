@@ -2,7 +2,7 @@
 Title: "Taoism"
 Abstract: ""
 Categories: ['Traditions']
-Tags: []
+Tags: [taoism]
 Date: 2019-12-14
 LastModifiedDate: 2019-12-14
 

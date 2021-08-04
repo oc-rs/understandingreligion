@@ -5,7 +5,7 @@ abstract: The International Church of Cannabis is a religious group based in Den
 Author: Luke Burns
 
 Categories: ['Traditions']
-Tags: ['stub','entheogens']
+Tags: ['new religious movements','entheogens']
 
 PublishDate: 2020-10-18
 LastModifiedDate: 2020-10-20

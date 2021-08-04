@@ -3,7 +3,7 @@ Title: Jainism
 Abstract: The Jain religious tradition focuses on liberation from the suffering of rebirth, and in this sense has common ground with its near geographic neighbours - Hinduism and Buddhism.
 
 Categories: ['Traditions']
-Tags: ['india']
+Tags: [jainism,'india']
 
 PublishDate: 2020-11-09
 LastModifiedDate: 2020-11-09

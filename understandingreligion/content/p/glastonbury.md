@@ -5,7 +5,7 @@ Abstract: "A town in Somerset, United Kingdom, which acts as a site of pilgrimag
 Author: Luke Burns
 
 Categories: ['Places']
-Tags: ['united kingdom','somerset','pilgrimage','christianity','pagan']
+Tags: ['united kingdom','somerset','pilgrimage','christianity','pagan',paganism]
 
 PublishDate: 2020-01-01
 LastModifiedDate: 2020-11-17

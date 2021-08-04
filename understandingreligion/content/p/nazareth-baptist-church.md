@@ -3,7 +3,7 @@ Title: "Nazareth Baptist Church"
 Abstract: ""
 
 Categories: ['Traditions']
-Tags: []
+Tags: [christianity]
 
 Author: Luke Burns
 Date: 2020-02-07

@@ -5,7 +5,7 @@ Abstract: The Principia Discordia is a semi-satirical work on the nature of divi
 Author: Luke Burns
 
 Categories: ['Texts']
-Tags: ['discordianism','eris','fnord','stub']
+Tags: ['discordianism','eris','fnord']
 
 PublishDate: 2020-10-19
 LastModifiedDate: 2020-10-19

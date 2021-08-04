@@ -2,7 +2,7 @@
 Title: "Guru Angad"
 Abstract: ""
 Categories: ['Figures']
-Tags: []
+Tags: [sikhi,sikhism]
 Date: 2020-02-07
 LastModifiedDate: 2020-02-07
 

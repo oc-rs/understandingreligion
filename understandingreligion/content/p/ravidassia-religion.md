@@ -5,7 +5,7 @@ Abstract: "A tradition with roots in Sikhi, which reveres Ravidass as Guru."
 Author: Luke Burns
 
 Categories: ['Traditions']
-Tags: ['sikhi']
+Tags: ['sikhi',sikhism]
 
 PublishDate: 2020-10-04
 LastModifiedDate: 2020-10-04

@@ -77,7 +77,7 @@
                         {{ if (isset .Params "tags") }}
                         <hr>
                         <div class="item-taglist">
-                            {{ range .Params.tags }}
+                            {{ range sort .Params.tags }}
                             <span><a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
                             {{ end }}
                         </div>
