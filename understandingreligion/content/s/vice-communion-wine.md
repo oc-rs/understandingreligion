@@ -22,6 +22,7 @@ Publisher: Vice
 -Location:
 
 -Wikipedia:
+Link: https://www.vice.com/en/article/jgqej4/early-christian-communion-wine-hallucinogenic
 ---
 # Introduction
 A discussion on the early use of hallucinogenic chemicals mixed with alcohol to form so-called 'spiked' wine.

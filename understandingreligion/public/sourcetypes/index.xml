@@ -6,10 +6,28 @@
     <description>Recent content in Sourcetypes on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Aug 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/sourcetypes/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Journals</title>
+      <link>https://www.understandingreligion.org.uk/sourcetypes/journals/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/sourcetypes/journals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Websites</title>
+      <link>https://www.understandingreligion.org.uk/sourcetypes/websites/</link>
+      <pubDate>Fri, 06 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/sourcetypes/websites/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Podcasts</title>
@@ -17,15 +35,6 @@
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Websites</title>
-      <link>https://www.understandingreligion.org.uk/sourcetypes/websites/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/sourcetypes/websites/</guid>
       <description></description>
     </item>
     
@@ -62,15 +71,6 @@
       <pubDate>Sat, 31 Oct 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/sourcetypes/online-courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Journals</title>
-      <link>https://www.understandingreligion.org.uk/sourcetypes/journals/</link>
-      <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/sourcetypes/journals/</guid>
       <description></description>
     </item>
     

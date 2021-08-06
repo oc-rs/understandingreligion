@@ -2,7 +2,7 @@
 Title: "Zoroastrianism"
 Abstract: ""
 Categories: ['Traditions']
-Tags: []
+Tags: [zoroastrianism,iran]
 Date: 2019-12-14
 LastModifiedDate: 2019-12-14
 

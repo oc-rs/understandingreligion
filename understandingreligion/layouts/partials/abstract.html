@@ -23,6 +23,7 @@
 
         </div>
 
+        {{ if (isset .Params "source") }}
         <div style="border-left: 10px solid #FA991C" class="column is-3">
 
             <p><strong>Source Details</strong></p>
@@ -59,6 +60,10 @@
             <p><span style="color: #032539">Location:</span> {{ .Params.location }}</p>
             {{ end }}
 
+            {{ if (isset .Params "link")}}
+            <p><span style="color: #032539">Direct link:</span> <a target="_blank" title="{{ .Params.link }}" href="{{ .Params.link }}">Click here</a></p>
+            {{ end }}
+
         </div>
 
 
@@ -67,6 +72,16 @@
             {{ .Params.abstract}}
 
         </div>
+
+        {{ else }}
+
+        <div style="border-left: 10px solid #FA991C" class="column is-7">
+            <p><strong>Abstract</strong></p>
+            {{ .Params.abstract}}
+
+        </div>
+
+        {{ end }}
 
     </div>
 </section>
