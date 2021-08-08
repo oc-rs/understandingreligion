@@ -23,9 +23,6 @@ fields:
 - type: datetime
   name: LastModifiedDate
   label: LastModifiedDate
-- type: file
-  name: Image
-  label: Image
 - type: boolean
   name: Featured
   label: Featured
