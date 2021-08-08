@@ -1,0 +1,47 @@
+---
+label: Article
+hide_body: false
+fields:
+- type: text
+  name: Title
+  label: Title
+- type: textarea
+  name: Abstract
+  label: Abstract
+- type: text
+  name: Author
+  label: Author
+- type: list
+  name: Categories
+  label: Categories
+- type: list
+  name: Tags
+  label: Tags
+- type: datetime
+  name: PublishDate
+  label: PublishDate
+- type: datetime
+  name: LastModifiedDate
+  label: LastModifiedDate
+- type: file
+  name: Image
+  label: Image
+- type: boolean
+  name: Featured
+  label: Featured
+- type: text
+  name: Books
+  label: Books
+- type: field_group
+  name: "--  - Name"
+  label: "--  - Name"
+  fields:
+  - type: text
+    name: Link
+    label: Link
+  - type: text
+    name: NextPageLink
+    label: NextPageLink
+  - type: text
+    name: PrevPageLink
+    label: PrevPageLink
