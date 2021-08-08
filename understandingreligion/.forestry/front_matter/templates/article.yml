@@ -29,19 +29,3 @@ fields:
 - type: boolean
   name: Featured
   label: Featured
-- type: text
-  name: Books
-  label: Books
-- type: field_group
-  name: "--  - Name"
-  label: "--  - Name"
-  fields:
-  - type: text
-    name: Link
-    label: Link
-  - type: text
-    name: NextPageLink
-    label: NextPageLink
-  - type: text
-    name: PrevPageLink
-    label: PrevPageLink
