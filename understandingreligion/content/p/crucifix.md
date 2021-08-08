@@ -15,4 +15,4 @@ Books:
 ---
 # Introduction
 
-A physical representation of Jesus dying on the cross, used by Christians as a reminder of Jesus's death and resurrection; the crucifix is used in a variety of contexts, often as a focal point within a church.
+A physical representation of [Jesus](/p/jesus/) dying on the cross, used by [Christians](/p/christianity/) as a reminder of Jesus's death and resurrection; the crucifix is used in a variety of contexts, often as a focal point within a [church](/p/church/).
