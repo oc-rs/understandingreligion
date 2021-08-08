@@ -29,3 +29,5 @@ fields:
 - type: boolean
   name: Featured
   label: Featured
+pages:
+- understandingreligion/content/p/close-encounters.md
