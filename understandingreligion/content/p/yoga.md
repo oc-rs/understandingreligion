@@ -6,9 +6,10 @@ Author: Luke Burns
 Categories:
 - Practices
 Tags:
+- yoga
 - hinduism
 PublishDate: 2020-01-01
-LastModifiedDate: 2020-01-01
+LastModifiedDate: 2021-08-09T23:00:00+00:00
 References: 
 Books: 
 
