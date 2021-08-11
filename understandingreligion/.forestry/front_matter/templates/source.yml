@@ -27,32 +27,32 @@ fields:
   name: LastModifiedDate
   label: LastModifiedDate
 - type: text
-  name: "-Sourceauthor"
-  label: "-Sourceauthor"
+  name: Sourceauthor
+  label: Sourceauthor
 - type: text
-  name: "-Authorpage"
-  label: "-Authorpage"
+  name: Authorpage
+  label: Authorpage
 - type: text
-  name: "-Editor"
-  label: "-Editor"
+  name: Editor
+  label: Editor
 - type: text
-  name: "-Translator"
-  label: "-Translator"
+  name: Translator
+  label: Translator
 - type: text
-  name: "-EditionYear"
-  label: "-EditionYear"
+  name: EditionYear
+  label: EditionYear
 - type: text
-  name: "-OriginalYear"
-  label: "-OriginalYear"
+  name: OriginalYear
+  label: OriginalYear
 - type: text
   name: Publisher
   label: Publisher
 - type: text
-  name: "-Location"
-  label: "-Location"
+  name: Location
+  label: Location
 - type: text
-  name: "-Wikipedia"
-  label: "-Wikipedia"
+  name: Wikipedia
+  label: Wikipedia
 - type: text
   name: Link
   label: Link
