@@ -14,11 +14,7 @@ LastModifiedDate: 2020-10-21
 
 Image: ritual.jpg
 
-Books:
--- Name: "Introduction to Religious Studies"
-Link: "/b/introduction-to-religious-studies/"
-NextPageLink: "/p/"
-PrevPageLink: "/p/belief/"
+Wikipedia:
 
 ---
 # Introduction
