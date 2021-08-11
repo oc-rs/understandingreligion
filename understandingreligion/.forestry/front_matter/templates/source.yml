@@ -56,3 +56,5 @@ fields:
 - type: text
   name: Link
   label: Link
+pages:
+- understandingreligion/content/s/sanskrit-studies-podcast.md
