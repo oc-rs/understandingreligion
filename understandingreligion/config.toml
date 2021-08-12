@@ -2,6 +2,9 @@ baseURL = "https://www.understandingreligion.org.uk/"
 languageCode = "en-gb"
 title = "Understanding Religion"
 
+[params]
+  cloudinary_url = "https://res.cloudinary.com/dmyrrcwjs/image/upload"
+
 [taxonomies]
   category = "categories"
   tag = "tags"
