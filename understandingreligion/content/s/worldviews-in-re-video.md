@@ -5,7 +5,7 @@ Abstract: This is a recording of 'What are worldviews and why should schools tea
 Source: true
 Sourcetypes: [Videos]
 
-Tags: ['religious education']
+Tags: ['religious education',worldviews]
 
 PublishDate: 2020-10-28
 LastModifiedDate: 2020-10-28
@@ -22,6 +22,7 @@ Publisher: Theos Think Tank
 -Location:
 
 -Wikipedia:
+Link: https://www.youtube.com/watch?v=hAK1lCS2_y0
 ---
 # Introduction
 

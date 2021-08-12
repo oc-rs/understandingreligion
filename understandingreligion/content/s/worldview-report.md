@@ -22,6 +22,7 @@ Publisher: Religious Education Council of England and Wales
 -Location:
 
 -Wikipedia:
+Link: https://www.religiouseducationcouncil.org.uk/wp-content/uploads/2020/10/20-19438-REC-Worldview-Report-A4-v2.pdf
 ---
 # Introduction
 >As part of the Worldview Project, the REC commissioned a multidisciplinary academic literature review on the worldview concept. This was prepared by three academics working in different disciplines in different universities.

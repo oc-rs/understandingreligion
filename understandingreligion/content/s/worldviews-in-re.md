@@ -5,7 +5,7 @@ Abstract: This report interprets and develops the idea of worldview and explores
 Source: true
 Sourcetypes: [Reports]
 
-Tags: ['religious education']
+Tags: ['religious education',worldviews]
 
 PublishDate: 2020-10-28
 LastModifiedDate: 2020-10-28
@@ -22,6 +22,7 @@ Publisher: Theos Think Tank
 -Location:
 
 -Wikipedia:
+Link: https://www.theosthinktank.co.uk/cmsfiles/Worldview-in-Religious-Education---FINAL-PDF-merged.pdf
 ---
 # Introduction
 This report interprets and develops the idea of **worldview** and explores its implications for the classroom.
