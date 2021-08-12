@@ -5,7 +5,7 @@ Abstract: "Understanding Religion is a website aimed at providing easy access to
 Author: Luke Burns
 
 PublishDate: 2020-01-01
-LastModifiedDate: 2020-10-06
+LastModifiedDate: 2021-08-12
 ---
 # Introduction
 <span style="color: #1c768f">Understanding Religion</span> is a website that aims to provide easy access to information about the study of religion, published by the [Online Centre for Religious Studies](https://ocrs.online).
@@ -156,18 +156,14 @@ You might start by reading a book about Catholicism, but after reading the secti
 This structure, where many paths meet and intertwine allows you to follow your own impulses through the material, learning in your own way and at your own pace.
 
 # Technology
-The site is built using [Hugo](https://gohugo.io) and [Bulma](https://bulma.io), we host our source code on [Github](https://github.com/oc-rs/understandingreligion), and deploy via [Netlify](https://www.netlify.com).
+The site is built using [Hugo](https://gohugo.io) and [Bulma](https://bulma.io), we host our source code on [Github](https://github.com/oc-rs/understandingreligion), and deploy via [Netlify](https://www.netlify.com). Images are hosted on [Cloudinary](https://cloudinary.com).
 
 The code outside of those dependancies (i.e. the site template, theming, and content) was written by [Luke Burns](/a/luke-burns/).
 
 As far as possible, the site is built using static pages, which means it loads quickly, and is easy to build and maintain. It also means that there's very little in the way of obstructions to the reader - I promise, no pop-ups, no adverts, no cookie notices (we don't use them).
 
 # Patrons and Sponsors
-We're a small scale operation (in fact 'we' is generous) - at the moment the site is written, coded, and maintained by one person (hi, I'm Luke, pleasure to meet you). If you feel like supporting the work done here, you can become a Patron of the OCRS.
-
-<a href="https://www.patreon.com/bePatron?u=8172845" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
-Check out a list of our current sponsors here: [ocrs.online/sponsors](https://ocrs.online/sponsors/)
+We're a small scale operation (in fact 'we' is generous) - at the moment the site is written, coded, and maintained by one person (hi, I'm Luke, pleasure to meet you). If you feel like supporting the work done here, please get in touch.
 
 # Contributions
 You can help!
