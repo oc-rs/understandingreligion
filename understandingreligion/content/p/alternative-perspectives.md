@@ -98,7 +98,7 @@ Do you think the journal cover would have had the same impact if they had used t
 
 # Ownership and identity
 
-An example of how ownership of religious traditions, and knowledge about those traditions, can be reclaimed by indigenous people can be found in the [Strehlow Research Centre, Australia](/p/strehlow-research-center/). This organisation holds a vast library of digital resources relating to the native Aranda culture in Central Australia – access to which is restricted to those who have a background in that culture, and who understand the importance and significance of that knowledge.
+An example of how ownership of religious traditions, and knowledge about those traditions, can be reclaimed by indigenous people can be found in the [Strehlow Research Centre, Australia](/p/strehlow-research-centre/). This organisation holds a vast library of digital resources relating to the native Aranda culture in Central Australia – access to which is restricted to those who have a background in that culture, and who understand the importance and significance of that knowledge.
 
 > In 2005 a change to the Strehlow Research Centre Act allowed for the return of sacred objects from the collection to their custodians. This could occur where custodians could be identified and there was evidence to substantiate the claims of ownership. That evidence relies on a mix of archival research and extensive community consultation with the Central Australian Aboriginal community. Aranda customary law is governed by a complex system of rules based on kinship and country.
 >
