@@ -17,6 +17,5 @@ Tags = ["aranda", "indigenous", "australia"]
 Title = "Strehlow Research Centre"
 Translator = ""
 Wikipedia = "https://en.m.wikipedia.org/wiki/Strehlow_Research_Centre"
-draft = true
 
 +++
