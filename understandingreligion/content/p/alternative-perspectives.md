@@ -48,7 +48,7 @@ Whereas Bakhtier, with some [strong justification](http://www.sublimequran.org/a
 
 Postcolonial and feminist thinkers have helped to dismantle some of the assumptions that helped to reinforce the erasure of alternative perspectives, but it's still common to talk about religions without exploring or appreciating these voices. As we explore religion, we should be mindful of our own biases and the biases in the material or societies we're learning about.
 
-# Decolonisation 
+# Decolonisation
 
 Not only has the western definition of religion often ignored or marginalised women and indigenous people, it has also focused on the types of behaviour expected by those raised in Christian Europe. This cultural background has placed greater emphasis on religious texts and orthodoxy ('right belief'), than on practice, community, or alternative perspectives from marginal groups in a society.
 
@@ -70,13 +70,31 @@ Stacey Swain notes that, when it comes to the existence of 'religion' outside of
 >
 > [Swain, 2017](http://bulletin.equinoxpub.com/2017/10/unpacking-the-baggage-of-indigenous-religions/)
 
-We can see a real-world example of this in the December 2018 issue of the Journal of the American Academy of Religion (JAAR), where the cover photo was a naked sadhu (Hindu holy person), who was having his feet touched by a woman. J. E. Llewellyn made the observation that this photo may have been selected more for its shock value than for its alignment with the article it ostensibly supports (https://religion.ua.edu/blog/2018/12/20/note-from-the-field/), noting that it is '...a bit of an orientalist image' because the vast majority of sadhus are not habitually naked.
+We can see a real-world example of this in the December 2018 issue of the Journal of the American Academy of Religion (JAAR), where the cover photo was a naked sadhu (Hindu holy person), who was having his feet touched by a woman.   
 
-Russell McCutcheon takes this argument further (https://religion.ua.edu/blog/2018/12/22/note-from-the-field-a-comment/), pointing out that the description applied to the image in the caption goes beyond mere description, and applies interpretation to the woman's intentions and experiences that it's extremely unlikely the editor was aware of (the photo was taken from Wikimedia Commons - here's the original: https://commons.wikimedia.org/wiki/File:Naga_Sadhu_and_Devotee_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2799.JPG). The editor's comments, according to McCutcheon, reinforce the idea that it's appropriate for observers to interpret the real motivations behind religious activity, but this is inappropriate and speaks over - without ever admitting it - the legitimate voice of the people under study.
+![](https://religion.ua.edu/blog/wp-content/uploads/sites/2/2018/12/Screen-Shot-2018-12-19-at-4.38.33-PM.png)
+
+J. E. Llewellyn [made the observation](https://religion.ua.edu/blog/2018/12/20/note-from-the-field/) that this photo may have been selected more for its shock value than for its alignment with the article it ostensibly supports, noting that it is '...a bit of an orientalist image' because the vast majority of sadhus are not habitually naked.
+
+Russell McCutcheon [takes this argument further](https://religion.ua.edu/blog/2018/12/22/note-from-the-field-a-comment/), pointing out that the description applied to the image in the caption goes beyond mere description, and applies *interpretation* to the woman's intentions and experiences:
+
+>ON THE COVER: A devotee touches a sadhu's feet, illustrating the desire for proximity to that which is believed to be a conduit for the sacred.
+
+McCutcheon believes it's extremely unlikely the editor was aware of the woman's desires in this moment - the photo was taken from Wikimedia Commons - here's the original:
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/e2/Naga_Sadhu_and_Devotee_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2800.JPG "Sadhu and devotee")
+
+*Photo by Biswarup Ganguly, original available [here](https://commons.m.wikimedia.org/wiki/File:Naga_Sadhu_and_Devotee_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2800.JPG).*
+
+The editor's comments, according to McCutcheon, reinforce the idea that it's appropriate for observers to interpret the real motivations behind religious activity, but actually this is *inappropriate* and speaks over - without ever admitting it - the legitimate voice of the people under study.
 
 > ...I think it would be highly unlikely to hear this caption come from the mouth of the woman being depicted and whose actions are being decoded for the viewer via this misleadingly simple caption...
 
-Do you think the journal cover would have had the same impact if they had used this image (https://commons.wikimedia.org/wiki/File:Naga_Sadhu_and_Devotees_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2797.JPG) of the same scene from a different angle and with different poses? Why not? What is being communicated in each image?
+Do you think the journal cover would have had the same impact if they had used this image of the same scene from a different angle and with different poses? Why not? What is being communicated in each image?
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Naga_Sadhu_and_Devotees_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2797.JPG/800px-Naga_Sadhu_and_Devotees_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2797.JPG)
+
+*Photo by Biswarup Ganguly, original available [here](https://commons.wikimedia.org/wiki/File:Naga_Sadhu_and_Devotees_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2797.JPG) 
 
 # Ownership and identity
 
