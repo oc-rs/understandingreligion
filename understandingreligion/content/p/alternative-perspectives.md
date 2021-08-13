@@ -94,7 +94,7 @@ Do you think the journal cover would have had the same impact if they had used t
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Naga_Sadhu_and_Devotees_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2797.JPG/800px-Naga_Sadhu_and_Devotees_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2797.JPG)
 
-*Photo by Biswarup Ganguly, original available [here](https://commons.wikimedia.org/wiki/File:Naga_Sadhu_and_Devotees_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2797.JPG) 
+*Photo by Biswarup Ganguly, original available [here](https://commons.wikimedia.org/wiki/File:Naga_Sadhu_and_Devotees_-_Gangasagar_Fair_Transit_Camp_-_Kolkata_2013-01-12_2797.JPG)*.
 
 # Ownership and identity
 
