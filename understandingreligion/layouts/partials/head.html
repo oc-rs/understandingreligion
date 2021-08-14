@@ -23,12 +23,12 @@
         <meta property="twitter:description" content="Understanding Religion is a website that aims to provide easy access to information about the study of religion, published by the Online Centre for Religious Studies. Always free, written clearly for a wide audience, grounded in academic study and supported by references for those who want to dive deeper." />
         {{ end }}
 
-        {{ if (isset .Params "image") }}
-        <meta property="og:image" content="https://www.understandingreligion.org.uk/img/images/{{ .Params.image }}" />
-        <meta property="twitter:image" content="https://www.understandingreligion.org.uk/img/images/{{ .Params.image }}" />
-        {{ else }}
+        {{ if (not (isset .Params "image")) | or (eq .Params.image "") }}
         <meta property="og:image" content="https://www.understandingreligion.org.uk/img/logo.jpg" />
         <meta property="twitter:image" content="https://www.understandingreligion.org.uk/img/logo.jpg" />
+        {{ else }}
+        <meta property="og:image" content="{{ .Site.Params.cloudinary_url }}/h_400,c_limit/v1628716054/religion/{{ .Params.image }}" />
+        <meta property="twitter:image" content="{{ .Site.Params.cloudinary_url }}/h_400,c_limit/v1628716054/religion/{{ .Params.image }}" />
         {{ end }}
 
         <script>
