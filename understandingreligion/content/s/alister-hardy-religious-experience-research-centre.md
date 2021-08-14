@@ -17,7 +17,6 @@ Tags = ["religious experience"]
 Title = "Alister Hardy Religious Experience Research Centre"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
