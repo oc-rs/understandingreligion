@@ -25,9 +25,11 @@ fields:
 - type: datetime
   name: PublishDate
   label: PublishDate
+  default: now
 - type: datetime
   name: LastModifiedDate
   label: LastModifiedDate
+  default: now
 - type: text
   name: Sourceauthor
   label: Sourceauthor
