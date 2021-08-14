@@ -1,5 +1,5 @@
 +++
-Abstract = "An organisation that produces online courses for learning about Buddhist philosophy, language, and practice."
+Abstract = "An organisation that produces online courses for learning about Buddhist philosophy, language, and practices."
 Author = "Luke Burns"
 Authorpage = ""
 EditionYear = ""
@@ -17,5 +17,6 @@ Tags = ["buddhist history", "buddhist philosophy", "buddhist studies", "buddhism
 Title = "Buddhist Studies Online"
 Translator = ""
 Wikipedia = ""
+toc = false
 
 +++
