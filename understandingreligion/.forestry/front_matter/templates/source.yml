@@ -56,6 +56,10 @@ fields:
 - type: text
   name: Link
   label: Link
+- name: toc
+  type: boolean
+  label: toc
+  description: Switch table of contents on or off
 pages:
 - understandingreligion/content/s/buddhist-studies-online.md
 - understandingreligion/content/s/collective-buddhist-studies-manifesto.md
