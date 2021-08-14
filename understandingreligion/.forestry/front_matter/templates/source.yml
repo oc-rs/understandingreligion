@@ -11,6 +11,7 @@ fields:
 - type: boolean
   name: Source
   label: Source
+  default: true
 - type: list
   name: Sourcetypes
   label: Sourcetypes
@@ -20,6 +21,7 @@ fields:
 - type: text
   name: Author
   label: Author
+  description: Who created this listing?
 - type: datetime
   name: PublishDate
   label: PublishDate
@@ -29,6 +31,7 @@ fields:
 - type: text
   name: Sourceauthor
   label: Sourceauthor
+  description: Who created the original source?
 - type: text
   name: Authorpage
   label: Authorpage
