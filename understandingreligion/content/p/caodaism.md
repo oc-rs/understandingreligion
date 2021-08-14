@@ -1,16 +1,19 @@
 ---
 Title: Caodaism
-Abstract: Caodaism emerged in Vietnam during the 1920s and based its structure on that of the Roman Catholic Church, but drew its principles and practices from Buddhism, Daoism, Christianity, and Confucianism.
-
+Abstract: Caodaism emerged in Vietnam during the 1920s and based its structure on
+  that of the Roman Catholic Church, but drew its principles and practices from Buddhism,
+  Daoism, Christianity, and Confucianism.
 Author: Luke Burns
-
-Categories: ['Traditions']
-Tags: ['vietnam','new religious movements']
-
+Categories:
+- Traditions
+Tags:
+- vietnam
+- new religious movements
 PublishDate: 2020-02-07
 LastModifiedDate: 2020-10-29
-
--Books:
+"-Books": 
+Image: toathanhtayninh.jpg
+Featured: false
 
 ---
 # Introduction
