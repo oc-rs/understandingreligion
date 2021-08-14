@@ -1,22 +1,23 @@
 ---
 Title: Cults
-Abstract: One of the key aspects of religion – particularly in public discourse – is the relationship between 'organised religion' and small groups of devotees lead by charismatic individuals, commonly referred to as cults.
-
+Abstract: One of the key aspects of religion – particularly in public discourse –
+  is the relationship between 'organised religion' and small groups of devotees lead
+  by charismatic individuals, commonly referred to as cults.
 Author: Luke Burns
-
-Categories: ['Concepts']
-Tags: []
-
+Categories:
+- Concepts
+Tags:
+- new religious movements
+- sects
+- cults
 Image: cult.jpg
-
 PublishDate: 2020-10-25
 LastModifiedDate: 2020-10-25
-
--Books:
-  - Name: "Introduction to Religious Studies"
-    Link: "/b/introduction-to-religious-studies/"
-    NextPageLink: "/p/six-articles/"
-    PrevPageLink: "/p/what-is-religion/"
+"-Books":
+- Name: Introduction to Religious Studies
+  Link: "/b/introduction-to-religious-studies/"
+  NextPageLink: "/p/six-articles/"
+  PrevPageLink: "/p/what-is-religion/"
 
 ---
 # Introduction
