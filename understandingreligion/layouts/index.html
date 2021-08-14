@@ -108,8 +108,10 @@
                 <div class="columns is-multiline">
                     {{ range first 1 (where .Site.RegularPages "Params.featured" true) }}
                     <div class="item column">
-                        {{ if (isset .Params "image" )}}
-                        <img style="max-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/images/{{ .Params.image }}">
+                        {{ if (not (isset .Params "image")) | or (eq .Params.image "") }}
+                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/logo.jpg">
+                        {{ else }}
+                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="{{ .Site.Params.cloudinary_url }}/h_400,c_limit/v1628716054/religion/{{ .Params.image }}">
                         {{ end }}
                       <article class="tile is-child box">
 
@@ -164,10 +166,10 @@
                 <div class="columns is-multiline">
                     {{ range first 3 (sort (where .Site.RegularPages "Section" "p") ".Params.LastModifiedDate" "desc") }}
                     <div class="item column is-one-third">
-                        {{ if (isset .Params "image" )}}
-                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/thumbnails/{{ .Params.image }}">
-                        {{ else }}
+                        {{ if (not (isset .Params "image")) | or (eq .Params.image "") }}
                         <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/logo.jpg">
+                        {{ else }}
+                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="{{ .Site.Params.cloudinary_url }}/h_400,c_limit/v1628716054/religion/{{ .Params.image }}">
                         {{ end }}
                     
                       <article class="tile is-child box">
@@ -221,10 +223,10 @@
                 <div class="columns is-multiline">
                     {{ range first 3 (sort (where .Site.RegularPages "Section" "s") ".Params.LastModifiedDate" "desc") }}
                     <div class="item column is-one-third">
-                        {{ if (isset .Params "image" )}}
-                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/thumbnails/{{ .Params.image }}">
-                        {{ else }}
+                        {{ if (not (isset .Params "image")) | or (eq .Params.image "") }}
                         <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/logo.jpg">
+                        {{ else }}
+                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="{{ .Site.Params.cloudinary_url }}/h_400,c_limit/v1628716054/religion/{{ .Params.image }}">
                         {{ end }}
                       <article class="tile is-child box">
 

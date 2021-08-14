@@ -6,10 +6,30 @@
     <description>Recent content in new religious movements on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 18 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Aug 2021 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/tags/new-religious-movements/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Inform</title>
+      <link>https://www.understandingreligion.org.uk/s/inform/</link>
+      <pubDate>Fri, 13 Aug 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/inform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cults</title>
+      <link>https://www.understandingreligion.org.uk/p/cults/</link>
+      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/cults/</guid>
+      <description>Introduction One of the key aspects of religion – particularly in public discourse – is the relationship between &amp;lsquo;organised religion&amp;rsquo; and small groups of devotees lead by charismatic individuals, commonly referred to as cults.
+The term &amp;lsquo;cult&amp;rsquo; has a somewhat negative connotation, and conjures images of people submitting to a strange and dangerous pattern of behaviour.
+We can see an example of this view in the US television series American Horror Story: Cult, in which a charismatic young man leads a group of disaffected individuals on a progressively more violent campaign to gain political power.</description>
+    </item>
     
     <item>
       <title>The International Church of Cannabis</title>
@@ -30,6 +50,15 @@ The church is unaffiliated with any other religious traditions, but its members 
       <guid>https://www.understandingreligion.org.uk/p/caodaism/</guid>
       <description>Introduction At less than a century old, the Cao Dai religion (also known as Caodaism) is arguably a New Religious Movement. It emerged in Vietnam during the 1920s and based its structure on that of the Roman Catholic Church, but drew its principles and practices from Buddhism, Daoism, Christianity, and Confucianism (religious systems all alive in Vietnam at that time).
 The tradition is traced back to Ngô Văn Chiêu, a Vietnamese official in the French colonial administration, who was particularly interested in religion and spiritualism (contact with the dead).</description>
+    </item>
+    
+    <item>
+      <title>Rizalism</title>
+      <link>https://www.understandingreligion.org.uk/p/rizalism/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/p/rizalism/</guid>
+      <description></description>
     </item>
     
   </channel>
