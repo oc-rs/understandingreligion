@@ -1,12 +1,15 @@
 ---
 Title: Ronald Grimes
 Abstract: A ritual theorist who founded the interdisciplinary field of ritual studies.
-
 Author: Luke Burns
-
-Categories: ['Scholars']
-Tags: ['ritual','anthropology','american religion','media']
-
+Categories:
+- Scholars
+Tags:
+- ritual studies
+- ritual
+- anthropology
+- american religion
+- media
 PublishDate: 2020-02-23
 LastModifiedDate: 2020-02-23
 
