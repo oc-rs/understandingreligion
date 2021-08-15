@@ -13,11 +13,10 @@ Publisher = ""
 Source = true
 Sourceauthor = ""
 Sourcetypes = ["Podcasts"]
-Tags = ["hinduism", "taoism"]
+Tags = ["philosophy", "zen", "dao", "alan watts", "hinduism", "taoism"]
 Title = "Being in the Way"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
