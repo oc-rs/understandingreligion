@@ -17,7 +17,6 @@ Tags = ["karma yoga", "yoga", "bhagavad gita", "hinduism"]
 Title = "Bhagavad Gita (online course)"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
