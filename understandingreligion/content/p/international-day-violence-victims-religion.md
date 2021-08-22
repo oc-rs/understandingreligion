@@ -6,9 +6,8 @@ Featured = false
 Image = ""
 LastModifiedDate = 2021-08-21T23:00:00Z
 PublishDate = 2021-08-21T23:00:00Z
-Tags = ["religious violence", "united nations"]
+Tags = ["discrimination", "religious violence", "united nations"]
 Title = "International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief"
-draft = true
 
 +++
 ## Introduction
