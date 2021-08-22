@@ -10,7 +10,7 @@ Tags = ["discrimination", "religious violence", "united nations"]
 Title = "International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief"
 
 +++
-## Introduction
+# Introduction
 
 The 22 August was designated a day to commemorate the victims of acts of violence based on religion or belief by the UN General Assembly in 2019.
 
