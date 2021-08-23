@@ -17,7 +17,6 @@ Tags = ["texts", "buddhism"]
 Title = "Buddhism Through Its Scriptures"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
