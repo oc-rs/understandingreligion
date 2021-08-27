@@ -47,10 +47,16 @@
                         <span><a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a></span>&nbsp;
                         {{ end }}
                     </div>
-                    <h1>Table of Contents</h1>
-                    
-                    {{ .TableOfContents }}
 
+                    {{ if .Params.toc }}
+                    <div class="card mt-4">
+                        <div class="card-content">
+                            <p class="title">Table of Contents</p>
+                            {{ .TableOfContents }}
+                        </div>
+                    </div>
+                    {{ end }}
+                    
                     {{ .Content }}
   
                     {{ partial "book-block.html" . }}

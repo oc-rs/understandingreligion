@@ -3,42 +3,502 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/buddhism/</loc>
-    <lastmod>2021-08-14T18:33:12+00:00</lastmod>
+    <loc>https://www.understandingreligion.org.uk/tags/hinduism/</loc>
+    <lastmod>2021-08-26T23:23:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/online-courses/</loc>
+    <lastmod>2021-08-26T23:23:05+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/s/</loc>
-    <lastmod>2021-08-14T18:33:12+00:00</lastmod>
+    <lastmod>2021-08-26T23:23:05+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/sourcetypes/</loc>
-    <lastmod>2021-08-14T18:33:12+00:00</lastmod>
+    <lastmod>2021-08-26T23:23:05+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/</loc>
-    <lastmod>2021-08-14T18:33:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/s/treasury-of-lives/</loc>
-    <lastmod>2021-08-14T18:33:12+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/tibet/</loc>
-    <lastmod>2021-08-14T18:33:12+00:00</lastmod>
+    <lastmod>2021-08-26T23:23:05+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/</loc>
-    <lastmod>2021-08-14T18:33:12+00:00</lastmod>
+    <lastmod>2021-08-26T23:23:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/yoga/</loc>
+    <lastmod>2021-08-26T23:23:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/yoga-history-philosophy/</loc>
+    <lastmod>2021-08-26T23:23:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/buddhism/</loc>
+    <lastmod>2021-08-26T23:10:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/jainism/</loc>
+    <lastmod>2021-08-26T23:10:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/karma/</loc>
+    <lastmod>2021-08-26T23:10:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/liberation/</loc>
+    <lastmod>2021-08-26T23:10:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/moksha/</loc>
+    <lastmod>2021-08-26T23:10:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/rebirth/</loc>
+    <lastmod>2021-08-26T23:10:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/karma-rebirth-liberation/</loc>
+    <lastmod>2021-08-26T23:10:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/hinduism-through-its-scriptures/</loc>
+    <lastmod>2021-08-23T21:25:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/texts/</loc>
+    <lastmod>2021-08-23T21:25:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/christianity/</loc>
+    <lastmod>2021-08-23T21:23:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/christianity-through-its-scriptures/</loc>
+    <lastmod>2021-08-23T21:23:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/judaism/</loc>
+    <lastmod>2021-08-23T21:21:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/judaism-through-its-scriptures/</loc>
+    <lastmod>2021-08-23T21:21:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/islam/</loc>
+    <lastmod>2021-08-23T21:18:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/islam-through-its-scriptures/</loc>
+    <lastmod>2021-08-23T21:18:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/koran/</loc>
+    <lastmod>2021-08-23T21:18:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/quran/</loc>
+    <lastmod>2021-08-23T21:18:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/buddhism-through-its-scriptures/</loc>
+    <lastmod>2021-08-23T21:15:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/sikhi/</loc>
+    <lastmod>2021-08-23T21:11:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/sikhism/</loc>
+    <lastmod>2021-08-23T21:11:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/sikhism-through-its-scriptures/</loc>
+    <lastmod>2021-08-23T21:11:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-literacy/</loc>
+    <lastmod>2021-08-23T21:08:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/religious-literacy-traditions-and-scriptures/</loc>
+    <lastmod>2021-08-23T21:08:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/conflict/</loc>
+    <lastmod>2021-08-23T20:39:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/peace/</loc>
+    <lastmod>2021-08-23T20:39:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/religion-conflict-peace/</loc>
+    <lastmod>2021-08-23T20:39:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/violence/</loc>
+    <lastmod>2021-08-23T20:39:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/africa/</loc>
+    <lastmod>2021-08-23T20:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/african-religion/</loc>
+    <lastmod>2021-08-23T20:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/diasporic-religion/</loc>
+    <lastmod>2021-08-23T20:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/organisations/</loc>
+    <lastmod>2021-08-23T20:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/adrsa/</loc>
+    <lastmod>2021-08-23T20:36:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/84000/</loc>
+    <lastmod>2021-08-23T20:32:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/buddhist-texts/</loc>
+    <lastmod>2021-08-23T20:32:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/kangyur/</loc>
+    <lastmod>2021-08-23T20:32:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/tengyur/</loc>
+    <lastmod>2021-08-23T20:32:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/tibet/</loc>
+    <lastmod>2021-08-23T20:32:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/tibetan-buddhism/</loc>
+    <lastmod>2021-08-23T20:32:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/tibetan-texts/</loc>
+    <lastmod>2021-08-23T20:32:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/translations/</loc>
+    <lastmod>2021-08-23T20:32:44+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/sourcetypes/websites/</loc>
+    <lastmod>2021-08-23T20:32:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/centre-for-christian-muslim-studies/</loc>
+    <lastmod>2021-08-23T05:20:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/interfaith/</loc>
+    <lastmod>2021-08-23T05:20:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/atheism/</loc>
+    <lastmod>2021-08-22T16:32:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/journals/</loc>
+    <lastmod>2021-08-22T16:32:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/non-religion/</loc>
+    <lastmod>2021-08-22T16:32:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/secularism/</loc>
+    <lastmod>2021-08-22T16:32:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/secularism-and-nonreligion/</loc>
+    <lastmod>2021-08-22T16:32:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/re-on-demand/</loc>
+    <lastmod>2021-08-22T11:57:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-education/</loc>
+    <lastmod>2021-08-22T11:57:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/</loc>
+    <lastmod>2021-08-21T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/discrimination/</loc>
+    <lastmod>2021-08-21T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/international-day-violence-victims-religion/</loc>
+    <lastmod>2021-08-21T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/categories/occasions/</loc>
+    <lastmod>2021-08-21T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/p/</loc>
+    <lastmod>2021-08-21T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-violence/</loc>
+    <lastmod>2021-08-21T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/united-nations/</loc>
+    <lastmod>2021-08-21T23:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-freedom/</loc>
+    <lastmod>2021-08-21T11:19:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/religious-freedom-institute/</loc>
+    <lastmod>2021-08-21T11:19:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/jssr/</loc>
+    <lastmod>2021-08-21T06:16:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
+    <lastmod>2021-08-21T06:16:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/science/</loc>
+    <lastmod>2021-08-21T06:16:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/comparative-mythology/</loc>
+    <lastmod>2021-08-21T06:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/comparative-mythology-journal/</loc>
+    <lastmod>2021-08-21T06:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/mythology/</loc>
+    <lastmod>2021-08-21T06:04:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/islamophobia/</loc>
+    <lastmod>2021-08-21T05:41:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/bridge-initiative/</loc>
+    <lastmod>2021-08-21T05:41:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/international-association-for-comparative-mythology/</loc>
+    <lastmod>2021-08-21T05:31:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/archaeology/</loc>
+    <lastmod>2021-08-15T20:25:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/architecture/</loc>
+    <lastmod>2021-08-15T20:25:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/discovering-ancient-temples/</loc>
+    <lastmod>2021-08-15T20:25:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/bhagavad-gita/</loc>
+    <lastmod>2021-08-15T20:10:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/ochs-bhagavad-gita-weekend-school/</loc>
+    <lastmod>2021-08-15T20:10:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/karma-yoga/</loc>
+    <lastmod>2021-08-15T20:10:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/ochs-bhagavad-gita-course/</loc>
+    <lastmod>2021-08-15T19:47:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/alan-watts/</loc>
+    <lastmod>2021-08-15T10:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/being-in-the-way/</loc>
+    <lastmod>2021-08-15T10:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/dao/</loc>
+    <lastmod>2021-08-15T10:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/philosophy/</loc>
+    <lastmod>2021-08-15T10:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</loc>
+    <lastmod>2021-08-15T10:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/taoism/</loc>
+    <lastmod>2021-08-15T10:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/zen/</loc>
+    <lastmod>2021-08-15T10:11:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/aar/</loc>
+    <lastmod>2021-08-15T06:37:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/new-movements-in-religion/</loc>
+    <lastmod>2021-08-15T06:25:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/theology/</loc>
+    <lastmod>2021-08-15T06:25:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/phenomenology/</loc>
+    <lastmod>2021-08-15T06:20:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-experience/</loc>
+    <lastmod>2021-08-15T06:20:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/sophere/</loc>
+    <lastmod>2021-08-15T06:20:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/mysticism/</loc>
+    <lastmod>2021-08-15T06:12:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/seekers-of-unity/</loc>
+    <lastmod>2021-08-15T06:12:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/youtube-channels/</loc>
+    <lastmod>2021-08-15T06:12:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/s/treasury-of-lives/</loc>
     <lastmod>2021-08-14T18:33:12+00:00</lastmod>
   </url>
   
@@ -88,11 +548,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/judaism/</loc>
-    <lastmod>2021-08-13T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/tags/magic/</loc>
     <lastmod>2021-08-13T23:00:00+00:00</lastmod>
   </url>
@@ -118,17 +573,7 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/organisations/</loc>
-    <lastmod>2021-08-13T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/tags/pali/</loc>
-    <lastmod>2021-08-13T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/religious-experience/</loc>
     <lastmod>2021-08-13T23:00:00+00:00</lastmod>
   </url>
   
@@ -139,11 +584,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/sects/</loc>
-    <lastmod>2021-08-13T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/texts/</loc>
     <lastmod>2021-08-13T23:00:00+00:00</lastmod>
   </url>
   
@@ -208,11 +648,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
-    <lastmod>2021-08-12T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/s/strehlow-research-centre/</loc>
     <lastmod>2021-08-12T23:00:00+00:00</lastmod>
   </url>
@@ -220,16 +655,6 @@
   <url>
     <loc>https://www.understandingreligion.org.uk/s/bulletin-for-the-study-of-religion/</loc>
     <lastmod>2021-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/journals/</loc>
-    <lastmod>2021-08-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/hinduism/</loc>
-    <lastmod>2021-08-10T23:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -258,16 +683,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/philosophy/</loc>
-    <lastmod>2021-08-10T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</loc>
-    <lastmod>2021-08-10T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/tags/sanskrit/</loc>
     <lastmod>2021-08-10T23:00:00+00:00</lastmod>
   </url>
@@ -278,22 +693,12 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/yoga/</loc>
-    <lastmod>2021-08-10T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/tags/abduction/</loc>
     <lastmod>2021-08-07T23:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/aliens/</loc>
-    <lastmod>2021-08-07T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/categories/</loc>
     <lastmod>2021-08-07T23:00:00+00:00</lastmod>
   </url>
   
@@ -309,11 +714,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/categories/experiences/</loc>
-    <lastmod>2021-08-07T23:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/p/</loc>
     <lastmod>2021-08-07T23:00:00+00:00</lastmod>
   </url>
   
@@ -349,11 +749,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/hauntings/</loc>
-    <lastmod>2021-08-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/islam/</loc>
     <lastmod>2021-08-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -468,22 +863,7 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/quran/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/s/quran-for-all-seasons-podcast/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/sikhi/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/sikhism/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -494,11 +874,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/s/global-philosophy-of-religion-project/</loc>
-    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/youtube-channels/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -533,16 +908,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/religious-education/</loc>
-    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/religious-literacy/</loc>
-    <lastmod>2021-01-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/sourcetypes/reports/</loc>
     <lastmod>2021-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -559,11 +924,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/new-year/</loc>
-    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/categories/occasions/</loc>
     <lastmod>2020-12-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -638,11 +998,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/phenomenology/</loc>
-    <lastmod>2020-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/p/seven-dimensions-of-religion/</loc>
     <lastmod>2020-11-15T00:00:00+00:00</lastmod>
   </url>
@@ -688,11 +1043,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/jainism/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/categories/traditions/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
   </url>
@@ -714,11 +1064,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/s/wicca-religious-change-course/</loc>
-    <lastmod>2020-10-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/online-courses/</loc>
     <lastmod>2020-10-31T00:00:00+00:00</lastmod>
   </url>
   
@@ -828,11 +1173,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/interfaith/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/s/interfaith-dialogue/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url>
@@ -853,11 +1193,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/s/religious-literacy-course/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/tags/sharia/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url>
@@ -869,11 +1204,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/s/sharia-islamic-law/</loc>
-    <lastmod>2020-10-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/violence/</loc>
     <lastmod>2020-10-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -924,11 +1254,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/s/culture-and-religion/</loc>
-    <lastmod>2020-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/discrimination/</loc>
     <lastmod>2020-10-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -1128,11 +1453,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/africa/</loc>
-    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/tags/anthropology/</loc>
     <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url>
@@ -1309,11 +1629,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/s/she-too/</loc>
-    <lastmod>2020-10-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/christianity/</loc>
     <lastmod>2020-10-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -1648,11 +1963,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/zen/</loc>
-    <lastmod>2020-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/tags/american-religion/</loc>
     <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url>
@@ -1699,6 +2009,11 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/p/ritual/</loc>
+    <lastmod>2020-02-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.understandingreligion.org.uk/tags/ritual-studies/</loc>
     <lastmod>2020-02-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -2368,11 +2683,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/taoism/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/m/terms/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -2555,10 +2865,6 @@
   </url>
   
   <url>
-    <loc>https://www.understandingreligion.org.uk/tags/comparative-mythology/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.understandingreligion.org.uk/tags/comparative-religion/</loc>
   </url>
   
@@ -2592,14 +2898,6 @@
   
   <url>
     <loc>https://www.understandingreligion.org.uk/tags/mystic/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/mysticism/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.understandingreligion.org.uk/tags/mythology/</loc>
   </url>
   
   <url>

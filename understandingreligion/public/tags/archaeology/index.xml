@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>archaeology on Understanding Religion</title>
+    <link>https://www.understandingreligion.org.uk/tags/archaeology/</link>
+    <description>Recent content in archaeology on Understanding Religion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 15 Aug 2021 20:25:14 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.understandingreligion.org.uk/tags/archaeology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Discovering Ancient Temples</title>
+      <link>https://www.understandingreligion.org.uk/s/discovering-ancient-temples/</link>
+      <pubDate>Sun, 15 Aug 2021 20:25:14 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/discovering-ancient-temples/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

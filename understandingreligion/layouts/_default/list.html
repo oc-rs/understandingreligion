@@ -68,6 +68,9 @@
                         
                         {{ if (eq .Params.source true) }}
                         <p class="subtitle"><span class="item-author">{{ .Params.sourceauthor }}</span> {{ with .Params.originalyear }}(<span class="item-year">{{ . }}</span>){{end}}</p>
+                        {{ with .Params.publisher }}
+                        <p style="color:#032539; margin-top: 40px; border-top: 1px solid; border-bottom: 1px solid">Published by <strong>{{ . }}</strong></p>
+                        {{ end }}
                         {{ end }}
                         
                         <p class="item-abstract">{{ .Params.abstract | truncate 100 }}</p>

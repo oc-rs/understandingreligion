@@ -14,11 +14,7 @@ Image: "dancing.jpg"
 
 Featured: false
 
-Books:
---  - Name: 
-    Link: 
-    NextPageLink:
-    PrevPageLink:
+toc: true
 
 ---
 
@@ -51,7 +47,7 @@ This same awareness is less prominent in the cognitive study of religion, where 
 
 The ethnography of new animism is typically focused on exploring and understanding the perspectives and experiences of those individuals (or dividuals), and there is less of a focus on using these observations to build universalising theories (whether of religion or of the mind). Informants are allowed to speak for themselves, and the conclusions drawn are typically only related to that specific culture or group - as Bird-David notes, a '...diversity of animisms exists, each animistic project with its local status, history, and structure...' (1999, p.79).
 
-## References
+# References
 
 * Bird-David, N. (1999) '"Animism" Revisited: Personhood, Environment, and Relational Epistemology', *Current Anthropology*, vol. 40, Supplement, pp. 67-91 [Online]. Available at https://www.journals.uchicago.edu/doi/pdfplus/10.1086/200061 (Accessed 18 February 2020).
 
