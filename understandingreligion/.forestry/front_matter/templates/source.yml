@@ -22,6 +22,7 @@ fields:
   name: Author
   label: Author
   description: Who created this listing?
+  default: Luke Burns
 - type: datetime
   name: PublishDate
   label: PublishDate
@@ -73,6 +74,7 @@ pages:
 - understandingreligion/content/s/being-in-the-way.md
 - understandingreligion/content/s/bridge-initiative.md
 - understandingreligion/content/s/british-jewish-studies.md
+- understandingreligion/content/s/bso201-bodhicaryavatara.md
 - understandingreligion/content/s/buddhism-through-its-scriptures.md
 - understandingreligion/content/s/buddhist-studies-online.md
 - understandingreligion/content/s/centre-for-christian-muslim-studies.md
@@ -104,7 +106,6 @@ pages:
 - understandingreligion/content/s/seekers-of-unity.md
 - understandingreligion/content/s/sikhism-through-its-scriptures.md
 - understandingreligion/content/s/sophere.md
-- understandingreligion/content/s/sssr.md
 - understandingreligion/content/s/strehlow-research-centre.md
 - understandingreligion/content/s/tib-shelf.md
 - understandingreligion/content/s/treasury-of-lives.md
