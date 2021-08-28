@@ -17,7 +17,6 @@ Tags = ["buddhism"]
 Title = "BSO 101 | Intro to Buddhism: History, Philosophy, and Practice"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
