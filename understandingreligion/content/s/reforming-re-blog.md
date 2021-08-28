@@ -17,7 +17,6 @@ Tags = ["religious education"]
 Title = "Reforming RE"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
