@@ -17,7 +17,6 @@ Tags = ["yoga", "yogic studies", "languages", "sanskrit"]
 Title = "SKT100b | Sanskrit for Yogis  An Introduction to the Language of Yoga"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
