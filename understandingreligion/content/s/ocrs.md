@@ -20,6 +20,7 @@ Wikipedia = ""
 toc = false
 
 +++
+# Introduction   
 The OCRS was founded by Luke Burns in 2016 as a way to help provide access to information about religious ideas and practices from around the world.
 
 > I wanted to learn about different perspectives and experiences of the unseen, but struggled to find a place online that offered this information in a clear and accessible format. I imagined creating an organisation that would provide this knowledge, and little by little tried to bring it into existence.
