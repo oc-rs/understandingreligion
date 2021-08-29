@@ -17,7 +17,6 @@ Tags = ["yogic studies", "languages", "sanskrit"]
 Title = "SKT 100a | The Devanāgarī Seminar"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
