@@ -1,14 +1,18 @@
 ---
 Title: Seven Dimensions of Religion
-Abstract: The seven dimensions of religion are a framework for exploring and understanding religion, developed by the Scottish scholar of religion, Ninian Smart.
-
+Abstract: The seven dimensions of religion are a framework for exploring and understanding
+  religion, developed by the Scottish scholar of religion, Ninian Smart.
 Author: Luke Burns
-
-Categories: ['Perspectives']
-Tags: ['phenomenology','religious studies']
-
+Categories:
+- Perspectives
+Tags:
+- phenomenology
+- religious studies
 PublishDate: 2020-11-15
 LastModifiedDate: 2020-11-15
+Featured: false
+Image: ''
+toc: true
 
 ---
 # Introduction
