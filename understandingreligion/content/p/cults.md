@@ -79,7 +79,7 @@ For example, the Filipino author José Rizal, who lived during the late 19th cen
 
 Rizal has since been elevated to the status of national hero amongst the Philippines, but for some his importance goes further, and they believe that his non-violent message of love and independence, rooted in Christianity and terminated by execution, was part of a second coming of Jesus Christ – others identify him with a pre-Spanish deity, or consider him a prophet.
 
-There are a variety of religious groups inspired by Rizal, which are collectively referred to as Rizalism, Rizalist cults, or Rizalista religious movements, an example of which is the Iglesia Watawat Ng Lahi (Church of the Banner of the Race).
+There are a variety of religious groups inspired by Rizal, which are collectively referred to as [Rizalism, Rizalist cults, or Rizalista religious movements](/p/rizalism/), an example of which is the Iglesia Watawat Ng Lahi (Church of the Banner of the Race).
 
 You can find a description of a Rizalist service here: https://ph.news.yahoo.com/worshipping-jose-rizal-god-113159549.html
 
