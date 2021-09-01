@@ -1,18 +1,19 @@
 ---
 Title: The World Religions Paradigm
-Abstract: When the category of religion is used to describe 'world religions', it is often in a way that turns multiple diverse traditions, philosophies, and practices, into one single entity for the sake of simplicity.
-
+Abstract: When the category of religion is used to describe 'world religions', it
+  is often in a way that turns multiple diverse traditions, philosophies, and practices,
+  into one single entity for the sake of simplicity.
 Author: Luke Burns
-
-Categories: ['Perspectives']
-Tags: ['religious studies']
-
+Categories:
+- Perspectives
+Tags:
+- religious studies
 Image: world-religion.jpg
-
 PublishDate: 2020-10-30
 LastModifiedDate: 2020-10-30
-
--Books:
+"-Books": 
+Featured: true
+toc: true
 
 ---
 # Introduction
