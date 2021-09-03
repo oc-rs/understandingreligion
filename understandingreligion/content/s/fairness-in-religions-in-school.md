@@ -17,7 +17,6 @@ Tags = ["australia", "religious education"]
 Title = "Fairness in Religions in Schools"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
