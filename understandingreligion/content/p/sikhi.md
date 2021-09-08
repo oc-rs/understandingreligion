@@ -13,15 +13,22 @@ Tags:
 - sikhi
 - sikhism
 Author: Luke Burns
-Date: 2019-12-14
-LastModifiedDate: 2020-03-08
+Date: '2019-12-14'
+LastModifiedDate: 2021-09-07T23:00:00+00:00
+PublishDate: 2019-12-14T00:00:00+00:00
+toc: true
+Featured: false
 
 ---
-## Introduction
+# Introduction
 Sikhi is characterised by its founding figures: a series of ten divinely inspired leaders known as Gurus. Unlike Hindu gurus (who tend to be considered holy persons with great wisdom), Sikh Gurus were viewed as conduits of the supreme guru (Waheguru) – i.e. God. Therefore the actions and sayings of the Gurus hold tremendous importance for Sikhs, and during their lifetimes they were instrumental in shaping the tradition.
 
-The foundational relationship in Sikhi is between teacher and pupil, hence the importance of the term Guru (teacher) and Sikh (student). According to Sikhi, God is the supreme and immeasurable creator of all existence, which makes itself available to humanity in the form of a teacher who can dispel ignorance and darkness. Each successive human Guru presented this divine intelligence and guidance in different forms for different contexts, but the tenth and final Guru, Gobind Singh, placed spiritual authority in two complementary locations – the recorded scripture (known as Guru Granth) and the Sikh sangat itself, also referred to as the Guru Panth (panth means path, or way, and by extension – those who follow the Guru’s way).
+# Guru and Sikh
+The foundational relationship in Sikhi is between teacher and pupil, hence the importance of the term Guru (teacher) and Sikh (student). According to Sikhi, God is the supreme and immeasurable creator of all existence, which makes itself available to humanity in the form of a teacher who can dispel ignorance and darkness.
 
+Each successive human Guru presented this divine intelligence and guidance in different forms for different contexts, but the tenth and final Guru, [Gobind Singh](/p/guru-gobind-singh), placed spiritual authority in two complementary locations – the recorded scripture (known as Guru Granth) and the Sikh sangat itself, also referred to as the Guru Panth (panth means path, or way, and by extension – those who follow the Guru’s way).
+
+# Initiation and community
 The Sikh community can be further divided between those who have been initiated into a group known as the Khalsa (the pure), and those who follow the Gurus but don’t engage in the additional practices required for Khalsa initiates. These additional steps involve a ceremony known as ‘taking amrit’ and the wearing of the so-called five K’s.
 
 You can watch a discussion of this ceremony in the BBC clip below:
