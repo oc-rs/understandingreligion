@@ -39,3 +39,5 @@ There is sometimes dispute between whether the authority granted by Guru Gobind 
 >Singh, 1997, p. 297
 
 # References
+* Oxtoby, W.G. (1996) ‘The Sikh Tradition’ in World Religions: Eastern Traditions, Oxford, Oxford University Press, pp. 176-213.
+* Singh, J. (1997) ‘The Khalsa’ in Sikhism: Its Philosophy and History, Chandigarh, Institute of Sikh Studies, pp. 289-302.
