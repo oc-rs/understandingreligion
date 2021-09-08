@@ -9,6 +9,9 @@ Categories:
 Tags: []
 PublishDate: 2020-11-10
 LastModifiedDate: 2020-11-10
+Image: crystals.jpg
+Featured: false
+toc: false
 
 ---
 # Introduction
