@@ -1,12 +1,12 @@
 ---
-Title: "Liquid Religion"
-Abstract: ""
-
+Title: Liquid Religion
+Abstract: Liquid religion is a metaphorical way to describe how religious activities
+  change by suggesting that religion or religiosity ‘leaks’ from established traditional
+  spaces into non-traditional, novel spaces.
 Author: Luke Burns
-
-Categories: ['Perspectives']
+Categories:
+- Perspectives
 Tags: []
-
 PublishDate: 2020-11-10
 LastModifiedDate: 2020-11-10
 

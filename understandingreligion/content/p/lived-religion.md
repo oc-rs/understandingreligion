@@ -1,12 +1,11 @@
 ---
-Title: "Lived Religion"
-Abstract: ""
-
+Title: Lived Religion
+Abstract: No one can point to ‘religion’ as a real thing. Instead, scholars argue,
+  we should talk about people religioning, doing religion, behaving religiously.
 Author: Luke Burns
-
-Categories: ['Perspectives']
+Categories:
+- Perspectives
 Tags: []
-
 PublishDate: 2020-02-07
 LastModifiedDate: 2020-11-10
 
