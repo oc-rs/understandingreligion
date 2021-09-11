@@ -6,7 +6,7 @@ Featured = false
 Image = ""
 LastModifiedDate = 2021-09-10T23:00:00Z
 PublishDate = 2021-09-10T23:00:00Z
-Tags = ["philosophy"]
+Tags = ["latin", "philosophy"]
 Title = "A priori"
 toc = false
 
