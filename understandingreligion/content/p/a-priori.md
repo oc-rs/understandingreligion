@@ -1,5 +1,5 @@
 +++
-Abstract = "In philosophy, this refers to knowledge or understanding that is based on reasoning or logic, without necessarily being based on direct experience."
+Abstract = "In philosophy, this Latin term refers to knowledge or understanding that is based on reasoning or logic, without necessarily being based on direct experience."
 Author = "Luke Burns"
 Categories = ["Concepts"]
 Featured = false
