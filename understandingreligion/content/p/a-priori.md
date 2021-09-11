@@ -11,3 +11,7 @@ Title = "A priori"
 toc = false
 
 +++
+# Further reading
+
+* [A Priori Justification and Knowledge - Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/apriori/)
+* [A priori and a posteriori - Wikipedia](https://en.m.wikipedia.org/wiki/A_priori_and_a_posteriori)
