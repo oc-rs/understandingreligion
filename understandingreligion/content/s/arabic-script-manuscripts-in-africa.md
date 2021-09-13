@@ -17,7 +17,6 @@ Tags = ["texts", "africa", "islam"]
 Title = "Arabic-Script Manuscripts in Africa"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
