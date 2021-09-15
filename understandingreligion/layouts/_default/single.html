@@ -57,9 +57,12 @@
                     </div>
                     {{ end }}
                     
-                    {{ .Content }}
+                    <div class="mt-4">
+                        {{ .Content }}
+
+                        {{ partial "book-block.html" . }}
+                    </div>
   
-                    {{ partial "book-block.html" . }}
               </div>
           </div>
             

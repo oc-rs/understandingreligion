@@ -46,7 +46,7 @@
                         {{ if (not (isset .Params "image")) | or (eq .Params.image "") }}
                         <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="/img/logo.jpg">
                         {{ else }}
-                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="{{ .Site.Params.cloudinary_url }}/h_400,c_limit/v1628716054/religion/{{ .Params.image }}">
+                        <img style="max-height: 200px; min-height: 200px; min-width: 100%; object-fit: cover; position: relative; top: 15px" src="{{ .Site.Params.cloudinary_url }}/h_600,c_limit/v1628716054/religion/{{ .Params.image }}">
                         {{ end }}
                         
                         <article class="tile is-child box">

@@ -6,10 +6,37 @@
     <description>Recent content in Categories on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 21 Aug 2021 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Sep 2021 23:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.understandingreligion.org.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Perspectives</title>
+      <link>https://www.understandingreligion.org.uk/categories/perspectives/</link>
+      <pubDate>Tue, 14 Sep 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/perspectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Traditions</title>
+      <link>https://www.understandingreligion.org.uk/categories/traditions/</link>
+      <pubDate>Mon, 13 Sep 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/traditions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concepts</title>
+      <link>https://www.understandingreligion.org.uk/categories/concepts/</link>
+      <pubDate>Fri, 10 Sep 2021 23:00:00 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/categories/concepts/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Occasions</title>
@@ -39,15 +66,6 @@
     </item>
     
     <item>
-      <title>Perspectives</title>
-      <link>https://www.understandingreligion.org.uk/categories/perspectives/</link>
-      <pubDate>Sun, 15 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/perspectives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Figures</title>
       <link>https://www.understandingreligion.org.uk/categories/figures/</link>
       <pubDate>Thu, 12 Nov 2020 00:00:00 +0000</pubDate>
@@ -57,29 +75,11 @@
     </item>
     
     <item>
-      <title>Traditions</title>
-      <link>https://www.understandingreligion.org.uk/categories/traditions/</link>
-      <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/traditions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Questions</title>
       <link>https://www.understandingreligion.org.uk/categories/questions/</link>
       <pubDate>Sat, 07 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>https://www.understandingreligion.org.uk/categories/questions/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Concepts</title>
-      <link>https://www.understandingreligion.org.uk/categories/concepts/</link>
-      <pubDate>Sun, 25 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.understandingreligion.org.uk/categories/concepts/</guid>
       <description></description>
     </item>
     
