@@ -36,7 +36,7 @@ More recently, excellent work on this subject has been done by the [Shiloh Proje
 
 > ...investigate the complex and at times contentious relationships that exist between rape culture and religion, considering the various ways religion can both participate in and contest rape culture discourses and practices.
 >
-> Shiloh Project (http://shiloh-project.group.shef.ac.uk/about/)
+> Shiloh Project
 
 We also find a similar challenge to misogynistic interpretations of religious texts in the first translation of the Qur'an to be completed by an American Muslim woman – [The Sublime Quran by Laleh Bakhtiar](http://www.sublimequran.org/). One of the notable changes here is to verse 4.34, which has historically been used to justify domestic abuse and violence against wives. The Sahih International translation offers:
 
