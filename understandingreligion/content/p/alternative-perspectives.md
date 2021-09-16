@@ -32,7 +32,7 @@ Female academic perspectives on religious literature, contesting or challenging 
 >
 > Urubshurow, 2008, p. 120
 
-More recently, excellent work on this subject has been done by the [Shiloh Project](http://shiloh-project.group.shef.ac.uk/), which looks at [rape culture](https://en.wikipedia.org/wiki/Rape_culture) both in the Bible and the contemporary world, and aims to:
+More recently, excellent work on this subject has been done by the [Shiloh Project](/p/shiloh-project/), which looks at [rape culture](https://en.wikipedia.org/wiki/Rape_culture) both in the Bible and the contemporary world, and aims to:
 
 > ...investigate the complex and at times contentious relationships that exist between rape culture and religion, considering the various ways religion can both participate in and contest rape culture discourses and practices.
 >
