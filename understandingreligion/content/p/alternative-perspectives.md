@@ -6,14 +6,18 @@ Abstract: Alternative perspectives, due to their absence in mainstream texts and
 Author: Luke Burns
 Categories:
 - Perspectives
-Tags: []
+Tags:
+- religious studies
 PublishDate: 2020-10-25
-LastModifiedDate: 2021-08-12T23:00:00+00:00
+LastModifiedDate: 2021-09-15T23:00:00+00:00
 "-Books":
 - Name: Introduction to Religious Studies
   Link: "/b/introduction-to-religious-studies/"
   NextPageLink: "/p/six-articles/"
   PrevPageLink: "/p/what-is-religion/"
+Image: pantheon-below.jpg
+toc: true
+Featured: false
 
 ---
 # Introduction
