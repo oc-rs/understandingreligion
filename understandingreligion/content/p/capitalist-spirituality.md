@@ -16,3 +16,6 @@ Featured: false
 toc: false
 
 ---
+# Image credits
+## Banner
+Thanks to Steve Johnson @steve_j for making this photo available freely on [Unsplash 🎁](https://unsplash.com/photos/0sPFjdcRhko)
