@@ -10,7 +10,7 @@ PublishDate: 2020-02-07
 LastModifiedDate: 2021-09-16T23:00:00+00:00
 Image: indian-women.jpg
 Featured: false
-toc: false
+toc: true
 
 ---
 # Introduction
@@ -32,3 +32,7 @@ By focusing on activity and individuals, we can avoid (or at least mitigate) the
 
 # References
 * Ammerman, N. (2014) 'Finding Religion in Everyday Life', Sociology of Religion, vol. 75 no. 2 pp. 189-207 [Online]. Available at https://www.researchgate.net/publication/276135488_Finding_Religion_in_Everyday_Life (Accessed 10 February 2019).
+
+# Image credits
+## Banner
+Thanks to Yogendra Singh @yogendras31 for making this photo available freely on [Unsplash 🎁](https://unsplash.com/photos/pOkfTJtNQrY)
