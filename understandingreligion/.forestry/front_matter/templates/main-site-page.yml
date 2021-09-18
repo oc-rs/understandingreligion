@@ -17,3 +17,5 @@ fields:
 - type: datetime
   name: LastModifiedDate
   label: LastModifiedDate
+pages:
+- understandingreligion/content/m/contribute.md
