@@ -17,5 +17,10 @@ fields:
 - type: datetime
   name: LastModifiedDate
   label: LastModifiedDate
+- name: Image
+  type: text
+  config:
+    required: false
+  label: Image
 pages:
 - understandingreligion/content/m/contribute.md
