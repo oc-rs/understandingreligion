@@ -1,11 +1,12 @@
 ---
 Title: About the project
-Abstract: "Understanding Religion is a website aimed at providing easy access to information about the study of religion. Always free, written clearly for a wide audience, grounded in academic study and supported by references for those who want to dive deeper."
-
+Abstract: Understanding Religion is a website aimed at providing easy access to information
+  about the study of religion. Always free, written clearly for a wide audience, grounded
+  in academic study and supported by references for those who want to dive deeper.
 Author: Luke Burns
-
 PublishDate: 2020-01-01
 LastModifiedDate: 2021-08-12
+
 ---
 # Introduction
 <span style="color: #1c768f">Understanding Religion</span> is a website that aims to provide easy access to information about the study of religion, published by the [Online Centre for Religious Studies](https://ocrs.online).
@@ -168,43 +169,4 @@ We're a small scale operation (in fact 'we' is generous) - at the moment the sit
 # Contributions
 You can help!
 
-We need contributors and editors to write and review content - if you want to get involved, use the contact form below.
-
-<form name="contact" method="POST" data-netlify="true">
-
-<div class="field">
-  <label for="name" class="label">Name</label>
-  <div class="control">
-    <input name="name" class="input" type="text" id="contact_name" placeholder="What should we call you?">
-  </div>
-</div>
-
-<div class="field">
-  <label class="label">Email</label>
-  <div class="control has-icons-left has-icons-right">
-    <input name="email" for="email" class="input" type="email" id="contact_email" placeholder="you@email.com" value="">
-    <span class="icon is-small is-left">
-      <i class="fas fa-envelope"></i>
-    </span>
-  </div>
-</div>
-
-<div class="field">
-  <label for="message" class="label">Message</label>
-  <div class="control">
-    <textarea name="message" class="textarea" id="contact_message" placeholder="I wanted to say..."></textarea>
-  </div>
-</div>
-
-
-<div class="field is-grouped">
-  <div class="control">
-    <button class="button is-link">Submit</button>
-  </div>
-  <div class="control">
-    <a href="#" class="button is-link is-light">Cancel</a>
-  </div>
-</div>
-
-</form>
-
+We need contributors and editors to write and review content - if you want to get involved please check out our [contributions page](/m/contribute).
