@@ -24,6 +24,9 @@ You could also expand an already existing page if you feel like it's missing con
 
 It's worth getting in touch before committing to any content to make sure it's something we'd be able to use.
 
+## Length
+There aren't any strict rules here - articles should be as long as they need to be, but somewhere between 200 and 2000 words is probably the right ballpark.
+
 ## Style
 
 The style should be conversational, informative, and neutral - as the site is an academic resource we’re not trying to argue for the truth (or untruth) of any particular subject, just to present the facts.
