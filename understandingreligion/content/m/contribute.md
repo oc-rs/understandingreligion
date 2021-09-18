@@ -56,7 +56,7 @@ If you’re more into the technical side of things and you find a dodgy link, ba
 
 # Payment
 
-I’m afraid we cannot pay for any work that you submit or offer - the site does not generate any income and is produced on a volunteer basis.
+Unfortunately we cannot pay for any work that you submit or offer - the site does not generate any income and is produced on a volunteer basis.
 
 # Getting in touch
 
