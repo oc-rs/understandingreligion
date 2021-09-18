@@ -5,7 +5,6 @@ Image = "ocrs.jpeg"
 LastModifiedDate = 2021-08-31T23:00:00Z
 PublishDate = 2021-08-31T23:00:00Z
 Title = "Contributions"
-draft = true
 
 +++
 # Introduction
@@ -55,3 +54,42 @@ A lot of the articles on the site at the moment are either placeholders or in ne
 I’m afraid we cannot pay for any work that you submit or offer - the site does not generate any income and is produced on a volunteer basis.
 
 # Getting in touch
+We'd love to hear from you! You can reach us by email at hello@ocrs.online, or if you prefer you can use the form below.
+
+<form name="contact" method="POST" data-netlify="true">
+
+<div class="field">
+  <label for="name" class="label">Name</label>
+  <div class="control">
+    <input name="name" class="input" type="text" id="contact_name" placeholder="What should we call you?">
+  </div>
+</div>
+
+<div class="field">
+  <label class="label">Email</label>
+  <div class="control has-icons-left has-icons-right">
+    <input name="email" for="email" class="input" type="email" id="contact_email" placeholder="you@email.com" value="">
+    <span class="icon is-small is-left">
+      <i class="fas fa-envelope"></i>
+    </span>
+  </div>
+</div>
+
+<div class="field">
+  <label for="message" class="label">Message</label>
+  <div class="control">
+    <textarea name="message" class="textarea" id="contact_message" placeholder="I wanted to say..."></textarea>
+  </div>
+</div>
+
+
+<div class="field is-grouped">
+  <div class="control">
+    <button class="button is-link">Submit</button>
+  </div>
+  <div class="control">
+    <a href="#" class="button is-link is-light">Cancel</a>
+  </div>
+</div>
+
+</form>
