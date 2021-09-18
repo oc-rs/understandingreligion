@@ -1,0 +1,19 @@
+---
+label: Main Site Page
+hide_body: false
+fields:
+- type: text
+  name: Title
+  label: Title
+- type: textarea
+  name: Abstract
+  label: Abstract
+- type: text
+  name: Author
+  label: Author
+- type: datetime
+  name: PublishDate
+  label: PublishDate
+- type: datetime
+  name: LastModifiedDate
+  label: LastModifiedDate
