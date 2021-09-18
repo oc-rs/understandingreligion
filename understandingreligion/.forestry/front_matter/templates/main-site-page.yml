@@ -22,6 +22,9 @@ fields:
   config:
     required: false
   label: Image
+- name: toc
+  type: boolean
+  label: Table of Contents
 pages:
 - understandingreligion/content/m/about.md
 - understandingreligion/content/m/contribute.md

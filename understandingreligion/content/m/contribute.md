@@ -5,6 +5,7 @@ Image = "ocrs.jpeg"
 LastModifiedDate = 2021-08-31T23:00:00Z
 PublishDate = 2021-08-31T23:00:00Z
 Title = "Contributions"
+toc = true
 
 +++
 # Introduction
