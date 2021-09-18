@@ -6,6 +6,7 @@ Abstract: Understanding Religion is a website aimed at providing easy access to 
 Author: Luke Burns
 PublishDate: 2020-01-01
 LastModifiedDate: 2021-08-12
+Image: ocrs.jpeg
 
 ---
 # Introduction

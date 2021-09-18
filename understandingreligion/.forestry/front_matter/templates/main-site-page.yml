@@ -23,4 +23,5 @@ fields:
     required: false
   label: Image
 pages:
+- understandingreligion/content/m/about.md
 - understandingreligion/content/m/contribute.md
