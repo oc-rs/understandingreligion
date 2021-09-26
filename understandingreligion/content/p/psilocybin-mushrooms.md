@@ -1,16 +1,21 @@
 ---
 Title: Psilocybin Mushrooms
-Abstract: ''
+Abstract: Psilocybin is a chemical found in several species of fungus, the fruiting
+  bodies of which are generally referred to as 'magic mushrooms'.
 Categories:
 - Entheogens
 Tags:
 - magic mushrooms
 - shrooms
 - cubes
-Date: 2020-02-07
-LastModifiedDate: 2020-10-26
+Date: '2020-02-07'
+LastModifiedDate: 2021-09-25T23:00:00+00:00
 Image: psilocybin.jpg
 Books: 
+Author: Luke Burns
+PublishDate: 2020-10-26T00:00:00+00:00
+Featured: false
+toc: false
 
 ---
 <div class="has-background-danger-dark has-text-light p-4 mt-5">
