@@ -9,9 +9,9 @@ Tags:
 - phenomenology
 - religious studies
 PublishDate: 2020-11-15
-LastModifiedDate: 2020-11-15
+LastModifiedDate: 2021-09-27T23:00:00+00:00
 Featured: false
-Image: ''
+Image: confetti.jpg
 toc: true
 
 ---
@@ -27,7 +27,7 @@ The very idea of 'a' religion that could be isolated from the rest of human life
 # Ritual Dimension
 The ritual and practical dimension of religion covers all aspects of performed religion, this includes formal [ritual](/p/ritual) (activities with rules surrounding the performance and motivation) as well as more informal, everyday practices (activities with a religious motivation or character).
 
-Some examples of ritual are Christian baptism (https://en.wikipedia.org/wiki/Baptism), Hindu yajna (https://en.wikipedia.org/wiki/Yajna), and Zoroastrian navjote ceremonies (https://en.wikipedia.org/wiki/Navjote). This dimension also encompasses other activities that may not be strictly regulated, but which nonetheless form a consistent practice - for instance yoga, prayer, and meditation.
+Some examples of ritual are Christian [baptism](https://en.wikipedia.org/wiki/Baptism), Hindu [yajna](https://en.wikipedia.org/wiki/Yajna), and Zoroastrian [navjote ceremonies](https://en.wikipedia.org/wiki/Navjote). This dimension also encompasses other activities that may not be strictly regulated, but which nonetheless form a consistent practice - for instance yoga, prayer, and meditation.
 
 # Experiential Dimension
 The experiential (or emotional) dimension relates to personal experiences felt by the individual, for example joy, bliss, mystery, anger, despair, and so on, where these experiences are in relation to a religious experience.
