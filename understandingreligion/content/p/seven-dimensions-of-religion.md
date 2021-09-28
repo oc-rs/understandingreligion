@@ -100,3 +100,7 @@ The specifics of a religion will vary with time and place; these circumstances w
 
 # References
 * Smart, N. (1998) *The World's Religions*, Cambridge University Press.
+
+# Image credits
+## Banner
+Thanks to Dharmesh Patel @dharmeshx for making [this photo](https://unsplash.com/photos/8yJ6tzwuZCg) available freely on Unsplash 🎁
