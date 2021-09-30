@@ -16,9 +16,9 @@ As we enter the world of religious studies, we do so as conditioned individuals,
 
 We should also be aware that within the field of religious studies itself, we may encounter an underlying tendency to view religion as a set of beliefs, guided by canonical literature, and though beliefs and texts are common features, they are certainly not the whole story!
 
-Writing in Guide to the Study of Religion, Willi Braun makes the point that religion as a concept carries four key elements (2000, pp.6-10), which I’ve summarised below.
+Writing in *Guide to the Study of Religion*, Willi Braun makes the point that religion as a concept carries four key elements (2000, pp.6-10), which I’ve summarised below.
 
-(1) ‘Religion’ is essentially empty of meaning, having emerged as an academic category that was 'non-theological', without a positive definition to provide unity of purpose or method. The positive definitions that came later were developed to suit whatever purpose was necessary.
+(1) 'Religion' is essentially empty of meaning, having emerged as an academic category that was 'non-theological', without a positive definition to provide unity of purpose or method. The positive definitions that came later were developed to suit whatever purpose was necessary.
 
 We're on safe ground, therefore, to say that (2) 'religion' is a technical concept for the purpose of interpreting social behaviour and experience, but it's not an observable 'thing' out in the world. You cannot point to an object called religion.
 

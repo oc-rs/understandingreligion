@@ -3,7 +3,7 @@
 document.onscroll = function() {
   var c = document.getElementById("controlpanel");
   if(c){
-    if (window.innerHeight + window.scrollY > document.body.clientHeight) {
+    if (window.innerHeight + window.scrollY > document.body.clientHeight - 2) {
       document.getElementById('controlpanel').style.display='none';
     }
     else {

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>community on Understanding Religion</title>
+    <link>https://www.understandingreligion.org.uk/tags/community/</link>
+    <description>Recent content in community on Understanding Religion</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 26 Sep 2021 07:40:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.understandingreligion.org.uk/tags/community/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BRIC-19</title>
+      <link>https://www.understandingreligion.org.uk/s/bric-19/</link>
+      <pubDate>Sun, 26 Sep 2021 07:40:31 +0000</pubDate>
+      
+      <guid>https://www.understandingreligion.org.uk/s/bric-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

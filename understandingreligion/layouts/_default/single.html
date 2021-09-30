@@ -61,6 +61,16 @@
                         {{ .Content }}
 
                         {{ partial "book-block.html" . }}
+
+                        {{ $related := .Site.RegularPages.RelatedIndices . "tags" "categories" | first 5 }}
+                        {{ with $related }}
+                        <h1>See also</h1>
+                        <ul>
+                            {{ range . }}
+                            <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                            {{ end }}
+                        </ul>
+                        {{ end }}
                     </div>
   
               </div>

@@ -10,6 +10,17 @@ title = "Understanding Religion"
   tag = "tags"
   sourcetype = "sourcetypes"
 
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+[[related.indices]]
+  name = 'tags'
+  weight = 100
+[[related.indices]]
+  name = 'categories'
+  weight = 80
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.extensions]
