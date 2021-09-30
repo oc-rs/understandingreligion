@@ -1,26 +1,26 @@
 ---
 Title: What is religious literacy?
-Abstract: Religious literacy is a term that has become more popular in recent years, but what exactly do we mean when we talk about it?
-
+Abstract: Religious literacy is a term that has become more popular in recent years,
+  but what exactly do we mean when we talk about it?
 Featured: false
-
 Author: Luke Burns
-
-Categories: ['Questions']
-Tags: ['religious studies','religious literacy']
-
+Categories:
+- Questions
+Tags:
+- religious studies
+- religious literacy
 PublishDate: 2020-10-26
 LastModifiedDate: 2020-10-26
-
 Image: study.jpg
-
-Books:
--- Name: "Introduction to Religious Studies"
+Books: 
+"-- Name": Introduction to Religious Studies
 Link: "/b/introduction-to-religious-studies/"
 NextPageLink: "/p/"
 PrevPageLink: "/p/belief/"
+toc: true
 
 ---
+# Introduction
 Religious literacy is a term that has become more popular in recent years, but what exactly do we mean when we talk about it?
 
 The word 'literacy' definitely sounds like it has something to do with reading and understanding written texts - religious traditions will often (but not always!) write things down, so is religious literacy the ability to read these texts?
@@ -30,6 +30,8 @@ Nope!
 Just like how being able to read is a skill that you can apply throughout your life, religious literacy is a skill that allows you to understand and interpret religious phenomena wherever you encounter them.
 
 **It doesn’t mean you have to memorise lots of facts or know lots of fancy words** - it means that you have the ability to look at someone’s religious expression, their attitudes, or their experiences, and gain some understanding through discussion, empathy, and research. You’re not likely to be distracted by flashy headlines that try to convince you all Christians are homophobic, all Muslims are violent, or all Buddhists are peaceful.
+
+# Understanding religious diversity
 
 One of the key points of religious literacy is the recognition that religions are complex, variable, and internally diverse.
 
