@@ -5,6 +5,8 @@ Author: Luke Burns
 Categories:
 - Practices
 Tags:
+- moksha
+- liberation
 - hinduism
 PublishDate: 2020-02-29
 LastModifiedDate: 2021-10-01T05:00:00+00:00
