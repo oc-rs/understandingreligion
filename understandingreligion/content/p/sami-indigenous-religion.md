@@ -37,3 +37,7 @@ toc: false
 * [https://en.m.wikipedia.org/wiki/S](https://en.m.wikipedia.org/wiki/S "https://en.m.wikipedia.org/wiki/S")ámi_shamanism
 
 # Image Credits
+
+## Banner
+
+Thanks to Nikola Johnny Mirkovic @thejohnnyme for making this photo available freely on Unsplash: [https://unsplash.com/photos/vfaD7bscm7I](https://unsplash.com/photos/vfaD7bscm7I "https://unsplash.com/photos/vfaD7bscm7I")
