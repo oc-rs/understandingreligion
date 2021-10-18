@@ -1,30 +1,23 @@
 ---
-Title: "Blaauboschkraal stone ruins"
-Abstract: "A series of stone circles in South Africa."
-
+Title: Blaauboschkraal stone ruins
+Abstract: A series of stone circles in South Africa.
 Author: Luke Burns
-
-Categories: ['Places']
-Tags: ['megaliths','south africa','stub']
-
+Categories:
+- Places
+Tags:
+- africa
+- megaliths
+- south africa
 PublishDate: 2020-10-03
 LastModifiedDate: 2020-10-03
-
-# ==================================================
-# HEADER IMAGE
-# --------------------------------------------------
-# Use the line below to define an image
-# e.g. uncomment the line and use "imagename.jpg"
-# --------------------------------------------------
-# Image: ""
-# ==================================================
-
-
-Books:
---  - Name: 
-    Link: 
-    NextPageLink:
-    PrevPageLink:
+Books: 
+"--  - Name":
+  Link: 
+  NextPageLink: 
+  PrevPageLink: 
+Featured: false
+Image: ''
+toc: false
 
 ---
 # Introduction
