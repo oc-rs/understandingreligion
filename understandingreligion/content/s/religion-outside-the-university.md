@@ -17,7 +17,6 @@ Tags = ["united kingdom", "university", "religious studies"]
 Title = "Religion Outside the University"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
