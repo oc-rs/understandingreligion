@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="">
+<html class="has-navbar-fixed-top">
 
     {{ partial "head.html" . }}
 
@@ -20,7 +20,7 @@
 
         {{ $cloudinary := .Site.Params.cloudinary_url }}
         {{ with .Params.image }}
-        <img src="{{ $cloudinary }}/w_1000,c_limit/v1628716054/religion/{{ . }}" class="mediumbanner">
+        <img src="{{ $cloudinary }}/w_2000,c_limit/v1628716054/religion/{{ . }}" class="mediumbanner">
         {{ end }}
 
         <section style="background-color: #FAFAFA; margin-bottom: 0px" class="section content">

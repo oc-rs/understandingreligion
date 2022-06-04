@@ -1,5 +1,5 @@
 
-<nav style="border-bottom: 3px solid #1c768f" class="navbar" role="navigation" aria-label="main navigation">
+<nav style="border-bottom: 3px solid #1c768f" class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="/">
         <img src="/img/logo.jpg" style="border-radius: 250px" width="40" height="40">
@@ -13,110 +13,130 @@
     </div>
     <div class="navbar-menu" id="navMenu">
         <div class="navbar-start">
-        <a href="/" class="navbar-item">
-            Home
-        </a>
-    
-        <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-                Scholarship
+            <a href="/" class="navbar-item">
+                Home
+            </a>
+        
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Scholarship
+                </a>
+
+                <div class="navbar-dropdown">
+                    <a href="/categories/questions/" class="navbar-item">
+                    Key Questions
+                    </a>
+                    <a href="/categories/perspectives/" class="navbar-item">
+                    Perspectives
+                    </a>
+                    <a href="/categories/scholars/" class="navbar-item">
+                    Scholars
+                    </a>
+                </div>
+            </div>
+
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Sources
+                </a>
+
+                <div class="navbar-dropdown">
+                    <a href="/s/" class="navbar-item">
+                        All Sources
+                    </a>
+                    <hr class="navbar-divider">
+                    {{range ($.Site.GetPage "taxonomyTerm" "sourcetypes").Pages.ByTitle }}
+                    <a href="{{ .Permalink }}" class="navbar-item">
+                    {{ .Title }}
+                    </a>
+                    {{ end }}
+                </div>
+            </div>
+            
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Pages
+                </a>
+
+                <div class="navbar-dropdown">
+                    <a href="/p/" class="navbar-item">
+                        All Pages
+                    </a>
+                    <hr class="navbar-divider">
+                    <a href="/categories/clothing/" class="navbar-item">
+                        Clothing
+                    </a>
+                    <a href="/categories/concepts/" class="navbar-item">
+                        Concepts
+                    </a>
+                    <a href="/categories/entheogens/" class="navbar-item">
+                        Entheogens
+                    </a>
+                    <a href="/categories/events/" class="navbar-item">
+                        Events
+                    </a>
+                    <a href="/categories/experiences/" class="navbar-item">
+                        Experiences
+                    </a>
+                    <a href="/categories/figures/" class="navbar-item">
+                        Figures
+                    </a>
+                    <a href="/categories/food/" class="navbar-item">
+                        Food
+                    </a>
+                    <a href="/categories/objects/" class="navbar-item">
+                        Objects
+                    </a>
+                    <a href="/categories/occasions/" class="navbar-item">
+                        Occasions
+                    </a>
+                    <a href="/categories/places/" class="navbar-item">
+                        Places
+                    </a>
+                    <a href="/categories/practices/" class="navbar-item">
+                        Practices
+                    </a>
+                    <a href="/categories/texts/" class="navbar-item">
+                        Texts
+                    </a>
+                    <a href="/categories/traditions/" class="navbar-item">
+                        Traditions
+                    </a>
+                </div>
+            </div>
+
+            <a href="/tags/" class="navbar-item">
+                Search by Tags
             </a>
 
-            <div class="navbar-dropdown">
-                <a href="/categories/questions/" class="navbar-item">
-                Key Questions
-                </a>
-                <a href="/categories/perspectives/" class="navbar-item">
-                Perspectives
-                </a>
-                <a href="/categories/scholars/" class="navbar-item">
-                Scholars
-                </a>
-            </div>
-        </div>
-
-        <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-                Sources
+            <a href="/b/" class="navbar-item">
+                Books
             </a>
 
-            <div class="navbar-dropdown">
-                <a href="/s/" class="navbar-item">
-                    All Sources
-                </a>
-                <hr class="navbar-divider">
-                {{range ($.Site.GetPage "taxonomyTerm" "sourcetypes").Pages.ByTitle }}
-                <a href="{{ .Permalink }}" class="navbar-item">
-                {{ .Title }}
-                </a>
-                {{ end }}
-            </div>
+            <a href="/m/about/" class="navbar-item">
+                About Us 
+            </a>
+
         </div>
         
-        <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-                Pages
-            </a>
-
-            <div class="navbar-dropdown">
-                <a href="/p/" class="navbar-item">
-                    All Pages
-                </a>
-                <hr class="navbar-divider">
-                <a href="/categories/clothing/" class="navbar-item">
-                    Clothing
-                </a>
-                <a href="/categories/concepts/" class="navbar-item">
-                    Concepts
-                </a>
-                <a href="/categories/entheogens/" class="navbar-item">
-                    Entheogens
-                </a>
-                <a href="/categories/events/" class="navbar-item">
-                    Events
-                </a>
-                <a href="/categories/experiences/" class="navbar-item">
-                    Experiences
-                </a>
-                <a href="/categories/figures/" class="navbar-item">
-                    Figures
-                </a>
-                <a href="/categories/food/" class="navbar-item">
-                    Food
-                </a>
-                <a href="/categories/objects/" class="navbar-item">
-                    Objects
-                </a>
-                <a href="/categories/occasions/" class="navbar-item">
-                    Occasions
-                </a>
-                <a href="/categories/places/" class="navbar-item">
-                    Places
-                </a>
-                <a href="/categories/practices/" class="navbar-item">
-                    Practices
-                </a>
-                <a href="/categories/texts/" class="navbar-item">
-                    Texts
-                </a>
-                <a href="/categories/traditions/" class="navbar-item">
-                    Traditions
-                </a>
+        <div class="navbar-end">
+            
+            <div class="navbar-item">
+                <!-- layouts/partials/search.html -->
+                <form id="search-form" class="noscript" method="GET" action="https://duckduckgo.com/" data-language-prefix="{{ site.LanguagePrefix }}">
+                    
+                    <div class="search-bar">
+                        <i class="fas fa-search"></i>&nbsp;&nbsp;
+                        <input id="search-input" class="input" name="q" tabindex="0" autocomplete="off" placeholder="search for anything">
+                        <input style="visibility: hidden" id="search-submit" class="icon" type="submit" value="⌕">
+                    </div>
+                    <ul id="search-results" class="search--display"></ul>
+                </form>
+                <!-- <script src="{{ "/scripts/fuse.js" | relURL }}"></script> -->
+                <script src="{{ "/scripts/fixedsearch/fixedsearch.js" | relURL }}"></script>
             </div>
-        </div>
 
-        <a href="/tags/" class="navbar-item">
-            Search by Tags
-        </a>
-
-        <a href="/b/" class="navbar-item">
-            Books
-        </a>
-
-        <a href="/m/about/" class="navbar-item">
-            About Us
-        </a>
-
-        </div>
-        </div>
-    </nav>
+        </div><!-- end of navbar end -->
+            
+    </div>
+</nav>

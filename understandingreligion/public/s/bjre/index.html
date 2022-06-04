@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="">
+<html class="has-navbar-fixed-top">
 
         <head>
         <meta charset="utf-8">
@@ -7,6 +7,7 @@
         <title>British Journal of Religious Education</title>
         <link rel="stylesheet" href="/css/bulma.min.css">
         <link rel="stylesheet" href="/css/style.css">
+        <link rel="stylesheet" href="/css/search.css">
         <link rel="apple-touch-icon" sizes="180x180" href="/img/apple-touch-icon.png">
         <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
@@ -49,6 +50,7 @@
           });
         </script>
         <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+        <script src="/scripts/fixedsearch/fixedsearch.js"></script>
 
         <script type="text/javascript" src="https://api.pirsch.io/pirsch.js"
     id="pirschjs"
@@ -59,7 +61,7 @@
 
     <body>
         
-<nav style="border-bottom: 3px solid #1c768f" class="navbar" role="navigation" aria-label="main navigation">
+<nav style="border-bottom: 3px solid #1c768f" class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
         <a class="navbar-item" href="/">
         <img src="/img/logo.jpg" style="border-radius: 250px" width="40" height="40">
@@ -73,161 +75,181 @@
     </div>
     <div class="navbar-menu" id="navMenu">
         <div class="navbar-start">
-        <a href="/" class="navbar-item">
-            Home
-        </a>
-    
-        <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-                Scholarship
+            <a href="/" class="navbar-item">
+                Home
             </a>
+        
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Scholarship
+                </a>
 
-            <div class="navbar-dropdown">
-                <a href="/categories/questions/" class="navbar-item">
-                Key Questions
-                </a>
-                <a href="/categories/perspectives/" class="navbar-item">
-                Perspectives
-                </a>
-                <a href="/categories/scholars/" class="navbar-item">
-                Scholars
-                </a>
+                <div class="navbar-dropdown">
+                    <a href="/categories/questions/" class="navbar-item">
+                    Key Questions
+                    </a>
+                    <a href="/categories/perspectives/" class="navbar-item">
+                    Perspectives
+                    </a>
+                    <a href="/categories/scholars/" class="navbar-item">
+                    Scholars
+                    </a>
+                </div>
             </div>
-        </div>
 
-        <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-                Sources
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Sources
+                </a>
+
+                <div class="navbar-dropdown">
+                    <a href="/s/" class="navbar-item">
+                        All Sources
+                    </a>
+                    <hr class="navbar-divider">
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/articles/" class="navbar-item">
+                    Articles
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/blogs/" class="navbar-item">
+                    Blogs
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/books/" class="navbar-item">
+                    Books
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/conferences/" class="navbar-item">
+                    Conferences
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/journals/" class="navbar-item">
+                    Journals
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/online-courses/" class="navbar-item">
+                    Online Courses
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/organisations/" class="navbar-item">
+                    Organisations
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/podcasts/" class="navbar-item">
+                    Podcasts
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/reports/" class="navbar-item">
+                    Reports
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/research-projects/" class="navbar-item">
+                    Research Projects
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/videos/" class="navbar-item">
+                    Videos
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/websites/" class="navbar-item">
+                    Websites
+                    </a>
+                    
+                    <a href="https://www.understandingreligion.org.uk/sourcetypes/youtube-channels/" class="navbar-item">
+                    Youtube Channels
+                    </a>
+                    
+                </div>
+            </div>
+            
+            <div class="navbar-item has-dropdown is-hoverable">
+                <a class="navbar-link">
+                    Pages
+                </a>
+
+                <div class="navbar-dropdown">
+                    <a href="/p/" class="navbar-item">
+                        All Pages
+                    </a>
+                    <hr class="navbar-divider">
+                    <a href="/categories/clothing/" class="navbar-item">
+                        Clothing
+                    </a>
+                    <a href="/categories/concepts/" class="navbar-item">
+                        Concepts
+                    </a>
+                    <a href="/categories/entheogens/" class="navbar-item">
+                        Entheogens
+                    </a>
+                    <a href="/categories/events/" class="navbar-item">
+                        Events
+                    </a>
+                    <a href="/categories/experiences/" class="navbar-item">
+                        Experiences
+                    </a>
+                    <a href="/categories/figures/" class="navbar-item">
+                        Figures
+                    </a>
+                    <a href="/categories/food/" class="navbar-item">
+                        Food
+                    </a>
+                    <a href="/categories/objects/" class="navbar-item">
+                        Objects
+                    </a>
+                    <a href="/categories/occasions/" class="navbar-item">
+                        Occasions
+                    </a>
+                    <a href="/categories/places/" class="navbar-item">
+                        Places
+                    </a>
+                    <a href="/categories/practices/" class="navbar-item">
+                        Practices
+                    </a>
+                    <a href="/categories/texts/" class="navbar-item">
+                        Texts
+                    </a>
+                    <a href="/categories/traditions/" class="navbar-item">
+                        Traditions
+                    </a>
+                </div>
+            </div>
+
+            <a href="/tags/" class="navbar-item">
+                Search by Tags
             </a>
 
-            <div class="navbar-dropdown">
-                <a href="/s/" class="navbar-item">
-                    All Sources
-                </a>
-                <hr class="navbar-divider">
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/articles/" class="navbar-item">
-                Articles
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/blogs/" class="navbar-item">
-                Blogs
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/books/" class="navbar-item">
+            <a href="/b/" class="navbar-item">
                 Books
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/conferences/" class="navbar-item">
-                Conferences
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/journals/" class="navbar-item">
-                Journals
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/online-courses/" class="navbar-item">
-                Online Courses
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/organisations/" class="navbar-item">
-                Organisations
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/podcasts/" class="navbar-item">
-                Podcasts
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/reports/" class="navbar-item">
-                Reports
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/research-projects/" class="navbar-item">
-                Research Projects
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/videos/" class="navbar-item">
-                Videos
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/websites/" class="navbar-item">
-                Websites
-                </a>
-                
-                <a href="https://www.understandingreligion.org.uk/sourcetypes/youtube-channels/" class="navbar-item">
-                Youtube Channels
-                </a>
-                
-            </div>
+            </a>
+
+            <a href="/m/about/" class="navbar-item">
+                About Us 
+            </a>
+
         </div>
         
-        <div class="navbar-item has-dropdown is-hoverable">
-            <a class="navbar-link">
-                Pages
-            </a>
-
-            <div class="navbar-dropdown">
-                <a href="/p/" class="navbar-item">
-                    All Pages
-                </a>
-                <hr class="navbar-divider">
-                <a href="/categories/clothing/" class="navbar-item">
-                    Clothing
-                </a>
-                <a href="/categories/concepts/" class="navbar-item">
-                    Concepts
-                </a>
-                <a href="/categories/entheogens/" class="navbar-item">
-                    Entheogens
-                </a>
-                <a href="/categories/events/" class="navbar-item">
-                    Events
-                </a>
-                <a href="/categories/experiences/" class="navbar-item">
-                    Experiences
-                </a>
-                <a href="/categories/figures/" class="navbar-item">
-                    Figures
-                </a>
-                <a href="/categories/food/" class="navbar-item">
-                    Food
-                </a>
-                <a href="/categories/objects/" class="navbar-item">
-                    Objects
-                </a>
-                <a href="/categories/occasions/" class="navbar-item">
-                    Occasions
-                </a>
-                <a href="/categories/places/" class="navbar-item">
-                    Places
-                </a>
-                <a href="/categories/practices/" class="navbar-item">
-                    Practices
-                </a>
-                <a href="/categories/texts/" class="navbar-item">
-                    Texts
-                </a>
-                <a href="/categories/traditions/" class="navbar-item">
-                    Traditions
-                </a>
+        <div class="navbar-end">
+            
+            <div class="navbar-item">
+                
+                <form id="search-form" class="noscript" method="GET" action="https://duckduckgo.com/" data-language-prefix="">
+                    
+                    <div class="search-bar">
+                        <i class="fas fa-search"></i>&nbsp;&nbsp;
+                        <input id="search-input" class="input" name="q" tabindex="0" autocomplete="off" placeholder="search for anything">
+                        <input style="visibility: hidden" id="search-submit" class="icon" type="submit" value="⌕">
+                    </div>
+                    <ul id="search-results" class="search--display"></ul>
+                </form>
+                
+                <script src="/scripts/fixedsearch/fixedsearch.js"></script>
             </div>
-        </div>
-
-        <a href="/tags/" class="navbar-item">
-            Search by Tags
-        </a>
-
-        <a href="/b/" class="navbar-item">
-            Books
-        </a>
-
-        <a href="/m/about/" class="navbar-item">
-            About Us
-        </a>
 
         </div>
-        </div>
-    </nav>
+            
+    </div>
+</nav>
 
         <section style="background-color: #032539" class="hero is-small">
             <div class="hero-body">
@@ -398,13 +420,17 @@
     
     <div class="columns is-vcentered has-text-centered">
         <div class="column">
-            <p><a href="/m/about/">About the project</a></p>
+            <p><a href="/m/about/"><i class="fas fa-address-card"></i>&nbsp;About the project</a></p>
         </div>
         <div class="column">
-            <p><a href="/m/terms/">Terms and conditions</a></p>
+            <p><a href="/m/contribute/"><i class="fas fa-edit"></i>&nbsp;Contribute an article</a></p>
+        </div>
+        
+        <div class="column">
+            <p><a href="https://religion.pirsch.io/?domain=www.understandingreligion.org.uk&interval=7d&scale=day"><i class="fas fa-analytics"></i>&nbsp;Site statistics</a></p>
         </div>
         <div class="column">
-            <p><a href="/p/">All articles</a></p>
+            <p><a href="/m/terms/"><i class="fas fa-asterisk"></i>&nbsp;Terms and conditions</a></p>
         </div>
     </div>
     
@@ -16799,6 +16825,38 @@
 
             
 
+            <a class="site-search-result-title" href="https://www.understandingreligion.org.uk/tags/sami/">
+              sami
+            </a>
+
+            <span class="site-searchstring" style="display: none">
+
+                  
+
+              
+
+              sami
+
+              
+              
+            </span>
+
+          </p>
+          
+          <p class="site-search-result-item">
+
+            
+            <i class="fas fa-tag"></i>&nbsp;
+            
+
+            
+
+            
+
+            
+
+            
+
             <a class="site-search-result-title" href="https://www.understandingreligion.org.uk/tags/sanskrit/">
               sanskrit
             </a>
@@ -18750,6 +18808,38 @@
           <p class="site-search-result-item">
 
             
+            <i class="fas fa-tag"></i>&nbsp;
+            
+
+            
+
+            
+
+            
+
+            
+
+            <a class="site-search-result-title" href="https://www.understandingreligion.org.uk/tags/s%C3%A1mi/">
+              sámi
+            </a>
+
+            <span class="site-searchstring" style="display: none">
+
+                  
+
+              
+
+              sámi
+
+              
+              
+            </span>
+
+          </p>
+          
+          <p class="site-search-result-item">
+
+            
 
             
 
@@ -18776,7 +18866,39 @@
               Sámi indigenous religion
 
               
-              [animism russia sweden sapmi finland norway indigenous]
+              [animism russia sweden sapmi sápmi sami sámi finland norway indigenous]
+              
+              
+            </span>
+
+          </p>
+          
+          <p class="site-search-result-item">
+
+            
+            <i class="fas fa-tag"></i>&nbsp;
+            
+
+            
+
+            
+
+            
+
+            
+
+            <a class="site-search-result-title" href="https://www.understandingreligion.org.uk/tags/s%C3%A1pmi/">
+              sápmi
+            </a>
+
+            <span class="site-searchstring" style="display: none">
+
+                  
+
+              
+
+              sápmi
+
               
               
             </span>

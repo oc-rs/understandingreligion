@@ -11,6 +11,9 @@ Tags:
 - russia
 - sweden
 - sapmi
+- sápmi
+- sami
+- sámi
 - finland
 - norway
 - indigenous
