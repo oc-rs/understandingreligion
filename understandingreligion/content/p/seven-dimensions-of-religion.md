@@ -9,37 +9,37 @@ Tags:
 - phenomenology
 - religious studies
 PublishDate: 2020-11-15
-LastModifiedDate: 2021-09-27T23:00:00+00:00
+LastModifiedDate: 2021-09-27T23:00:00.000+00:00
 Featured: false
 Image: confetti.jpg
 toc: true
 
 ---
-# Introduction
+## Introduction
 
 The seven dimensions of religion are a framework for exploring and understanding religion, developed by the Scottish scholar of religion, [Ninian Smart](/p/ninian-smart).
 
-Smart's approach sidestepped the issue of agreeing on what counted as 'a religion', and instead identified types of experience and expression that were demonstrably religious or spiritual in nature.
+Smart's approach sidestepped the issue of agreeing on [what counted as 'a religion'](/p/what-is-religion/), and instead identified types of experience and expression that were demonstrably religious or spiritual in nature.
 
 This modular approach to religious studies facilitated a much broader scope to consider and compare spiritual traditions and artefacts from around the world that may not have aligned with a Western conception of what a religion was.
 
 The very idea of 'a' religion that could be isolated from the rest of human life is part of the Christian, post-Reformation heritage of Europe, and does not necessarily fit with religious and spiritual traditions across the world. You can read more about this in our article on the [World Religions Paradigm](/p/world-religions-paradigm/).
 
-# Ritual Dimension
+## Ritual Dimension
 
 The ritual and practical dimension of religion covers all aspects of performed religion, this includes formal [ritual](/p/ritual) (activities with rules surrounding the performance and motivation) as well as more informal, everyday practices (activities with a religious motivation or character).
 
-Some examples of ritual are Christian [baptism](https://en.wikipedia.org/wiki/Baptism), Hindu [yajna](https://en.wikipedia.org/wiki/Yajna), and Zoroastrian [navjote ceremonies](https://en.wikipedia.org/wiki/Navjote). This dimension also encompasses other activities that may not be strictly regulated, but which nonetheless form a consistent practice - for instance yoga, prayer, and meditation.
+Some examples of ritual are Christian [baptism](https://en.wikipedia.org/wiki/Baptism), Hindu [yajna](https://en.wikipedia.org/wiki/Yajna), and Zoroastrian [navjote ceremonies](https://en.wikipedia.org/wiki/Navjote). This dimension also encompasses other activities that may not be strictly regulated, but which nonetheless form a consistent practice - for instance [yoga](/p/yoga/), [prayer](/p/prayer/), and [meditation](/p/meditation/).
 
-# Experiential Dimension
+## Experiential Dimension
 
 The experiential (or emotional) dimension relates to personal experiences felt by the individual, for example joy, bliss, mystery, anger, despair, and so on, where these experiences are in relation to a religious experience.
 
-It can also encompass more than just emotion, but the quality of experience of entering a mosque, embarking on a pilgrimage, or taking amrit (the Sikh initiation ceremony).
+It can also encompass more than just emotion, but the quality of experience of entering a [mosque](/p/mosque), embarking on a [pilgrimage](/p/pilgrimage/), or [taking amrit](/p/amrit/) (the Sikh initiation ceremony).
 
 Equally, we can find examples throughout the history of religion of encounters with deities, spirits, demons, and other experiences which indicate some sort of contact with an unseen world, sources of inspiration, and moments of revelation.
 
-# Mythological Dimension
+## Mythological Dimension
 
 The mythological (or narrative) dimension describes the storytelling aspect of religion, whether the stories are believed to be true, fictitious, historical or mythological.
 
@@ -47,31 +47,31 @@ Religions are often sustained through the practice of repeating narratives that 
 
 The preservation of these myths and narratives can be oral, written, or pictorial.
 
-# Doctrinal Dimension
+## Doctrinal Dimension
 
-The doctrinal (or philosophical) dimension refers to the way that religions tend to formalise ideas about the world, and create logical systems of meaning. There are vast and complex philosophical traditions associated with religions from around the world – in the West this might be found in the Catechisms of the Catholic Church, or the philosophical writings of Ibn Sina. In order for religious systems to make sense of the world, they have to make sense, and this naturally leads to a process of structure and logic.
+The doctrinal (or philosophical) dimension refers to the way that religions tend to formalise ideas about the world, and create logical systems of meaning. There are vast and complex philosophical traditions associated with religions from around the world – in the West this might be found in the Catechisms of the Catholic Church, or the philosophical writings of [Ibn Sina](/p/ibn-sina). In order for religious systems to make sense of the world, they have to make sense, and this naturally leads to a process of structure and logic.
 
-Religious philosophy and doctrine can become highly complex; the philosophical schools of Hinduism range over a wide area, and often provide contrasting viewpoints on the nature of the soul (or atman), its relationship to god, and whether god is one or many, personal or impersonal. Hinduism is a very diverse tradition, but even seemingly unified religions can be filled with internal disputes and disagreements when it comes to these issues.
+Religious philosophy and doctrine can become highly complex; the philosophical schools of [Hinduism](/p/hinduism/) range over a wide area, and often provide contrasting viewpoints on the nature of the soul (or atman), its relationship to god, and whether god is one or many, personal or impersonal. Hinduism is a very diverse tradition, but even seemingly unified religions can be filled with internal disputes and disagreements when it comes to these issues.
 
-# Ethical Dimension
+## Ethical Dimension
 
 The ethical (or legal) dimension describes the way that religion tends to provide guidance on how to live one's life, generally in order to achieve happiness in this life or the next. The promotion of a happy and harmonious life can be found across the globe, and religions weave this into a larger context, placing human action within a universal system of right and wrong, good and evil.
 
-# Institutional Dimension
+## Institutional Dimension
 
-The institutional (or social) dimension represents the way that religious adherents, as they group together, will tend to form organised bodies that behave collectively. They might develop a hierarchy of powerful persons, and they might provide some social structure for the wider society. Decisions about what the religion is, and where it's going, might be made in a top-down fashion, but equally (as in the case of the Quakers) might be made in a distributed, democratic way.
+The institutional (or social) dimension represents the way that religious adherents, as they group together, will tend to form organised bodies that behave collectively. They might develop a hierarchy of powerful persons, and they might provide some social structure for the wider society. Decisions about what the religion is, and where it's going, might be made in a top-down fashion, but equally (as in the case of the [Quakers](/p/quakers/)) might be made in a distributed, democratic way.
 
-# Material Dimension
+## Material Dimension
 
 The material dimension describes how religions lead to the creation of material artefacts – from sculptures and artwork to buildings and cities. The material dimension of religion provide evidence for historians and archaeologists, but also enriches the lives of contemporary religious adherents as their beliefs and traditions find life in the world through physical media.
 
-# Interdimensional travel
+## Interdimensional travel
 
 Although there's no hierarchy among the dimensions, and they can be studied in isolation, there's an interesting dichotomy between two of them. The experiential and institutional dimensions each occur at opposite ends of the spectrum of individuality, and help to demonstrate religion at the intensely personal, and collective levels.
 
 The experiential dimension describes the quality and content of human experience as it relates to the divine, otherworldy, or invisible. It could be argued (and Smart makes this point), that these experiences form the basis of all religious activity; they are '...the food on which the other dimensions of religion feed...' (Smart, 1998, p14).
 
-Memorable examples are usually recorded of religious founders and innovators, for instance the intense confrontation between Gabriel and Muhammad which formed the foundation of Islam demonstrates contact with a non-human entity, and a sudden inspiration to speak words that the speaker couldn't attribute to himself. After Jesus was baptised by John, he had a visual, auditory, and emotional experience of the divine descending from above, and was led into the desert by that same presence so that he could practice and exercise his newly baptised faith in God. Siddhartha, the Buddha, half-starved from spiritual techniques that relied on physical austerity spent a night confronted by visions of demons and memories of previous lives, before experiencing a transformative insight into the nature of himself and the world. Guru Nanak, the founder of the Sikh religion, disappeared while bathing in a river, only to find himself in an otherworldly place he called God's court, and there received a cup of nectar to drink, and was inspired to change his attitude to religion, encouraging others to do the same.
+Memorable examples are usually recorded of religious founders and innovators, for instance the intense confrontation between Gabriel and Muhammad which formed the foundation of [Islam](/p/islam/) demonstrates contact with a non-human entity, and a sudden inspiration to speak words that the speaker couldn't attribute to himself. After Jesus was baptised by John, he had a visual, auditory, and emotional experience of the divine descending from above, and was led into the desert by that same presence so that he could practice and exercise his newly baptised faith in God. Siddhartha, the Buddha, half-starved from spiritual techniques that relied on physical austerity spent a night confronted by visions of demons and memories of previous lives, before experiencing a transformative insight into the nature of himself and the world. Guru Nanak, the founder of the Sikh religion, disappeared while bathing in a river, only to find himself in an otherworldly place he called God's court, and there received a cup of nectar to drink, and was inspired to change his attitude to religion, encouraging others to do the same.
 
 These personal moments are not only contained within the people who experience them, they are shared, talked about, built upon, and can become the foundations of religious movements that span millennia. The four individuals above founded some of the most well-known and easily recognised faiths alive in the world today. These religious experiences, though fleeting, are often recorded either during the life of individual (in the case of the Qur'an, or the Book of Mormon), or after their death (in the case of the Pali Canon, or the New Testament).
 
@@ -107,12 +107,12 @@ As a general guide, we can say that religion relates to something beyond the wor
 
 The specifics of a religion will vary with time and place; these circumstances will influence what adherents consider to be sacred, and how they relate to that understanding. Where people come together in shared beliefs, values, experiences, and practices, we see the basis of organised religion.
 
-# References
+## References
 
 * Smart, N. (1998) _The World's Religions_, Cambridge University Press.
 
-# Image credits
+## Image credits
 
-## Banner
+### Banner
 
 Thanks to Dharmesh Patel @dharmeshx for making [this photo](https://unsplash.com/photos/8yJ6tzwuZCg) available freely on Unsplash 🎁
