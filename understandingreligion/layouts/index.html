@@ -27,6 +27,51 @@
 
                     <h2 class="subtitle has-text-white">A quick and easy resource for learning about religious traditions and worldviews</h2>
 
+                    <div id="searcharea">
+                        <input id="searchbox" class="input is-size-4" type="text" placeholder="Search the site..." onkeyup="searchFrontpage()">
+
+                        <div id="frontpage-results" style="display: none; max-height: 200px; overflow: auto; padding: 5px; background-color: rgba(0,0,0,0.7); color: white">
+                            {{ range where .Site.Pages.ByTitle "Section" "not in" (slice "c" "m" "a" "b") }}
+                            <p class="frontpageResultItem">
+
+                                {{ if eq .Section "tags" }}
+                                <i class="fas fa-tag tooltip"></i>&nbsp;
+                                {{ end }}
+
+                                {{ if eq .Section "s" }}
+                                <i class="fas fa-link"></i>&nbsp;
+                                {{ end }}
+
+                                {{ if eq .Section "categories" }}
+                                <i class="fas fa-th-large"></i>&nbsp;
+                                {{ end }}
+
+                                {{ if eq .Section "sourcetypes" }}
+                                <i class="fas fa-th-large"></i>&nbsp;
+                                {{ end }}
+
+                                {{ if eq .Section "p" }}
+                                <i class="far fa-newspaper"></i>&nbsp;
+                                {{ end }}
+
+
+                                <a class="frontpageResultTitle" href="{{ .Permalink }}">
+                                    {{ .Title }}
+                                </a>
+
+                            </p>
+                            {{ end }}
+                        </div>
+                    </div><!-- end of searcharea -->
+
+                    <div style="display: none" id="elbisearcharea">
+                        <input id="searchbox2" class="input is-size-4" class="search--display" type="text" placeholder="Search the site..." tabindex="0">
+
+                        <ul id="results2" class="search--display">
+                        </ul>
+                            
+                    </ul><!-- end of elbisearcharea -->
+
                 </div>
         
             </div>
