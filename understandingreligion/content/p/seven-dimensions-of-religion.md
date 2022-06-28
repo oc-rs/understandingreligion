@@ -25,6 +25,21 @@ This modular approach to religious studies facilitated a much broader scope to c
 
 The very idea of 'a' religion that could be isolated from the rest of human life is part of the Christian, post-Reformation heritage of Europe, and does not necessarily fit with religious and spiritual traditions across the world. You can read more about this in our article on the [World Religions Paradigm](/p/world-religions-paradigm/).
 
+<div class="card">
+  <div class="card-content">
+    <p class="title">
+      What's the deal with religious literacy??
+    </p>
+  </div>
+  <footer class="card-footer">
+    <p class="card-footer-item">
+      <span>
+        <a href="/p/what-is-religious-literacy/">Find out more...</a>
+      </span>
+    </p>
+  </footer>
+</div>
+
 ## Ritual Dimension
 
 The ritual and practical dimension of religion covers all aspects of performed religion, this includes formal [ritual](/p/ritual) (activities with rules surrounding the performance and motivation) as well as more informal, everyday practices (activities with a religious motivation or character).
