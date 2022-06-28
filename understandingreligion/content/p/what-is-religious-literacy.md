@@ -20,7 +20,7 @@ PrevPageLink: "/p/belief/"
 toc: true
 
 ---
-# Introduction
+## Introduction
 Religious literacy is a term that has become more popular in recent years, but what exactly do we mean when we talk about it?
 
 The word 'literacy' definitely sounds like it has something to do with reading and understanding written texts - religious traditions will often (but not always!) write things down, so is religious literacy the ability to read these texts?
@@ -31,7 +31,7 @@ Just like how being able to read is a skill that you can apply throughout your l
 
 **It doesn’t mean you have to memorise lots of facts or know lots of fancy words** - it means that you have the ability to look at someone’s religious expression, their attitudes, or their experiences, and gain some understanding through discussion, empathy, and research. You’re not likely to be distracted by flashy headlines that try to convince you all Christians are homophobic, all Muslims are violent, or all Buddhists are peaceful.
 
-# Understanding religious diversity
+## Understanding religious diversity
 
 One of the key points of religious literacy is the recognition that religions are complex, variable, and internally diverse.
 
@@ -71,7 +71,7 @@ To be religiously literate, you need to learn a few facts to give yourself a gro
 
 **Religious literacy means the ability to recognise the importance of religion, and also the ability to question and critically engage with religious claims, without accepting them as absolute truth.**
 
-# Recognising complexity
+## Recognising complexity
 Religious literacy means understanding that 'top level' religions like Islam and Hinduism aren't uniform groups, that we can't assume a person's perspective just because they call themselves Christian. In fact, we can't really say with confidence what 'Christians' believe - we have to look at specific, real world examples and *ask people*.
 
 The idea that we can't make blanket statements about religious groups might make perfect sense to you, or it might sounds completely absurd, but the truth is - our language is a powerful tool. If we're not careful, we can easily lose the dynamic reality of a person's religious experience and expression; individuals lose their identity, misunderstanding creeps in, and in some cases people are discriminated against, talked over, or put down on the basis of half-truths and hearsay.
@@ -80,14 +80,14 @@ At its core, religious literacy is a skillset that allows you to engage with rel
 
 In an increasingly multicultural world, religious literacy is essential. It helps us to accept diversity, resist simple labels, and seek to contextualise and understand people in their own terms. As the world gets ever smaller, and cultures ever more intertwined, this skill can only become more important and relevant. Without it, the potential for misunderstanding, hatred, and even violence, can grow.
 
-# References
+## References
 * All Party Parliamentary Group on Religious Education (2016) Improving Religious Literacy [Online] (Available at: https://nasacre.org.uk/file/nasacre/1-971-appg-on-re-improving-religious-literacy-full-report.pdf)
 * American Academy of Religion (nd) AAR Religious Literacy Guidelines [Online] (Available at: https://www.aarweb.org/AARMBR/Publications-and-News-/Guides-and-Best-Practices-/Teaching-and-Learning-/AAR-Religious-Literacy-Guidelines.aspx)
 * National Secular Society (2016) A response to the All-Party Parliamentary Group on Religious Education call for evidence on the importance and development of Religious Literacy [Online] (Available at: https://www.secularism.org.uk/uploads/nss-response-to-appg-on-re-on-religious-literacy-april-2016.pdf)
 
-# Further reading
+## Further reading
 * https://www.religiousstudiesproject.com/podcast/what-does-religious-literacy-mean-in-your-context/
 
-# Image credits
-## Banner
+## Image credits
+### Banner
 Image by <a href="https://pixabay.com/users/stocksnap-894430/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2557396">StockSnap</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2557396">Pixabay</a>
