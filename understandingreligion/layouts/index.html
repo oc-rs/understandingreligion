@@ -27,6 +27,8 @@
 
                     <h2 class="subtitle has-text-white">A quick and easy resource for learning about religious traditions and worldviews</h2>
 
+                    <p>Try searching for 'buddhism', 'podcasts', or 'traditions'.</p>
+
                     <div id="searcharea">
                         <input style="display: none" id="searchbox" class="input is-size-4" type="text" placeholder="Search the site..." onkeyup="searchFrontpage()">
 
@@ -93,6 +95,7 @@
 
                                 input.addEventListener("input",function(){
                                     let filteredPages = pages;
+                                    console.log(pages);
                                     results.innerHTML = "";
 
                                     if (input.value != ""){
