@@ -17,7 +17,6 @@ Tags = ["tibetan", "sanskrit", "buddhism"]
 Title = "Mangalam Research Center for Buddhist Languages"
 Translator = ""
 Wikipedia = ""
-draft = true
 toc = false
 
 +++
