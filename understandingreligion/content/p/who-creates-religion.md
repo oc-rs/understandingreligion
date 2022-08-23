@@ -81,7 +81,7 @@ A Sikh academic from England might participate in an Ayahuasca ceremony in the A
 
 The scholar Victoria Kennick Urubshurow has coined the term **subtle erasure** to describe the largely unconscious omittance of people or ideas from consideration in studies or research (Urubshurow, 2008, p.11). As a result, these non-standard or marginalised cultures can become lost and sometimes completely forgotten.
 
-**Subtle erasure is the non-intentional act of ignoring certain aspects of a culture, and failing to report them in papers, books, or discussions - it reflected in our choice of data.**
+**Subtle erasure is the non-intentional act of ignoring certain aspects of a culture, and failing to report them in papers, books, or discussions - it is reflected in our choice of data.**
 
 It can arise due to inherent biases such as sexism or racism, of which the investigator is unaware. It can also come about due to a focus on the literature of a culture, or cultures which are literate, thereby ignoring those people who are non-literate or parts of their culture not committed to writing.
 
