@@ -15,13 +15,13 @@ toc: true
 Featured: false
 
 ---
-# Introduction
+## Introduction
 
 The modern study of religion, beginning in the 19th Century, has been traditionally driven by male European scholars, who have carried their own cultural biases and assumptions - some unconscious, others less so.
 
 Until recently, there had been little awareness of these assumptions, and this had affected the ideas and methods used by academics; naturally we will have to negotiate some of these potential pitfalls if we want to build a more comprehensive and accurate picture of religion in the modern world.
 
-# Blind spots and bigotry
+## Blind spots and bigotry
 
 Some of the major issues are an over-emphasis on written texts as sources of religious authority and meaning, exclusion of female voices, exclusion of indigenous and ethnic minority voices, and an emphasis on belief over practice.
 
@@ -35,7 +35,7 @@ Race and nationality frequently play a role in the perception of religious adher
 
 This historic issues of racism and power differences were (and are) compounded by the fact that – in many cases – religious studies scholars are almost always outsiders from the religious groups they study. **Religion was defined, studied, and controlled by people in positions of cultural, political, and academic authority - often in a context of colonialism and conquest.**
 
-# Understanding relationships
+## Understanding relationships
 
 The language of 'insiders' and 'outsiders' is useful for identifying the relationship between scholars and the groups they investigate.
 
@@ -61,7 +61,7 @@ Hopefully this little thought experiment demonstrates the principals at work her
 
 Now it's not true that insiders can't make good critical observations of their own traditions, nor that outsiders cannot provide an empathetic assessment of someone else's practices and beliefs. But, there's certainly a tendency for these things to happen, and it's something to be aware of.
 
-# Methods of study
+## Methods of study
 
 Insider and outsider are categories used to describe _perspective_ in religious studies.
 
@@ -79,7 +79,7 @@ On the other hand, emic/etic refers to method. How do we engage with the phenome
 
 A Sikh academic from England might participate in an Ayahuasca ceremony in the Amazon rainforest in order to understand the experience of indigenous groups who engage in shamanic healing. This would be an outsider using an emic technique to study their subject.
 
-# Subtle erasures
+## Subtle erasures
 
 The scholar Victoria Kennick Urubshurow has coined the term **subtle erasure** to describe the largely unconscious omittance of people or ideas from consideration in studies or research (Urubshurow, 2008, p.11). As a result, these non-standard or marginalised cultures can become lost and sometimes completely forgotten.
 
@@ -91,7 +91,7 @@ It can also occur due to marginalised voices being ignored in the culture's lite
 
 Finally, it can happen when a strong focus on literature that marginalises helps to divert attention from the powerless in society, and instead reinforces the cultural assumptions of the literature.
 
-# Religion: a Western phenomenon?
+## Religion: a Western phenomenon?
 There are some scholars who argue that religion – as a category – is so inextricably tied to Western thought that it shouldn't be used at all when discussing non-Western traditions and practices. 
 
 The idea that there is something separate from every-day public life and experience called 'religion' is part of the Western cultural heritage, which often assigns religion to limited times and places – for instance the church on Sunday, or a parade at Easter.
@@ -108,7 +108,7 @@ The Department of Religious Studies at the University of Alabama make this point
 
 What's clear is that how we understand the meaning of 'religion' can vary depending on our frame of reference, and our cultural background. It might not be possible to define religion without also setting the broader context of who we are and how we understand our social structures.
 
-# Conclusion
+## Conclusion
 
 Hopefully it's clear that the creation of 'religion' is something that always takes place in the present. Religion was not defined once in the past and forever fixed - it represents a dynamic point of discussion for those interested in human activity that relates to the unseen world, and continually challenges us to re-examine our relationship to the people and phenomena we study (and those we choose not to). Key to this process is self-awareness.
 
@@ -116,13 +116,13 @@ Hopefully it's clear that the creation of 'religion' is something that always ta
 >
 > Smith, JZ (1982, p.xi)
 
-# References
+## References
 
 * Smith, J.Z. (1982) Imagining Religion: From Babylon to Jonestown, Chicago, University of Chicago Press.
 * Urubshurow, V.K. (2008) Introducing World Religions, Oxon, Routledge.
 
-# Image credits
+## Image credits
 
-## Banner
+### Banner
 
 Image by <a href="https://pixabay.com/users/konevi-6622462/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4753957">Konevi</a> from <a href="https://pixabay.com/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=4753957">Pixabay</a>
