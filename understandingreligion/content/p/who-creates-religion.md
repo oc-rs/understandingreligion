@@ -11,6 +11,8 @@ Tags:
 PublishDate: 2020-10-31
 LastModifiedDate: 2020-10-31
 Image: prayer.jpg
+toc: true
+Featured: false
 
 ---
 # Introduction
