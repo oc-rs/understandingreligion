@@ -92,7 +92,8 @@ It can also occur due to marginalised voices being ignored in the culture's lite
 Finally, it can happen when a strong focus on literature that marginalises helps to divert attention from the powerless in society, and instead reinforces the cultural assumptions of the literature.
 
 ## Religion: a Western phenomenon?
-There are some scholars who argue that religion – as a category – is so inextricably tied to Western thought that it shouldn't be used at all when discussing non-Western traditions and practices. 
+
+There are some scholars who argue that religion – as a category – is so inextricably tied to Western thought that it shouldn't be used at all when discussing non-Western traditions and practices.
 
 The idea that there is something separate from every-day public life and experience called 'religion' is part of the Western cultural heritage, which often assigns religion to limited times and places – for instance the church on Sunday, or a parade at Easter.
 
@@ -104,7 +105,7 @@ The Department of Religious Studies at the University of Alabama make this point
 
 > ...to study religion in culture means one is not beginning with the assumption that these two distinct domains periodically bump into each other. Instead, the preposition “in” signifies that the area of human behavior known as “religion” is assumed, from the outset, to be an element within human cultural systems–systems which are themselves historical products.
 >
->https://religion.ua.edu/links/studying-religion-in-culture/
+> https://religion.ua.edu/links/studying-religion-in-culture/
 
 What's clear is that how we understand the meaning of 'religion' can vary depending on our frame of reference, and our cultural background. It might not be possible to define religion without also setting the broader context of who we are and how we understand our social structures.
 
