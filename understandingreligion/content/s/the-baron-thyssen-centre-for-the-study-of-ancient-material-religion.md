@@ -1,4 +1,4 @@
-+++
+---
 Abstract = "The Baron Thyssen Centre for the Study of Ancient Material Religion is based in the Department of Classical Studies at The Open University. The Centre supports research into the material, visual and other sensory aspects of ancient religions, focusing primarily on the Greek, Etruscan and Roman worlds."
 Author = "Luke Burns"
 Authorpage = ""
@@ -18,5 +18,4 @@ Title = "The Baron Thyssen Centre for the Study of Ancient Material Religion"
 Translator = ""
 Wikipedia = ""
 toc = false
-
-+++
+---
