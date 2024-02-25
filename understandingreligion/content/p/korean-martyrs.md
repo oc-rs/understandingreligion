@@ -10,14 +10,14 @@ Tags: [christianity,martyrdom,korea]
 PublishDate: 2020-10-04
 LastModifiedDate: 2020-10-04
 
-# ==================================================
+#:=================================================
 # HEADER IMAGE
 # --------------------------------------------------
 # Use the line below to define an image
 # e.g. uncomment the line and use "imagename.jpg"
 # --------------------------------------------------
 # Image: "trevi-fountain.jpg"
-# ==================================================
+#:=================================================
 
 Books:
 --  - Name: 

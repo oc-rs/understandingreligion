@@ -16,14 +16,14 @@ Link: "/b/introduction-to-religious-studies/"
 NextPageLink: "/p/"
 PrevPageLink: "/p/belief/"
 
-# ==================================================
+#:=================================================
 # HEADER IMAGE
 # --------------------------------------------------
 # Use the line below to define an image
 # e.g. uncomment the line and use "imagename.jpg"
 # --------------------------------------------------
 Image: "prayer-wheel.jpg"
-# ==================================================
+#:=================================================
 
 ---
 # Introduction

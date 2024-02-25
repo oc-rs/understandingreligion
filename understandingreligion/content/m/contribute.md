@@ -1,13 +1,12 @@
-+++
-Abstract = "Are you passionate about sharing your knowledge of religious traditions? We need your help to make religious literacy more accessible!"
-Author = "Luke Burns"
-Image = "ocrs.jpeg"
-LastModifiedDate = 2021-08-31T23:00:00Z
-PublishDate = 2021-08-31T23:00:00Z
-Title = "Contributions"
-toc = true
-
-+++
+---
+Abstract: "Are you passionate about sharing your knowledge of religious traditions? We need your help to make religious literacy more accessible!"
+Author: "Luke Burns"
+Image: "ocrs.jpeg"
+LastModifiedDate: 2021-08-31T23:00:00Z
+PublishDate: 2021-08-31T23:00:00Z
+Title: "Contributions"
+toc: true
+---
 # Introduction
 
 Are you passionate about sharing your knowledge of religious traditions? We need your help to make religious literacy more accessible!

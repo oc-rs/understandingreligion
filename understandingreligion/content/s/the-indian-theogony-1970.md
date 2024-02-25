@@ -17,4 +17,7 @@ Location: New Delhi
 Abstract: A work on comparative mythology, focusing on Indian deities and mythologies - particularly with reference to the triad of Brahma, Vishnu, and Shiva.
 Reference: "Bhattacharji, S. (2000 [1970]) The Indian Theogony, New Delhi, Penguin Books India."
 -Wikipedia:
+
+PublishDate: 2021-08-15
+LastModifiedDate: 2021-08-15
 ---

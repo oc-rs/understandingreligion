@@ -1,16 +1,16 @@
-+++
-Abstract = "A religious tradition that originated in Iran, and which teaches that one singular deity is responsible for the universe, and that this deity has revealed itself through many different religious systems and prophets."
-Author = "Luke Burns"
-Categories = ["Traditions"]
-Featured = false
-Image = "bahai-temple-south-america.jpg"
-LastModifiedDate = 2021-09-26T23:00:00Z
-PublishDate = 2021-09-26T23:00:00Z
-Tags = ["iran", "bahai faith"]
-Title = "Bahá’í Faith"
-toc = true
-coffee = true
-+++
+---
+Abstract: "A religious tradition that originated in Iran, and which teaches that one singular deity is responsible for the universe, and that this deity has revealed itself through many different religious systems and prophets."
+Author: "Luke Burns"
+Categories: ["Traditions"]
+Featured: false
+Image: "bahai-temple-south-america.jpg"
+LastModifiedDate: 2021-09-26T23:00:00Z
+PublishDate: 2021-09-26T23:00:00Z
+Tags: ["iran", "bahai faith"]
+Title: "Bahá’í Faith"
+toc: true
+coffee: true
+---
 # Introduction 
 For the Bahá’í Faith, there is only one deity, and it is responsible for the creation, maintenance, and dissolution of the world.
 

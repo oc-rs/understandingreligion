@@ -17,4 +17,7 @@ Location: London
 -Abstract:
 Reference: "Frazer, J.G. (1978 [1922]) The Golden Bough: A Study in Magic and Religion, London, The Macmillan Press."
 Wikipedia: https://en.wikipedia.org/wiki/The_Golden_Bough
+
+PublishDate: 2021-08-15
+LastModifiedDate: 2021-08-15
 ---

@@ -17,4 +17,7 @@ Location: Harmondsworth
 Abstract: A collection of Puranas - stories about Hindu deities and mythological figures.
 Reference: "O'Flaherty, W. (1980 [1975]) Hindu Myths, Harmondsworth, Penguin Books."
 -Wikipedia:
+
+PublishDate: 2021-08-15
+LastModifiedDate: 2021-08-15
 ---

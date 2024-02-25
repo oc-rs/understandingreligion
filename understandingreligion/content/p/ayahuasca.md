@@ -8,14 +8,14 @@ Tags: ['dmt','shamanism','indigenous religion']
 PublishDate: 2020-02-07
 LastModifiedDate: 2020-10-23
 
-# ==================================================
+#:=================================================
 # HEADER IMAGE
 # --------------------------------------------------
 # Use the line below to define an image
 # e.g. uncomment the line and use "imagename.jpg"
 # --------------------------------------------------
 Image: ayahausca.jpeg
-# ==================================================
+#:=================================================
 
 
 Books:

@@ -17,4 +17,7 @@ Location: Oxon
 -Abstract:
 Reference: "Russell, B. (2009 [1946]) History of Western Philosophy, Oxon, Routledge Classics."
 -Wikipedia:
+
+PublishDate: 2021-08-15
+LastModifiedDate: 2021-08-15
 ---

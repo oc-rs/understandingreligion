@@ -17,4 +17,7 @@ Location: Unknown
 Abstract: A comprehensive survey of religious experiences from around the world.
 Reference: "Smart, N. (1978 [1969]) The Religious Experience of Mankind, Unknown, Fount Paperbacks."
 -Wikipedia:
+
+PublishDate: 2021-08-15
+LastModifiedDate: 2021-08-15
 ---

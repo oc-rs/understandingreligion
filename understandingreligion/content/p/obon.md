@@ -10,14 +10,14 @@ Tags: ['japan','buddhism','confucianism']
 PublishDate: 2020-10-04
 LastModifiedDate: 2020-10-04
 
-# ==================================================
+#:=================================================
 # HEADER IMAGE
 # --------------------------------------------------
 # Use the line below to define an image
 # e.g. uncomment the line and use "imagename.jpg"
 # --------------------------------------------------
 Image: "japanese-lanterns.jpg"
-# ==================================================
+#:=================================================
 
 Books:
 --  - Name: 

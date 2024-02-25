@@ -17,4 +17,7 @@ Location: London
 -Abstract:
 Reference: "Chryssides, G.D. & Greaves, R. (2014 [2007]) The Study of Religion: An Introduction to Key Ideas and Methods, London, Bloomsbury."
 -Wikipedia:
+
+PublishDate: 2021-08-15
+LastModifiedDate: 2021-08-15
 ---

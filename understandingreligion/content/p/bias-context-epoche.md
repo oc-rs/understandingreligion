@@ -1,17 +1,17 @@
-+++
-Abstract = "As we enter the world of religious studies, we do so as conditioned individuals, with our own background and history, as well as the inherited values of the society within which we were raised."
-Author = "Luke Burns"
-Categories = ["Perspectives"]
-Featured = false
-Image = "notre-dame-cathedral-basilica-ottawa-canada.jpg"
-LastModifiedDate = 2021-09-14
-PublishDate = 2021-09-14
-Tags = ["religious studies"]
-Title = "Bias, Context, Epoche"
-draft = false
-toc = false
+---
+Abstract: "As we enter the world of religious studies, we do so as conditioned individuals, with our own background and history, as well as the inherited values of the society within which we were raised."
+Author: "Luke Burns"
+Categories: ["Perspectives"]
+Featured: false
+Image: "notre-dame-cathedral-basilica-ottawa-canada.jpg"
+LastModifiedDate: 2021-09-14
+PublishDate: 2021-09-14
+Tags: ["religious studies"]
+Title: "Bias, Context, Epoche"
+draft: false
+toc: false
 
-+++
+---
 As we enter the world of religious studies, we do so as conditioned individuals, with our own background and history, as well as the inherited values of the society within which we were raised. We cannot 'get rid' of these aspects of ourselves (nor should we!), but we should try to remain aware of them.
 
 We should also be aware that within the field of religious studies itself, we may encounter an underlying tendency to view religion as a set of beliefs, guided by canonical literature, and though beliefs and texts are common features, they are certainly not the whole story!

@@ -10,14 +10,14 @@ Tags: ['new religious movements','entheogens']
 PublishDate: 2020-10-18
 LastModifiedDate: 2020-10-20
 
-# ==================================================
+#:=================================================
 # HEADER IMAGE
 # --------------------------------------------------
 # Use the line below to define an image
 # e.g. uncomment the line and use "imagename.jpg"
 # --------------------------------------------------
 Image: "church-of-cannabis.jpg"
-# ==================================================
+#:=================================================
 
 Books:
 --  - Name: 

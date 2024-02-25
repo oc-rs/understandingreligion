@@ -10,14 +10,14 @@ Tags: ['culture','symbolism','anthropology']
 PublishDate: 2020-10-21
 LastModifiedDate: 2020-10-21
 
-# ==================================================
+#:=================================================
 # HEADER IMAGE
 # --------------------------------------------------
 # Use the line below to define an image
 # e.g. uncomment the line and use "imagename.jpg"
 # --------------------------------------------------
 # Image: ""
-# ==================================================
+#:=================================================
 
 Wikipedia: https://en.wikipedia.org/wiki/Mary_Douglas
 

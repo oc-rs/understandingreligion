@@ -1,17 +1,17 @@
-+++
-Abstract = "In religious studies, scholars sometime swing between two extremes: a unifying human spirituality or a multiplicity of irreconcilable traditions - but a third way is also possible."
-Author = "Luke Burns"
-Categories = ["Perspectives"]
-Featured = false
-Image = "sitting-with-bowl.jpg"
-LastModifiedDate = 2021-09-14T23:00:00Z
-PublishDate = 2021-09-14T23:00:00Z
-Tags = ["religious studies"]
-Title = "Similarity and Difference in the Study of Religion"
-draft = false
-toc = false
+---
+Abstract: "In religious studies, scholars sometime swing between two extremes: a unifying human spirituality or a multiplicity of irreconcilable traditions - but a third way is also possible."
+Author: "Luke Burns"
+Categories: ["Perspectives"]
+Featured: false
+Image: "sitting-with-bowl.jpg"
+LastModifiedDate: 2021-09-14T23:00:00Z
+PublishDate: 2021-09-14T23:00:00Z
+Tags: ["religious studies"]
+Title: "Similarity and Difference in the Study of Religion"
+draft: false
+toc: false
 
-+++
+---
 
 In religious studies, scholars sometime swing between two extremes. Those who look for similarity in different religions lean towards the idea of a perennial philosophy – a recurring, innately human spirituality that exists prior to culture, and is then sculpted by it. Wherever you find religious expression, they would argue, if you chip away the surface labels, you'll find the same basic experiences.
 

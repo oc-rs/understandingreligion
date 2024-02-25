@@ -17,4 +17,7 @@ Location: London
 Abstract: An abridged version of Evans-Wentz’s translation, telling the life story of the Tibetan Buddhist monk Milarepa.
 -Reference:
 -Wikipedia:
+
+PublishDate: 2021-08-15
+LastModifiedDate: 2021-08-15
 ---

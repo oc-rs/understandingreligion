@@ -17,4 +17,7 @@ Location: London
 Abstract: A detailed review of the psychological study of religion, touching on the theories of Freud and Jung, and exploring the psychology of prayer, worship, and mystical experiences.
 Reference: "Spinks, G.S. (1963) The Psychology of Religion, London, Methuen & Co Ltd."
 -Wikipedia:
+
+PublishDate: 2021-08-15
+LastModifiedDate: 2021-08-15
 ---
