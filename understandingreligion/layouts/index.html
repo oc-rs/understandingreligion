@@ -407,9 +407,20 @@
                     <form name="new-resource" method="POST" data-netlify="true">
 
                         <div class="field">
-                            <label for="url" class="label">URL / Link Address</label>
+                            <label for="url" class="label">URL / Link Address (include full address with https://)</label>
                             <div class="control">
                             <input name="url" class="input" type="url" id="url" placeholder="https://www.your.link.here.com" required>
+                            </div>
+                        </div>
+
+                        <hr>
+                        <p class="mb-3">Want to get credit for adding this resource? Just let us know how your name should appear 🥰</p>
+
+                        <div class="field">
+                            
+                            <label for="name" class="label">Name (optional)</label>
+                            <div class="control">
+                            <input name="name" class="input" type="text" id="name" placeholder="Tell us your name...">
                             </div>
                         </div>
                         
@@ -424,7 +435,7 @@
                         </div>
                         
                         <div class="field">
-                            <label for="message" class="label">Any comments?</label>
+                            <label for="message" class="label">Any comments? (optional)</label>
                             <div class="control">
                             <textarea name="message" class="textarea" id="message" placeholder=""></textarea>
                             </div>
