@@ -40,7 +40,7 @@ You're welcome (even encouraged!) to include images and videos, or provide links
 
 The site is made available under a creative commons license - Attribution 4.0 International (CC BY 4.0) - which means that anything posted can be shared and remixed by anyone, provided they provide attribution back to the original source.
 
-Naturally you'd be created in-page for any articles you write, and you'd be free to post the same material elsewhere under the terms of the copyright licence.
+Naturally you'd be credited in-page for any articles you write, and you'd be free to post the same material elsewhere under the terms of the copyright licence.
 
 ## Submitting your work
 
