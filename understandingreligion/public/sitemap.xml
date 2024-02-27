@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.understandingreligion.org.uk/s/encyclopedia-of-religion-and-society/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/s/ista/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/tags/news/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/tags/newsletter/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/organisations/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/s/patheos/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/s/religion-facts/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/s/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/tags/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/tags/texts/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/s/pluralism-project/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.understandingreligion.org.uk/sourcetypes/websites/</loc>
+    <lastmod>2024-02-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.understandingreligion.org.uk/tags/canada/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,31 +59,10 @@
     <loc>https://www.understandingreligion.org.uk/tags/inclusion/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/organisations/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.understandingreligion.org.uk/tags/religion-in-the-workplace/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.understandingreligion.org.uk/tags/religious-literacy/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.understandingreligion.org.uk/tags/religious-studies/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.understandingreligion.org.uk/s/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.understandingreligion.org.uk/tags/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.understandingreligion.org.uk/</loc>
-    <lastmod>2024-02-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.understandingreligion.org.uk/sourcetypes/websites/</loc>
     <lastmod>2024-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.understandingreligion.org.uk/m/</loc>
@@ -117,9 +141,6 @@
     <lastmod>2022-07-01T04:53:25+00:00</lastmod>
   </url><url>
     <loc>https://www.understandingreligion.org.uk/tags/lutheranism/</loc>
-    <lastmod>2022-07-01T04:53:25+00:00</lastmod>
-  </url><url>
-    <loc>https://www.understandingreligion.org.uk/tags/texts/</loc>
     <lastmod>2022-07-01T04:53:25+00:00</lastmod>
   </url><url>
     <loc>https://www.understandingreligion.org.uk/tags/fairy-tales/</loc>
@@ -942,9 +963,6 @@
     <lastmod>2021-08-12T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.understandingreligion.org.uk/s/learn-religions/</loc>
-    <lastmod>2021-08-12T23:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.understandingreligion.org.uk/tags/news/</loc>
     <lastmod>2021-08-12T23:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.understandingreligion.org.uk/s/religion-media-centre/</loc>
