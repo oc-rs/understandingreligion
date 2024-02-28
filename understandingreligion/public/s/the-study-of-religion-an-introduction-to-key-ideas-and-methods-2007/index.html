@@ -226,11 +226,13 @@
                 About Us 
             </a>
 
+            <a id="addNewResourceButton" class="navbar-item">Add New Resource&nbsp;<i class="fas fa-sun" style="color: gold;"></i></a>
+
         </div>
         
         <div class="navbar-end">
         <div class="navbar-item">
-          <a href="https://www.buymeacoffee.com/lukeburns" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="" ></a>
+          <a href="https://www.buymeacoffee.com/lukeburns" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee"></a>
         </div>
       </div>
             
@@ -360,11 +362,11 @@
                             
                             <li><a href="/s/the-varieties-of-religious-experience/">The Varieties of Religious Experience</a></li>
                             
+                            <li><a href="/s/center-for-study-world-religions/">Center for the Study of World Religions</a></li>
+                            
+                            <li><a href="/s/religion-news-service/">Religion News Service</a></li>
+                            
                             <li><a href="/s/encyclopedia-of-religion-and-society/">Encyclopedia of Religion and Society</a></li>
-                            
-                            <li><a href="/s/ista/">Internet Sacred Text Archive</a></li>
-                            
-                            <li><a href="/s/patheos/">Patheos</a></li>
                             
                         </ul>
                         
@@ -437,6 +439,77 @@
 
 <script type="text/javascript" src="/js/elbisearch.js"></script>
 <script type="text/javascript" src="/js/main.js"></script>
+
+        <div id="add-resource-modal" class="modal">
+    <div class="modal-background"></div>
+    <div class="modal-content">
+        <div class="box">
+            <h2 class="subtitle">Add a new link to your favourite organisation, podcast, or other online resource...</h2>
+            <form name="new-resource" method="POST" data-netlify="true">
+
+                <div class="field">
+                    <label for="url" class="label">URL / Link Address (include full address with https://)</label>
+                    <div class="control">
+                    <input name="url" class="input" type="url" id="url" placeholder="https://www.your.link.here.com" required>
+                    </div>
+                </div>
+
+                <hr>
+                <p class="mb-3">Want to get credit for adding this resource? Just let us know how your name should appear 🥰</p>
+
+                <div class="field">
+                    
+                    <label for="name" class="label">Name (optional)</label>
+                    <div class="control">
+                    <input name="name" class="input" type="text" id="name" placeholder="Tell us your name...">
+                    </div>
+                </div>
+                
+                <div class="field">
+                    <label class="label">Your email address (optional)</label>
+                    <div class="control has-icons-left has-icons-right">
+                    <input name="email" for="email" class="input" type="email" id="email" placeholder="you@email.com" value="">
+                    <span class="icon is-small is-left">
+                        <i class="fas fa-envelope"></i>
+                    </span>
+                    </div>
+                </div>
+                
+                <div class="field">
+                    <label for="message" class="label">Any comments? (optional)</label>
+                    <div class="control">
+                    <textarea name="message" class="textarea" id="message" placeholder=""></textarea>
+                    </div>
+                </div>
+                
+                <div class="field is-grouped">
+                    <div class="control">
+                    <button class="button is-link">Submit</button>
+                    </div>
+                    <div class="control">
+                    <a id="close-add-resource-button" class="button is-link is-light">Cancel</a>
+                    </div>
+                </div>
+                
+            </form>
+        </div>
+    </div>
+    <button id="close-new-resource-modal" class="modal-close is-large" aria-label="close"></button>
+    </div>
+
+<script>
+    document.getElementById("addNewResourceButton").addEventListener("click",function(){
+        document.getElementById("add-resource-modal").className += " is-active";
+    });
+
+    document.getElementById("close-new-resource-modal").addEventListener("click",function(){
+        document.getElementById("add-resource-modal").className = "modal";
+    });
+
+    document.getElementById("close-add-resource-button").addEventListener("click",function(){
+        document.getElementById("add-resource-modal").className = "modal";
+    });
+</script>
 
         
 <div id="site-search-modal" class="modal">
@@ -896,6 +969,38 @@
               
 
               abuse
+
+              
+              
+            </span>
+
+          </p>
+          
+          <p class="site-search-result-item">
+
+            
+            <i class="fas fa-tag"></i>&nbsp;
+            
+
+            
+
+            
+
+            
+
+            
+
+            <a class="site-search-result-title" href="https://www.understandingreligion.org.uk/tags/academic/">
+              academic
+            </a>
+
+            <span class="site-searchstring" style="display: none">
+
+                  
+
+              
+
+              academic
 
               
               
@@ -4355,6 +4460,42 @@
 
               catholicism
 
+              
+              
+            </span>
+
+          </p>
+          
+          <p class="site-search-result-item">
+
+            
+
+            
+            <i class="fas fa-link"></i>&nbsp;
+            
+
+            
+
+            
+
+            
+
+            <a class="site-search-result-title" href="https://www.understandingreligion.org.uk/s/center-for-study-world-religions/">
+              Center for the Study of World Religions
+            </a>
+
+            <span class="site-searchstring" style="display: none">
+
+                  
+
+              
+              [Organisations]
+              
+
+              Center for the Study of World Religions
+
+              
+              [religious studies news research academic harvard]
               
               
             </span>
@@ -8586,6 +8727,38 @@
               
 
               Gwilym Beckerlegge
+
+              
+              
+            </span>
+
+          </p>
+          
+          <p class="site-search-result-item">
+
+            
+            <i class="fas fa-tag"></i>&nbsp;
+            
+
+            
+
+            
+
+            
+
+            
+
+            <a class="site-search-result-title" href="https://www.understandingreligion.org.uk/tags/harvard/">
+              harvard
+            </a>
+
+            <span class="site-searchstring" style="display: none">
+
+                  
+
+              
+
+              harvard
 
               
               
@@ -17235,6 +17408,42 @@
 
             
 
+            <a class="site-search-result-title" href="https://www.understandingreligion.org.uk/s/religion-news-service/">
+              Religion News Service
+            </a>
+
+            <span class="site-searchstring" style="display: none">
+
+                  
+
+              
+              [Organisations]
+              
+
+              Religion News Service
+
+              
+              [religious studies news]
+              
+              
+            </span>
+
+          </p>
+          
+          <p class="site-search-result-item">
+
+            
+
+            
+            <i class="fas fa-link"></i>&nbsp;
+            
+
+            
+
+            
+
+            
+
             <a class="site-search-result-title" href="https://www.understandingreligion.org.uk/s/religion-outside-the-university/">
               Religion Outside the University
             </a>
@@ -17686,6 +17895,38 @@
               
 
               Reports
+
+              
+              
+            </span>
+
+          </p>
+          
+          <p class="site-search-result-item">
+
+            
+            <i class="fas fa-tag"></i>&nbsp;
+            
+
+            
+
+            
+
+            
+
+            
+
+            <a class="site-search-result-title" href="https://www.understandingreligion.org.uk/tags/research/">
+              research
+            </a>
+
+            <span class="site-searchstring" style="display: none">
+
+                  
+
+              
+
+              research
 
               
               

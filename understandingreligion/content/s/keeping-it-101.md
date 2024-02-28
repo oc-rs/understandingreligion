@@ -1,12 +1,14 @@
 ---
 Title: "Keeping it 101: A Killjoy's Introduction to Religion"
 Abstract: Aimed at a general audience who want to get to grips with contemporary religious studies, this podcast explores a range of topics, including the concept of religion as category, and the significance of race, gender, and sexuality.
+Link: https://keepingit101.com
 
 Source: true
 Sourcetypes: [Podcasts]
 
 Tags: []
 
+Author: Luke Burns
 PublishDate: 2020-10-13
 LastModifiedDate: 2020-10-20
 

@@ -5,24 +5,6 @@ Abstract: Luke Burns is the founder and director of the Online Centre for Religi
 Date: 2020-01-01
 LastmodifiedDate: 2020-03-08
 ---
-<div class="box">
-  <article class="media">
-    <div class="media-left">
-      <figure class="image is-128x128">
-        <img src="/img/images/luke-profile-square.jpeg" alt="Image">
-      </figure>
-    </div>
-    <div class="media-content">
-      <div class="content">
-        <p>
-          <strong>Luke Burns</strong> <small><a href="https://twitter.com/lbburns13">@lbburns13</a></small>
-          <br>
-            Luke is a graduate of the Open University, and has an interest in the natural world, religious experiences, and the possibility of life beyond this planet.<br>He lives in Somerset, England with his wife and pet degus.
-        </p>
-      </div>
-    </div>
-  </article>
-</div>
 
 # Hi! Nice to meet you :)
 I like buying too many books and learning about people's religious and philosophical worldviews.
