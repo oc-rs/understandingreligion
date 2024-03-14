@@ -1,5 +1,5 @@
 ---
-Title: "Center for the Study of World Religions"
+Title: "RE Hubs"
 Abstract: "The RE Hubs project is dedicated to supporting Religious Education (RE), Religion, Values and Ethics (RVE), and Religion & Worldviews (R&W) teachers and practitioners in the UK."
 Link: "https://www.re-hubs.uk/"
 Sourcetypes: ["Websites"]
