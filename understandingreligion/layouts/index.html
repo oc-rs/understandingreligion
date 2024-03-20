@@ -389,6 +389,27 @@
                     </div>
                     {{ end }}
                 </div>
+                <h2 class="is-size-2 p-3" style="color: #032539; text-decoration: underline solid #FA991C">All source types</h2>
+
+                <div class="columns is-multiline">
+                    {{range ($.Site.GetPage "taxonomyTerm" "sourcetypes").Pages.ByTitle }}
+                    <div class="item column is-one-quarter">
+                        <article class="tile is-child box">
+                            
+                            <p class="title item-title">{{ .Title }}</p>
+
+                            <p style="margin-top: 5px"><a href="{{.Permalink}}">Start reading...</a></p>
+                      </article>
+                    </div>
+                    {{ end }}
+                </div>
+
+                <h2 class="is-size-2 p-3" style="color: #032539; text-decoration: underline solid #FA991C">All tags</h2>
+                <div class="item-taglist">
+                    {{ range ($.Site.GetPage "taxonomyTerm" "tags").Pages.ByTitle }}
+                        <span><a class="tag" href="{{ .Permalink }}">{{ .Title }}</a></span>&nbsp;
+                    {{ end }}
+                </div>
                 <!-- end of categories -->
 
             </div>
