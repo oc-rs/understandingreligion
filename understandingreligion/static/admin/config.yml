@@ -9,7 +9,7 @@ collections:
     create: true
     slug: '{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'Title', widget: 'string' }
       - { label: 'Publish Date', name: 'PublishDate', widget: 'datetime' }
