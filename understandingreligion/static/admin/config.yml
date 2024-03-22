@@ -15,3 +15,26 @@ collections:
       - { label: 'Publish Date', name: 'PublishDate', widget: 'datetime' }
       - { label: 'Abstract', name: 'Abstract', widget: 'string' }
       - { label: 'Content', name: 'body', widget: 'markdown' }
+
+  - name: 's'
+    label: 'Sources'
+    folder: 'understandingreligion/content/s'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'Title', widget: 'string' }
+      - { label: 'Abstract', name: 'Abstract', widget: 'string' }
+      - { label: 'Link', name: 'Link', widget: 'string' }
+      - { label: 'Sourcetypes', name: 'Sourcetypes', widget: 'string' }
+      - { label: 'Tags', name: 'Tags', widget: 'list' }
+
+      - { label: 'Author', name: 'Author', widget: 'string' }
+      - { label: 'Publish Date', name: 'PublishDate', widget: 'datetime' }
+      - { label: 'Last Modified Date', name: 'LastModifiedDate', widget: 'datetime' }
+      
+      - { label: 'Source', name: 'Source', widget: 'string', default: 'true' }
+      - { label: 'Table of Contents', name: 'toc', widget: 'string', default: 'false' }
+      
+      - { label: 'Content', name: 'body', widget: 'markdown' }
