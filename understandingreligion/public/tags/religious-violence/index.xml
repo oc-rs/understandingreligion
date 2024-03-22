@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>religious violence on Understanding Religion</title>
+    <title>Religious Violence on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/religious-violence/</link>
-    <description>Recent content in religious violence on Understanding Religion</description>
+    <description>Recent content in Religious Violence on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 21 Aug 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/religious-violence/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Aug 2021 23:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/religious-violence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief</title>
       <link>https://www.understandingreligion.org.uk/p/international-day-violence-victims-religion/</link>
       <pubDate>Sat, 21 Aug 2021 23:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/international-day-violence-victims-religion/</guid>
-      <description>Introduction The 22 August was designated a day to commemorate the victims of acts of violence based on religion or belief by the UN General Assembly in 2019.
-You can find out more here: https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27396&amp;amp;LangID=E.
-You can access the original document here: https://undocs.org/Home/Mobile?FinalSymbol=A%2FRES%2F73%2F296&amp;amp;Language=E&amp;amp;DeviceType=Mobile</description>
+      <description>Introduction The 22 August was designated a day to commemorate the victims of acts of violence based on religion or belief by the UN General Assembly in 2019.&#xA;You can find out more here: https://www.ohchr.org/EN/NewsEvents/Pages/DisplayNews.aspx?NewsID=27396&amp;amp;LangID=E.&#xA;You can access the original document here: https://undocs.org/Home/Mobile?FinalSymbol=A%2FRES%2F73%2F296&amp;amp;Language=E&amp;amp;DeviceType=Mobile</description>
     </item>
-    
   </channel>
 </rss>

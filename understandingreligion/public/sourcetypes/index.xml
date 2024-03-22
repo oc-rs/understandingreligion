@@ -6,123 +6,98 @@
     <description>Recent content in Sourcetypes on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/sourcetypes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/sourcetypes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogs</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/blogs/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/blogs/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Journals</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/journals/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/journals/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Organisations</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/organisations/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/organisations/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Websites</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/websites/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/websites/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Podcasts</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/podcasts/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Conferences</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/conferences/</link>
       <pubDate>Wed, 22 Jun 2022 01:08:09 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/conferences/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Research Projects</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/research-projects/</link>
       <pubDate>Sun, 03 Oct 2021 06:40:36 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/research-projects/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Books</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/books/</link>
       <pubDate>Fri, 10 Sep 2021 05:02:54 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/books/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Online Courses</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/online-courses/</link>
       <pubDate>Sat, 04 Sep 2021 08:24:36 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/online-courses/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Youtube Channels</title>
+      <title>YouTube Channels</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/youtube-channels/</link>
       <pubDate>Sun, 15 Aug 2021 06:12:27 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/youtube-channels/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Reports</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/reports/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/reports/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Videos</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/videos/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/videos/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Articles</title>
       <link>https://www.understandingreligion.org.uk/sourcetypes/articles/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/sourcetypes/articles/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

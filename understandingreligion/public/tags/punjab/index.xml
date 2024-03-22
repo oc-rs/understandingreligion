@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>punjab on Understanding Religion</title>
+    <title>Punjab on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/punjab/</link>
-    <description>Recent content in punjab on Understanding Religion</description>
+    <description>Recent content in Punjab on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/punjab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/punjab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>5Rivers Foundation</title>
       <link>https://www.understandingreligion.org.uk/s/5rivers-foundation/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/5rivers-foundation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sikhi (Sikhism)</title>
       <link>https://www.understandingreligion.org.uk/p/sikhi/</link>
       <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/sikhi/</guid>
-      <description>Introduction Sikhi is characterised by its founding figures: a series of ten divinely inspired leaders known as Gurus. Unlike Hindu gurus (who tend to be considered holy persons with great wisdom), Sikh Gurus were viewed as conduits of the supreme guru (Waheguru) – i.e. God. Therefore the actions and sayings of the Gurus hold tremendous importance for Sikhs, and during their lifetimes they were instrumental in shaping the tradition.
-Guru and Sikh The foundational relationship in Sikhi is between teacher and pupil, hence the importance of the term Guru (teacher) and Sikh (student).</description>
+      <description>Introduction Sikhi is characterised by its founding figures: a series of ten divinely inspired leaders known as Gurus. Unlike Hindu gurus (who tend to be considered holy persons with great wisdom), Sikh Gurus were viewed as conduits of the supreme guru (Waheguru) – i.e. God. Therefore the actions and sayings of the Gurus hold tremendous importance for Sikhs, and during their lifetimes they were instrumental in shaping the tradition.&#xA;Guru and Sikh The foundational relationship in Sikhi is between teacher and pupil, hence the importance of the term Guru (teacher) and Sikh (student).</description>
     </item>
-    
   </channel>
 </rss>

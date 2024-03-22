@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>occultism on Understanding Religion</title>
+    <title>Occultism on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/occultism/</link>
-    <description>Recent content in occultism on Understanding Religion</description>
+    <description>Recent content in Occultism on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 05 Jun 2022 21:42:15 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/occultism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jun 2022 21:42:15 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/occultism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>East Asian Network For The Academic Study Of Esotericism (EANASE)</title>
       <link>https://www.understandingreligion.org.uk/s/eanase/</link>
       <pubDate>Sun, 05 Jun 2022 21:42:15 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/eanase/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Research Association for the Study of Western Esotericism (RASWE)</title>
       <link>https://www.understandingreligion.org.uk/s/raswe/</link>
       <pubDate>Fri, 13 Aug 2021 23:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/raswe/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Angela&#39;s Symposium</title>
       <link>https://www.understandingreligion.org.uk/s/angelas-symposium/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/angelas-symposium/</guid>
       <description>Link You can access the channel here: https://www.youtube.com/channel/UCPSbip_LX2AxbGeAQfLp-Ig</description>
     </item>
-    
   </channel>
 </rss>

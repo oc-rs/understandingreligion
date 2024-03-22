@@ -1,29 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>britain on Understanding Religion</title>
+    <title>Britain on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/britain/</link>
-    <description>Recent content in britain on Understanding Religion</description>
+    <description>Recent content in Britain on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 15 Oct 2021 22:37:29 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/britain/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Oct 2021 22:37:29 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/britain/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>British Religion in Numbers</title>
       <link>https://www.understandingreligion.org.uk/s/british-religion-in-numbers/</link>
       <pubDate>Fri, 15 Oct 2021 22:37:29 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/british-religion-in-numbers/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Muslims in Britain: Changes and Challenges</title>
       <link>https://www.understandingreligion.org.uk/s/muslims-in-britain-course/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/muslims-in-britain-course/</guid>
       <description>Introduction Link You can access the course here: https://www.futurelearn.com/courses/muslims-in-britain</description>
     </item>
-    
   </channel>
 </rss>

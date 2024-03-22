@@ -1,77 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Youtube Channels on Understanding Religion</title>
+    <title>YouTube Channels on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/sourcetypes/youtube-channels/</link>
-    <description>Recent content in Youtube Channels on Understanding Religion</description>
+    <description>Recent content in YouTube Channels on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 15 Aug 2021 06:12:27 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/sourcetypes/youtube-channels/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 06:12:27 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/sourcetypes/youtube-channels/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seekers of Unity</title>
       <link>https://www.understandingreligion.org.uk/s/seekers-of-unity/</link>
       <pubDate>Sun, 15 Aug 2021 06:12:27 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/seekers-of-unity/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Basics of Sikhi Youtube Channel</title>
       <link>https://www.understandingreligion.org.uk/s/basics-of-sikhi-youtube/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/basics-of-sikhi-youtube/</guid>
-      <description>Introduction  Basics of Sikhi is a Sikh educational campaign using YouTube, printed material and social media, funded and supported by Everything’s 13, a registered Sikh education and humanitarian charity.
-https://www.basicsofsikhi.com/about-us/who-are-we/
- Link You can access the channel here: https://www.youtube.com/c/basicsofsikhi/featured</description>
+      <description>Introduction Basics of Sikhi is a Sikh educational campaign using YouTube, printed material and social media, funded and supported by Everything’s 13, a registered Sikh education and humanitarian charity.&#xA;https://www.basicsofsikhi.com/about-us/who-are-we/&#xA;Link You can access the channel here: https://www.youtube.com/c/basicsofsikhi/featured</description>
     </item>
-    
     <item>
       <title>Angela&#39;s Symposium</title>
       <link>https://www.understandingreligion.org.uk/s/angelas-symposium/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/angelas-symposium/</guid>
       <description>Link You can access the channel here: https://www.youtube.com/channel/UCPSbip_LX2AxbGeAQfLp-Ig</description>
     </item>
-    
     <item>
       <title>Let&#39;s Talk Religion</title>
       <link>https://www.understandingreligion.org.uk/s/lets-talk-religion/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/lets-talk-religion/</guid>
       <description>Link You can access the channel here: https://www.youtube.com/channel/UC9dRb4fbJQIbQ3KHJZF_z0g</description>
     </item>
-    
     <item>
       <title>Religion for Breakfast</title>
       <link>https://www.understandingreligion.org.uk/s/religion-for-breakfast/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/religion-for-breakfast/</guid>
       <description>Link You can access the channel here: https://www.youtube.com/channel/UCct9aR7HC79Cv2g-9oDOTLw</description>
     </item>
-    
     <item>
       <title>Rune Hjarnø Rasmussen</title>
       <link>https://www.understandingreligion.org.uk/s/rune-hjarn%C3%B8-rasmussen/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/rune-hjarn%C3%B8-rasmussen/</guid>
       <description>Link You can access the channel here: www.youtube.com/user/Runehr</description>
     </item>
-    
     <item>
       <title>SOAS Centre of Yoga Studies: YouTube Channel</title>
       <link>https://www.understandingreligion.org.uk/s/soas-centre-of-yoga-studies-youtube/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/soas-centre-of-yoga-studies-youtube/</guid>
-      <description>Introduction Run by SOAS University, the Centre of Yoga Studies researches and shares information about yoga practices and history.
- SOAS University is leading the way in the field of yoga studies, which is growing rapidly around the globe. It hosts the Hatha Yoga Project, a research initiative funded by the European Research Council, which will chart the history of physical yoga practices, and is one of only four universities in the world to offer an MA in Yoga and Meditation.</description>
+      <description>Introduction Run by SOAS University, the Centre of Yoga Studies researches and shares information about yoga practices and history.&#xA;SOAS University is leading the way in the field of yoga studies, which is growing rapidly around the globe. It hosts the Hatha Yoga Project, a research initiative funded by the European Research Council, which will chart the history of physical yoga practices, and is one of only four universities in the world to offer an MA in Yoga and Meditation.</description>
     </item>
-    
   </channel>
 </rss>

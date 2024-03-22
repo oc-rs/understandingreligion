@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>jainism on Understanding Religion</title>
+    <title>Jainism on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/jainism/</link>
-    <description>Recent content in jainism on Understanding Religion</description>
+    <description>Recent content in Jainism on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 26 Aug 2021 23:10:14 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/jainism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Aug 2021 23:10:14 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/jainism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>YS 117 | Karma, Rebirth, and Liberation</title>
       <link>https://www.understandingreligion.org.uk/s/karma-rebirth-liberation/</link>
       <pubDate>Thu, 26 Aug 2021 23:10:14 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/karma-rebirth-liberation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Indian Philosophy: Volume 1</title>
       <link>https://www.understandingreligion.org.uk/s/indian-philosophy-volume-1-1923/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/indian-philosophy-volume-1-1923/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Jainism</title>
       <link>https://www.understandingreligion.org.uk/p/jainism/</link>
       <pubDate>Mon, 09 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/jainism/</guid>
       <description>Introduction The Jain religious tradition focuses on liberation from the suffering of rebirth, and in this sense has common ground with its near geographic neighbours - Hinduism and Buddhism. For Jains, karma is an accretion of negative energy, collected over many lives - like pollen clinging to the legs of a bee. The goal of human life is to shed this karma, and once free from it, achieve supreme liberation - moksha.</description>
     </item>
-    
   </channel>
 </rss>

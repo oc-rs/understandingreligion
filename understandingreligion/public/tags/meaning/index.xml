@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meaning on Understanding Religion</title>
+    <title>Meaning on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/meaning/</link>
-    <description>Recent content in meaning on Understanding Religion</description>
+    <description>Recent content in Meaning on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/meaning/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/meaning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ritual</title>
       <link>https://www.understandingreligion.org.uk/p/ritual/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/ritual/</guid>
-      <description>Introduction Religious practices include a wide variety of activity, but in some cases these practices might be described as rituals, a term that carries many conflicting associations. We can look at ritual as a type of religious practice, which pays attention to not only what is done, but also the broader context in which the action is situated.
-In other words, rituals are religious practices with some degree of specificity that separates them from ‘everyday’ religious activities.</description>
+      <description>Introduction Religious practices include a wide variety of activity, but in some cases these practices might be described as rituals, a term that carries many conflicting associations. We can look at ritual as a type of religious practice, which pays attention to not only what is done, but also the broader context in which the action is situated.&#xA;In other words, rituals are religious practices with some degree of specificity that separates them from ‘everyday’ religious activities.</description>
     </item>
-    
   </channel>
 </rss>

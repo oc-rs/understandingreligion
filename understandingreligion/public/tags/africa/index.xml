@@ -1,60 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>africa on Understanding Religion</title>
+    <title>Africa on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/africa/</link>
-    <description>Recent content in africa on Understanding Religion</description>
+    <description>Recent content in Africa on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 13 Sep 2021 04:51:55 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/africa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Sep 2021 04:51:55 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/africa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arabic-Script Manuscripts in Africa</title>
       <link>https://www.understandingreligion.org.uk/s/arabic-script-manuscripts-in-africa/</link>
       <pubDate>Mon, 13 Sep 2021 04:51:55 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/arabic-script-manuscripts-in-africa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The African &amp; Diasporic Religious Studies Association (ADRSA)</title>
       <link>https://www.understandingreligion.org.uk/s/adrsa/</link>
       <pubDate>Mon, 23 Aug 2021 20:36:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/adrsa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Robin Horton</title>
       <link>https://www.understandingreligion.org.uk/p/robin-horton/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/robin-horton/</guid>
-      <description>Introduction  Robin Horton (1932 - 2019), an English social anthropologist and philosopher, has carried out specialised study in comparative religion since the 1950s which has challenged and expanded views in the study of the anthropology of religion. He is notable for his comparison of traditional thought systems (including religion) to Western science.
-Wikipedia
- </description>
+      <description>Introduction Robin Horton (1932 - 2019), an English social anthropologist and philosopher, has carried out specialised study in comparative religion since the 1950s which has challenged and expanded views in the study of the anthropology of religion. He is notable for his comparison of traditional thought systems (including religion) to Western science.&#xA;Wikipedia</description>
     </item>
-    
     <item>
       <title>Nabta Playa</title>
       <link>https://www.understandingreligion.org.uk/p/nabta-playa/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/nabta-playa/</guid>
-      <description>Introduction A region of North Africa that was inhabited several thousand years ago, and which featured signs of a culturally advanced population, including deep wells, organised buildings, and stone circles.
-References Further reading  https://en.wikipedia.org/wiki/Nabta_Playa https://www.discovermagazine.com/the-sciences/nabta-playa-the-worlds-first-astronomical-site-was-built-in-africa-and-is  Image Credits Banner Nabta Playa Calendar Circle, reconstructed at Aswan Nubia museum. Raymbetz / CC BY-SA</description>
+      <description>Introduction A region of North Africa that was inhabited several thousand years ago, and which featured signs of a culturally advanced population, including deep wells, organised buildings, and stone circles.&#xA;References Further reading https://en.wikipedia.org/wiki/Nabta_Playa https://www.discovermagazine.com/the-sciences/nabta-playa-the-worlds-first-astronomical-site-was-built-in-africa-and-is Image Credits Banner Nabta Playa Calendar Circle, reconstructed at Aswan Nubia museum. Raymbetz / CC BY-SA</description>
     </item>
-    
     <item>
       <title>Blaauboschkraal stone ruins</title>
       <link>https://www.understandingreligion.org.uk/p/blaauboschkraal-stone-ruins/</link>
       <pubDate>Sat, 03 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/blaauboschkraal-stone-ruins/</guid>
-      <description>Introduction A series of stone circles in South Africa.
-Further reading https://en.m.wikipedia.org/wiki/Blaauboschkraal_stone_ruins</description>
+      <description>Introduction A series of stone circles in South Africa.&#xA;Further reading https://en.m.wikipedia.org/wiki/Blaauboschkraal_stone_ruins</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>education on Understanding Religion</title>
+    <title>Education on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/education/</link>
-    <description>Recent content in education on Understanding Religion</description>
+    <description>Recent content in Education on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/education/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/education/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Candler Foundry</title>
       <link>https://www.understandingreligion.org.uk/s/candler-foundry/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/candler-foundry/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Encounter World Religions</title>
       <link>https://www.understandingreligion.org.uk/s/encounter-world-religions/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/encounter-world-religions/</guid>
       <description>Link You can access the website here: https://www.worldreligions.ca</description>
     </item>
-    
     <item>
       <title>Inform</title>
       <link>https://www.understandingreligion.org.uk/s/inform/</link>
       <pubDate>Fri, 13 Aug 2021 23:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/inform/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

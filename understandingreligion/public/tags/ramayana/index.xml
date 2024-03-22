@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ramayana on Understanding Religion</title>
+    <title>Ramayana on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/ramayana/</link>
-    <description>Recent content in ramayana on Understanding Religion</description>
+    <description>Recent content in Ramayana on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 04 Sep 2021 08:24:36 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/ramayana/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Sep 2021 08:24:36 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/ramayana/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SKT 202 | Intermediate Sanskrit II:  The Rāmāyaṇa</title>
       <link>https://www.understandingreligion.org.uk/s/skt-202.md/</link>
       <pubDate>Sat, 04 Sep 2021 08:24:36 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/skt-202.md/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>suttas on Understanding Religion</title>
+    <title>Suttas on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/suttas/</link>
-    <description>Recent content in suttas on Understanding Religion</description>
+    <description>Recent content in Suttas on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/suttas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/suttas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Access to Insight</title>
       <link>https://www.understandingreligion.org.uk/s/access-to-insight/</link>
       <pubDate>Thu, 26 Nov 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/access-to-insight/</guid>
       <description>Link You can access the website here: https://www.accesstoinsight.org/index.html</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>quran on Understanding Religion</title>
+    <title>Quran on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/quran/</link>
-    <description>Recent content in quran on Understanding Religion</description>
+    <description>Recent content in Quran on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 23 Aug 2021 21:18:27 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/quran/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 21:18:27 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/quran/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Islam Through Its Scriptures</title>
       <link>https://www.understandingreligion.org.uk/s/islam-through-its-scriptures/</link>
       <pubDate>Mon, 23 Aug 2021 21:18:27 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/islam-through-its-scriptures/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Quran For All Seasons Podcast</title>
       <link>https://www.understandingreligion.org.uk/s/quran-for-all-seasons-podcast/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/quran-for-all-seasons-podcast/</guid>
-      <description>Introduction  Contemporary Quranic Studies dedicated to holistic engagement with the Quran through scholarly and spiritual reflections upon the text. Quran for All Seasons draws upon the depth and breadth of the Islamic tradition to facilitate discussions of the Quran that transcend creedal and ideological divisions.
-Hosted by Joseph Lumbard of the College of Islamic Studies at Hamad Bin Khalifa University, the podcast provides an ongoing commentary on the Quran, what some might call a contemplation, or tadabbur, of the Quran.</description>
+      <description>Introduction Contemporary Quranic Studies dedicated to holistic engagement with the Quran through scholarly and spiritual reflections upon the text. Quran for All Seasons draws upon the depth and breadth of the Islamic tradition to facilitate discussions of the Quran that transcend creedal and ideological divisions.&#xA;Hosted by Joseph Lumbard of the College of Islamic Studies at Hamad Bin Khalifa University, the podcast provides an ongoing commentary on the Quran, what some might call a contemplation, or tadabbur, of the Quran.</description>
     </item>
-    
   </channel>
 </rss>

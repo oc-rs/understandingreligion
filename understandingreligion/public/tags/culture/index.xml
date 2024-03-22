@@ -1,58 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>culture on Understanding Religion</title>
+    <title>Culture on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/culture/</link>
-    <description>Recent content in culture on Understanding Religion</description>
+    <description>Recent content in Culture on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 27 Sep 2021 11:41:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/culture/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 11:41:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/culture/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International Association of Religion Journalists</title>
       <link>https://www.understandingreligion.org.uk/s/international-association-of-religion-journalists/</link>
       <pubDate>Mon, 27 Sep 2021 11:41:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/international-association-of-religion-journalists/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Association for the Study of Religion, Economics, and Culture</title>
       <link>https://www.understandingreligion.org.uk/s/association-for-the-study-of-religion-economics-and-culture/</link>
       <pubDate>Mon, 27 Sep 2021 11:34:02 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/association-for-the-study-of-religion-economics-and-culture/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>World History Encyclopedia</title>
       <link>https://www.understandingreligion.org.uk/s/world-history-encyclopedia/</link>
       <pubDate>Mon, 13 Sep 2021 04:57:12 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/world-history-encyclopedia/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>International Society for Media, Religion and Culture</title>
       <link>https://www.understandingreligion.org.uk/s/international-society-for-media-religion-and-culture/</link>
       <pubDate>Wed, 08 Sep 2021 16:23:05 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/international-society-for-media-religion-and-culture/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mary Douglas</title>
       <link>https://www.understandingreligion.org.uk/p/mary-douglas/</link>
       <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/mary-douglas/</guid>
-      <description>Introduction  Dame Mary Douglas, DBE FBA (25 March 1921 – 16 May 2007) was a British anthropologist, known for her writings on human culture and symbolism, whose area of speciality was social anthropology. Douglas was considered a follower of Émile Durkheim and a proponent of structuralist analysis, with a strong interest in comparative religion.
-Wikipedia
- </description>
+      <description>Introduction Dame Mary Douglas, DBE FBA (25 March 1921 – 16 May 2007) was a British anthropologist, known for her writings on human culture and symbolism, whose area of speciality was social anthropology. Douglas was considered a follower of Émile Durkheim and a proponent of structuralist analysis, with a strong interest in comparative religion.&#xA;Wikipedia</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>extremism on Understanding Religion</title>
+    <title>Extremism on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/extremism/</link>
-    <description>Recent content in extremism on Understanding Religion</description>
+    <description>Recent content in Extremism on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/extremism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/extremism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interfaith Dialogue for Combating Extremism among Young People</title>
       <link>https://www.understandingreligion.org.uk/s/interfaith-dialogue/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/interfaith-dialogue/</guid>
       <description>Introduction Link You can access the course here: https://www.futurelearn.com/courses/interfaith-dialogue</description>
     </item>
-    
   </channel>
 </rss>

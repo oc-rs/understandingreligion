@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>diasporic religion on Understanding Religion</title>
+    <title>Diasporic Religion on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/diasporic-religion/</link>
-    <description>Recent content in diasporic religion on Understanding Religion</description>
+    <description>Recent content in Diasporic Religion on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 23 Aug 2021 20:36:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/diasporic-religion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Aug 2021 20:36:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/diasporic-religion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The African &amp; Diasporic Religious Studies Association (ADRSA)</title>
       <link>https://www.understandingreligion.org.uk/s/adrsa/</link>
       <pubDate>Mon, 23 Aug 2021 20:36:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/adrsa/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

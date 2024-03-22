@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sacred on Understanding Religion</title>
+    <title>Sacred on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/sacred/</link>
-    <description>Recent content in sacred on Understanding Religion</description>
+    <description>Recent content in Sacred on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/sacred/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/sacred/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What makes a place sacred?</title>
       <link>https://www.understandingreligion.org.uk/p/what-makes-a-place-sacred/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/what-makes-a-place-sacred/</guid>
       <description>Introduction To claim that a location, structure, or geographical feature is sacred is to assert that it is &amp;lsquo;&amp;hellip;set apart and regarded with special reverence&amp;hellip;&amp;rsquo; (Wolffe, 2017(a), p.213). Yet there are many ways to understand this sacrality, where it comes from, and how it is expressed by different groups of people. The term sacred has a strong religious association, and usually means that something serves a religious function, or holds importance for people by virtue of its religious associations (Oxford University Press, 2017).</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>north africa on Understanding Religion</title>
+    <title>North Africa on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/north-africa/</link>
-    <description>Recent content in north africa on Understanding Religion</description>
+    <description>Recent content in North Africa on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/north-africa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/north-africa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nabta Playa</title>
       <link>https://www.understandingreligion.org.uk/p/nabta-playa/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/nabta-playa/</guid>
-      <description>Introduction A region of North Africa that was inhabited several thousand years ago, and which featured signs of a culturally advanced population, including deep wells, organised buildings, and stone circles.
-References Further reading  https://en.wikipedia.org/wiki/Nabta_Playa https://www.discovermagazine.com/the-sciences/nabta-playa-the-worlds-first-astronomical-site-was-built-in-africa-and-is  Image Credits Banner Nabta Playa Calendar Circle, reconstructed at Aswan Nubia museum. Raymbetz / CC BY-SA</description>
+      <description>Introduction A region of North Africa that was inhabited several thousand years ago, and which featured signs of a culturally advanced population, including deep wells, organised buildings, and stone circles.&#xA;References Further reading https://en.wikipedia.org/wiki/Nabta_Playa https://www.discovermagazine.com/the-sciences/nabta-playa-the-worlds-first-astronomical-site-was-built-in-africa-and-is Image Credits Banner Nabta Playa Calendar Circle, reconstructed at Aswan Nubia museum. Raymbetz / CC BY-SA</description>
     </item>
-    
   </channel>
 </rss>

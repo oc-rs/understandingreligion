@@ -1,101 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>deities on Understanding Religion</title>
+    <title>Deities on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/deities/</link>
-    <description>Recent content in deities on Understanding Religion</description>
+    <description>Recent content in Deities on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/deities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/deities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ahura Mazda</title>
       <link>https://www.understandingreligion.org.uk/p/ahura-mazda/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/ahura-mazda/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Allah</title>
       <link>https://www.understandingreligion.org.uk/p/allah/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/allah/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Brahma</title>
       <link>https://www.understandingreligion.org.uk/p/brahma/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/brahma/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Brahman</title>
       <link>https://www.understandingreligion.org.uk/p/brahman/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/brahman/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>El</title>
       <link>https://www.understandingreligion.org.uk/p/el/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/el/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Elohim</title>
       <link>https://www.understandingreligion.org.uk/p/elohim/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/elohim/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Jehovah</title>
       <link>https://www.understandingreligion.org.uk/p/jehovah/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/jehovah/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Krishna</title>
       <link>https://www.understandingreligion.org.uk/p/krishna/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/krishna/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ram</title>
       <link>https://www.understandingreligion.org.uk/p/ram/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/ram/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>YHWH</title>
       <link>https://www.understandingreligion.org.uk/p/yhwh/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/yhwh/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

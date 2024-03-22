@@ -1,56 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>esotericism on Understanding Religion</title>
+    <title>Esotericism on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/esotericism/</link>
-    <description>Recent content in esotericism on Understanding Religion</description>
+    <description>Recent content in Esotericism on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/esotericism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/esotericism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Irish Network for the Study of Esotericism and Paganism</title>
       <link>https://www.understandingreligion.org.uk/s/insep/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/insep/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The European Society for the Study of Western Esotericism (ESSWE)</title>
       <link>https://www.understandingreligion.org.uk/s/esswe/</link>
       <pubDate>Wed, 22 Jun 2022 00:45:07 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/esswe/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>East Asian Network For The Academic Study Of Esotericism (EANASE)</title>
       <link>https://www.understandingreligion.org.uk/s/eanase/</link>
       <pubDate>Sun, 05 Jun 2022 21:42:15 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/eanase/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Research Association for the Study of Western Esotericism (RASWE)</title>
       <link>https://www.understandingreligion.org.uk/s/raswe/</link>
       <pubDate>Fri, 13 Aug 2021 23:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/raswe/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Rejected Religion</title>
       <link>https://www.understandingreligion.org.uk/s/rejected-religion/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/rejected-religion/</guid>
-      <description>Introduction  What is meant by &amp;ldquo;rejected&amp;rdquo; in Rejected Religion? Put simply, it&amp;rsquo;s everything that has been considered &amp;lsquo;heretical&amp;rsquo; or &amp;lsquo;forbidden&amp;rsquo; by the dominant religions throughout Western history. Think of terms such as &amp;lsquo;the occult&amp;rsquo; or &amp;lsquo;the esoteric&amp;rsquo; and all that can be located in that area - magical practices such as witchcraft; alternate worldviews such as Satanism; systems such as astrology and tarot; the use of hallucinogenic substances for &amp;lsquo;spiritual&amp;rsquo; growth; or well-known people such as Aleister Crowley &amp;ndash; this is just a small sample of the larger &amp;lsquo;esoteric&amp;rsquo; category that this platform addresses.</description>
+      <description>Introduction What is meant by &amp;ldquo;rejected&amp;rdquo; in Rejected Religion? Put simply, it&amp;rsquo;s everything that has been considered &amp;lsquo;heretical&amp;rsquo; or &amp;lsquo;forbidden&amp;rsquo; by the dominant religions throughout Western history. Think of terms such as &amp;rsquo;the occult&amp;rsquo; or &amp;rsquo;the esoteric&amp;rsquo; and all that can be located in that area - magical practices such as witchcraft; alternate worldviews such as Satanism; systems such as astrology and tarot; the use of hallucinogenic substances for &amp;lsquo;spiritual&amp;rsquo; growth; or well-known people such as Aleister Crowley &amp;ndash; this is just a small sample of the larger &amp;rsquo;esoteric&amp;rsquo; category that this platform addresses.</description>
     </item>
-    
   </channel>
 </rss>

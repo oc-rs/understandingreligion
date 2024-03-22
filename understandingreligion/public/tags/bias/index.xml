@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>bias on Understanding Religion</title>
+    <title>Bias on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/bias/</link>
-    <description>Recent content in bias on Understanding Religion</description>
+    <description>Recent content in Bias on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/bias/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/bias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Literary Bias</title>
       <link>https://www.understandingreligion.org.uk/p/literary-bias/</link>
       <pubDate>Fri, 23 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/literary-bias/</guid>
-      <description>Introduction Texts (of all kinds) are controlled and mediated by people, and therefore restrictions can sometimes be made about which texts are preserved and shared, and which are ignored or destroyed. This can lead to an erasure of certain material from a religious tradition, or from the public understanding of that tradition, particularly if the material disagrees with the perspective of those in positions of power.
-Writing in Introducing World Religions, Victoria Kennick Urubshurow discusses three types of erasure: literary bias, marginalised voices, and a combination of the two, where a strong focus on a particular piece or style of literature perpetuates a pre-existing social inequality (2008, p.</description>
+      <description>Introduction Texts (of all kinds) are controlled and mediated by people, and therefore restrictions can sometimes be made about which texts are preserved and shared, and which are ignored or destroyed. This can lead to an erasure of certain material from a religious tradition, or from the public understanding of that tradition, particularly if the material disagrees with the perspective of those in positions of power.&#xA;Writing in Introducing World Religions, Victoria Kennick Urubshurow discusses three types of erasure: literary bias, marginalised voices, and a combination of the two, where a strong focus on a particular piece or style of literature perpetuates a pre-existing social inequality (2008, p.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hill forts on Understanding Religion</title>
+    <title>Hill Forts on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/hill-forts/</link>
-    <description>Recent content in hill forts on Understanding Religion</description>
+    <description>Recent content in Hill Forts on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 17 Oct 2021 08:17:55 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/hill-forts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Oct 2021 08:17:55 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/hill-forts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>stone-circles.org.uk</title>
       <link>https://www.understandingreligion.org.uk/s/stone-circles.org.uk/</link>
       <pubDate>Sun, 17 Oct 2021 08:17:55 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/stone-circles.org.uk/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

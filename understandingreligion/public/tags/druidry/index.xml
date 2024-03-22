@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>druidry on Understanding Religion</title>
+    <title>Druidry on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/druidry/</link>
-    <description>Recent content in druidry on Understanding Religion</description>
+    <description>Recent content in Druidry on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/druidry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/druidry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Druidry</title>
       <link>https://www.understandingreligion.org.uk/p/druidry/</link>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/druidry/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

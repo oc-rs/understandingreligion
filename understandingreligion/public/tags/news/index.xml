@@ -1,47 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>news on Understanding Religion</title>
+    <title>News on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/news/</link>
-    <description>Recent content in news on Understanding Religion</description>
+    <description>Recent content in News on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Center for the Study of World Religions</title>
       <link>https://www.understandingreligion.org.uk/s/center-for-study-world-religions/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/center-for-study-world-religions/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Religion News Service</title>
       <link>https://www.understandingreligion.org.uk/s/religion-news-service/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/religion-news-service/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Patheos</title>
       <link>https://www.understandingreligion.org.uk/s/patheos/</link>
       <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/patheos/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Religion Media Centre</title>
       <link>https://www.understandingreligion.org.uk/s/religion-media-centre/</link>
       <pubDate>Thu, 12 Aug 2021 23:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/religion-media-centre/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

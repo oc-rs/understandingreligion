@@ -1,47 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>taoism on Understanding Religion</title>
+    <title>Taoism on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/taoism/</link>
-    <description>Recent content in taoism on Understanding Religion</description>
+    <description>Recent content in Taoism on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 05 Jun 2022 21:42:15 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/taoism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jun 2022 21:42:15 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/taoism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>East Asian Network For The Academic Study Of Esotericism (EANASE)</title>
       <link>https://www.understandingreligion.org.uk/s/eanase/</link>
       <pubDate>Sun, 05 Jun 2022 21:42:15 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/eanase/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Being in the Way</title>
       <link>https://www.understandingreligion.org.uk/s/being-in-the-way/</link>
       <pubDate>Sun, 15 Aug 2021 10:11:12 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/being-in-the-way/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Lao Tzu</title>
       <link>https://www.understandingreligion.org.uk/p/lao-tzu/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/lao-tzu/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Taoism</title>
       <link>https://www.understandingreligion.org.uk/p/taoism/</link>
       <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/taoism/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fiqh on Understanding Religion</title>
+    <title>Fiqh on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/fiqh/</link>
-    <description>Recent content in fiqh on Understanding Religion</description>
+    <description>Recent content in Fiqh on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/fiqh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/fiqh/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Sharia and Islamic Law: An Introduction</title>
       <link>https://www.understandingreligion.org.uk/s/sharia-islamic-law/</link>
       <pubDate>Thu, 29 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/sharia-islamic-law/</guid>
       <description>Introduction Link You can access the course here: https://www.futurelearn.com/courses/an-introduction-to-the-sharia-and-islamic-law</description>
     </item>
-    
   </channel>
 </rss>

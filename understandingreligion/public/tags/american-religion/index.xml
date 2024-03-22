@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>american religion on Understanding Religion</title>
+    <title>American Religion on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/american-religion/</link>
-    <description>Recent content in american religion on Understanding Religion</description>
+    <description>Recent content in American Religion on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/american-religion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 23 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/american-religion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ronald Grimes</title>
       <link>https://www.understandingreligion.org.uk/p/ronald-grimes/</link>
       <pubDate>Sun, 23 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/ronald-grimes/</guid>
-      <description>Introduction  Ron Grimes is co-editor of the Oxford Ritual Studies Series, Director of Ritual Studies International, and the author of several books on ritual, including The Craft of Ritual Studies. He is Professor Emeritus in the Department of Religion and Culture at Wilfrid Laurier University in Waterloo, Canada. He has held the following positions: Senior Researcher and Senior Lecturer at Yale University; Visiting Professor of Religious Studies at Charles University in Prague; and Chair of Ritual Studies at Radboud University in the Netherlands.</description>
+      <description>Introduction Ron Grimes is co-editor of the Oxford Ritual Studies Series, Director of Ritual Studies International, and the author of several books on ritual, including The Craft of Ritual Studies. He is Professor Emeritus in the Department of Religion and Culture at Wilfrid Laurier University in Waterloo, Canada. He has held the following positions: Senior Researcher and Senior Lecturer at Yale University; Visiting Professor of Religious Studies at Charles University in Prague; and Chair of Ritual Studies at Radboud University in the Netherlands.</description>
     </item>
-    
   </channel>
 </rss>

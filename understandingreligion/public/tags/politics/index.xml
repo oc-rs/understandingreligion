@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>politics on Understanding Religion</title>
+    <title>Politics on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/politics/</link>
-    <description>Recent content in politics on Understanding Religion</description>
+    <description>Recent content in Politics on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 27 Sep 2021 11:38:40 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/politics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 11:38:40 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/politics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Religion and State Project</title>
       <link>https://www.understandingreligion.org.uk/s/religion-and-state-project/</link>
       <pubDate>Mon, 27 Sep 2021 11:38:40 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/religion-and-state-project/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>John C. Danforth Center on Religion and Politics</title>
       <link>https://www.understandingreligion.org.uk/s/john-c-danford-center/</link>
       <pubDate>Mon, 30 Aug 2021 10:59:54 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/john-c-danford-center/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Religion &amp; Politics</title>
       <link>https://www.understandingreligion.org.uk/s/religion-and-politics/</link>
       <pubDate>Mon, 30 Aug 2021 10:57:34 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/religion-and-politics/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

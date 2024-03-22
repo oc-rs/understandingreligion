@@ -1,30 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>material religion on Understanding Religion</title>
+    <title>Material Religion on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/material-religion/</link>
-    <description>Recent content in material religion on Understanding Religion</description>
+    <description>Recent content in Material Religion on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/material-religion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/material-religion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Baron Thyssen Centre for the Study of Ancient Material Religion</title>
       <link>https://www.understandingreligion.org.uk/s/the-baron-thyssen-centre-for-the-study-of-ancient-material-religion/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/the-baron-thyssen-centre-for-the-study-of-ancient-material-religion/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Texts</title>
       <link>https://www.understandingreligion.org.uk/p/text/</link>
       <pubDate>Mon, 19 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/text/</guid>
-      <description>Introduction Although the word &amp;lsquo;texts&amp;rsquo; might imply a written document, the term has a wider scope in the field of religious studies. We can consider four categories of texts:
- Written documents. The most easily recognised form of text, for example the Bible or the Qur&amp;rsquo;an. Though often considered &amp;lsquo;fixed&amp;rsquo; and unchanging, written texts are frequently altered and edited over long periods, and alternate versions of the same text are sometimes purged to create the image of uniformity.</description>
+      <description>Introduction Although the word &amp;rsquo;texts&amp;rsquo; might imply a written document, the term has a wider scope in the field of religious studies. We can consider four categories of texts:&#xA;Written documents. The most easily recognised form of text, for example the Bible or the Qur&amp;rsquo;an. Though often considered &amp;lsquo;fixed&amp;rsquo; and unchanging, written texts are frequently altered and edited over long periods, and alternate versions of the same text are sometimes purged to create the image of uniformity.</description>
     </item>
-    
   </channel>
 </rss>

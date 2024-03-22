@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>greece on Understanding Religion</title>
+    <title>Greece on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/greece/</link>
-    <description>Recent content in greece on Understanding Religion</description>
+    <description>Recent content in Greece on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/greece/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/greece/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>History of Western Philosophy</title>
       <link>https://www.understandingreligion.org.uk/s/history-of-western-philosophy-1946/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/history-of-western-philosophy-1946/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The Last Days of Socrates</title>
       <link>https://www.understandingreligion.org.uk/s/the-last-days-of-socrates-1954/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/the-last-days-of-socrates-1954/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Theogony and Works and Days</title>
       <link>https://www.understandingreligion.org.uk/s/theogony-and-works-and-days-1988/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/theogony-and-works-and-days-1988/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

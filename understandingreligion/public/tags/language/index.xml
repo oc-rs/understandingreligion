@@ -1,65 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>language on Understanding Religion</title>
+    <title>Language on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/language/</link>
-    <description>Recent content in language on Understanding Religion</description>
+    <description>Recent content in Language on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 04 Sep 2021 08:24:36 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/language/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Sep 2021 08:24:36 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/language/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SKT 102 | Elementary Sanskrit II</title>
       <link>https://www.understandingreligion.org.uk/s/skt-102/</link>
       <pubDate>Sat, 04 Sep 2021 08:24:36 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/skt-102/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SKT 103 | Elementary Sanskrit III</title>
       <link>https://www.understandingreligion.org.uk/s/skt-103.md/</link>
       <pubDate>Sat, 04 Sep 2021 08:24:36 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/skt-103.md/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SKT 201 | Intermediate Sanskrit I:  The Bhagavadgītā</title>
       <link>https://www.understandingreligion.org.uk/s/skt-201.md/</link>
       <pubDate>Sat, 04 Sep 2021 08:24:36 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/skt-201.md/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SKT 202 | Intermediate Sanskrit II:  The Rāmāyaṇa</title>
       <link>https://www.understandingreligion.org.uk/s/skt-202.md/</link>
       <pubDate>Sat, 04 Sep 2021 08:24:36 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/skt-202.md/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SKT 101 | Elementary Sanskrit I</title>
       <link>https://www.understandingreligion.org.uk/s/skt-101/</link>
       <pubDate>Sun, 29 Aug 2021 07:58:53 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/skt-101/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The Sanskrit Studies Podcast</title>
       <link>https://www.understandingreligion.org.uk/s/sanskrit-studies-podcast/</link>
       <pubDate>Tue, 10 Aug 2021 23:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/sanskrit-studies-podcast/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,47 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>vaishnavism on Understanding Religion</title>
+    <title>Vaishnavism on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/vaishnavism/</link>
-    <description>Recent content in vaishnavism on Understanding Religion</description>
+    <description>Recent content in Vaishnavism on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/vaishnavism/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/vaishnavism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Science of Self-Realization</title>
       <link>https://www.understandingreligion.org.uk/s/the-science-of-self-realization-1977/</link>
       <pubDate>Sun, 15 Aug 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/the-science-of-self-realization-1977/</guid>
       <description>You can read the full text online, via Prabhupada.io: The Science of Self-Realization.</description>
     </item>
-    
     <item>
       <title>Vaishnavism</title>
       <link>https://www.understandingreligion.org.uk/p/vaishnavism/</link>
       <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/vaishnavism/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A.C. Bhaktivedanta Swami Prabhupada</title>
       <link>https://www.understandingreligion.org.uk/p/bhaktivedanta-swami/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/bhaktivedanta-swami/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Krishna</title>
       <link>https://www.understandingreligion.org.uk/p/krishna/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/krishna/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

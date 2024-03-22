@@ -6,42 +6,35 @@
     <description>Recent content in Sounds on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/categories/sounds/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/categories/sounds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chanting</title>
       <link>https://www.understandingreligion.org.uk/p/chanting/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/chanting/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Hymns</title>
       <link>https://www.understandingreligion.org.uk/p/hymns/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/hymns/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kirtan</title>
       <link>https://www.understandingreligion.org.uk/p/kirtan/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/kirtan/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mantra</title>
       <link>https://www.understandingreligion.org.uk/p/mantra/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/mantra/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

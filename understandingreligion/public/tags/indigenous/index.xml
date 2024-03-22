@@ -1,48 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>indigenous on Understanding Religion</title>
+    <title>Indigenous on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/indigenous/</link>
-    <description>Recent content in indigenous on Understanding Religion</description>
+    <description>Recent content in Indigenous on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 12 Aug 2021 23:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/indigenous/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Aug 2021 23:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/indigenous/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Strehlow Research Centre</title>
       <link>https://www.understandingreligion.org.uk/s/strehlow-research-centre/</link>
       <pubDate>Thu, 12 Aug 2021 23:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/strehlow-research-centre/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Sámi indigenous religion</title>
       <link>https://www.understandingreligion.org.uk/p/sami-indigenous-religion/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/sami-indigenous-religion/</guid>
-      <description>Introduction References Further Reading  https://www.mdpi.com/2077-1444/11/9/432/htm http://web.archive.org/web/20211013110929/https://amp.theguardian.com/world/2021/oct/13/sami-people-norway-ask-danish-queen-to-return-sacred-witchcraft-trial-drum https://en.m.wikipedia.org/wiki/Sámi_shamanism  Image Credits Banner Thanks to Nikola Johnny Mirkovic @thejohnnyme for making this photo available freely on Unsplash: https://unsplash.com/photos/vfaD7bscm7I</description>
+      <description>Introduction References Further Reading https://www.mdpi.com/2077-1444/11/9/432/htm http://web.archive.org/web/20211013110929/https://amp.theguardian.com/world/2021/oct/13/sami-people-norway-ask-danish-queen-to-return-sacred-witchcraft-trial-drum https://en.m.wikipedia.org/wiki/Sámi_shamanism Image Credits Banner Thanks to Nikola Johnny Mirkovic @thejohnnyme for making this photo available freely on Unsplash: https://unsplash.com/photos/vfaD7bscm7I</description>
     </item>
-    
     <item>
       <title>Wana people</title>
       <link>https://www.understandingreligion.org.uk/p/wana-people/</link>
       <pubDate>Sun, 04 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/wana-people/</guid>
-      <description>Introduction References Further Reading  http://www.jbasr.com/ojs/index.php/jbasr/article/view/43  Image Credits </description>
+      <description>Introduction References Further Reading http://www.jbasr.com/ojs/index.php/jbasr/article/view/43 Image Credits </description>
     </item>
-    
     <item>
       <title>Animism</title>
       <link>https://www.understandingreligion.org.uk/p/animism/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/animism/</guid>
-      <description>Introduction Animism is a category of religious systems in which human activity is understood within a broader context of persons and their relationships; these persons may include visible beings such as humans, animals, plants, and rocks, and non-visible beings such as spirits or ancestors.
-New animism is differentiated from &amp;lsquo;old&amp;rsquo; animism by its focus on relational ontologies - ways of being in the world which hinge on relationships, thus taking a more nuanced approach to the subject than historical efforts, which typically centered on the belief in souls which inhabit material bodies and natural phenomena.</description>
+      <description>Introduction Animism is a category of religious systems in which human activity is understood within a broader context of persons and their relationships; these persons may include visible beings such as humans, animals, plants, and rocks, and non-visible beings such as spirits or ancestors.&#xA;New animism is differentiated from &amp;lsquo;old&amp;rsquo; animism by its focus on relational ontologies - ways of being in the world which hinge on relationships, thus taking a more nuanced approach to the subject than historical efforts, which typically centered on the belief in souls which inhabit material bodies and natural phenomena.</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,38 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>social science on Understanding Religion</title>
+    <title>Social Science on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/social-science/</link>
-    <description>Recent content in social science on Understanding Religion</description>
+    <description>Recent content in Social Science on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/social-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/social-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>International Studies in Religion and Society</title>
       <link>https://www.understandingreligion.org.uk/s/international-studies-religion-society/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/international-studies-religion-society/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Religie &amp; Samenleving (Religion &amp; Society)</title>
       <link>https://www.understandingreligion.org.uk/s/religie-samenleving/</link>
       <pubDate>Sun, 05 Jun 2022 21:58:57 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/religie-samenleving/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>The Journal of Religion, Nature and Culture</title>
       <link>https://www.understandingreligion.org.uk/s/journal-religion-nature-culture/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/journal-religion-nature-culture/</guid>
       <description>Introduction Link You can access the journal here: https://journals.equinoxpub.com/index.php/JSRNC/index</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,61 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>religious literacy on Understanding Religion</title>
+    <title>Religious Literacy on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/religious-literacy/</link>
-    <description>Recent content in religious literacy on Understanding Religion</description>
+    <description>Recent content in Religious Literacy on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/religious-literacy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/religious-literacy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Encounter World Religions</title>
       <link>https://www.understandingreligion.org.uk/s/encounter-world-religions/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/encounter-world-religions/</guid>
       <description>Link You can access the website here: https://www.worldreligions.ca</description>
     </item>
-    
     <item>
       <title>Religious Literacy: Traditions and Scriptures</title>
       <link>https://www.understandingreligion.org.uk/s/religious-literacy-traditions-and-scriptures/</link>
       <pubDate>Mon, 23 Aug 2021 21:08:42 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/religious-literacy-traditions-and-scriptures/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Improving Religious Literacy: A Contribution to the Debate</title>
       <link>https://www.understandingreligion.org.uk/s/improving-religious-literacy/</link>
       <pubDate>Sat, 23 Jan 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/improving-religious-literacy/</guid>
-      <description>Introduction Link You can access the report here: https://www.fionabruce.org.uk/news/religious-literacy-report-launched
-There is also a direct link available here: https://www.fionabruce.org.uk/sites/www.fionabruce.org.uk/files/2018-02/All-Party%20Parliamentary%20Group%20on%20Religious%20Edcuation%20-%20Improving%20Religious%20Literacy%20-%20A%20Contribution%20to%20the%20Debate.pdf
-And another version with different cover page via NASACRE: https://nasacre.org.uk/file/nasacre/1-971-appg-on-re-improving-religious-literacy-full-report.pdf</description>
+      <description>Introduction Link You can access the report here: https://www.fionabruce.org.uk/news/religious-literacy-report-launched&#xA;There is also a direct link available here: https://www.fionabruce.org.uk/sites/www.fionabruce.org.uk/files/2018-02/All-Party%20Parliamentary%20Group%20on%20Religious%20Edcuation%20-%20Improving%20Religious%20Literacy%20-%20A%20Contribution%20to%20the%20Debate.pdf&#xA;And another version with different cover page via NASACRE: https://nasacre.org.uk/file/nasacre/1-971-appg-on-re-improving-religious-literacy-full-report.pdf</description>
     </item>
-    
     <item>
       <title>Why Religion Matters: Religious Literacy, Culture and Diversity</title>
       <link>https://www.understandingreligion.org.uk/s/why-religion-matters-course/</link>
       <pubDate>Wed, 28 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/why-religion-matters-course/</guid>
       <description>Introduction Link You can access the course here: https://www.futurelearn.com/courses/why-religion-matters</description>
     </item>
-    
     <item>
       <title>What is religious literacy?</title>
       <link>https://www.understandingreligion.org.uk/p/what-is-religious-literacy/</link>
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/p/what-is-religious-literacy/</guid>
-      <description>Introduction Religious literacy is a term that has become more popular in recent years, but what exactly do we mean when we talk about it?
-The word &amp;lsquo;literacy&amp;rsquo; definitely sounds like it has something to do with reading and understanding written texts - religious traditions will often (but not always!) write things down, so is religious literacy the ability to read these texts?
-Nope!
-Just like how being able to read is a skill that you can apply throughout your life, religious literacy is a skill that allows you to understand and interpret religious phenomena wherever you encounter them.</description>
+      <description>Introduction Religious literacy is a term that has become more popular in recent years, but what exactly do we mean when we talk about it?&#xA;The word &amp;rsquo;literacy&amp;rsquo; definitely sounds like it has something to do with reading and understanding written texts - religious traditions will often (but not always!) write things down, so is religious literacy the ability to read these texts?&#xA;Nope!&#xA;Just like how being able to read is a skill that you can apply throughout your life, religious literacy is a skill that allows you to understand and interpret religious phenomena wherever you encounter them.</description>
     </item>
-    
   </channel>
 </rss>

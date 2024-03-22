@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>religion in the workplace on Understanding Religion</title>
+    <title>Religion in the Workplace on Understanding Religion</title>
     <link>https://www.understandingreligion.org.uk/tags/religion-in-the-workplace/</link>
-    <description>Recent content in religion in the workplace on Understanding Religion</description>
+    <description>Recent content in Religion in the Workplace on Understanding Religion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://www.understandingreligion.org.uk/tags/religion-in-the-workplace/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.understandingreligion.org.uk/tags/religion-in-the-workplace/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Encounter World Religions</title>
       <link>https://www.understandingreligion.org.uk/s/encounter-world-religions/</link>
       <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://www.understandingreligion.org.uk/s/encounter-world-religions/</guid>
       <description>Link You can access the website here: https://www.worldreligions.ca</description>
     </item>
-    
   </channel>
 </rss>
