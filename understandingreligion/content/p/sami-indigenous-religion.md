@@ -3,7 +3,7 @@ Title: Sámi indigenous religion
 Abstract: The animistic religious system of the Sámi people, an indigenous Finno-Ugric-speaking
   group living in Sápmi, a region containing northern parts of Norway, Sweden, Finland
   and the Kola Peninsula.
-Author: Written by ChatGPT, based on the GPT-4 architecture developed by OpenAI.
+Author: ChatGPT
 Categories:
 - Traditions
 Tags:
@@ -18,7 +18,7 @@ Tags:
 - norway
 - indigenous
 PublishDate: 2020-10-04
-LastModifiedDate: 2021-10-16T23:00:00+00:00
+LastModifiedDate: 2024-06-07
 Books: 
 "--  - Name":
   Link: 
