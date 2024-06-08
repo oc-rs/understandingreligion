@@ -80,10 +80,9 @@ In recent decades, there has been a significant revival of interest in Sámi cul
 The Sámi indigenous religion is a testament to the enduring connection between a people and their environment. Through animism, shamanism, and a rich pantheon of deities and spirits, the Sámi have maintained a vibrant spiritual tradition that continues to evolve. Understanding this religion offers valuable insights into the Sámi way of life and their profound respect for nature.
 
 # Further Reading
-* [Sámi Culture](https://www.samiculture.com/)
 * https://www.mdpi.com/2077-1444/11/9/432/htm
 * [http://web.archive.org/web/20211013110929/https://amp.theguardian.com/world/2021/oct/13/sami-people-norway-ask-danish-queen-to-return-sacred-witchcraft-trial-drum](http://web.archive.org/web/20211013110929/https://amp.theguardian.com/world/2021/oct/13/sami-people-norway-ask-danish-queen-to-return-sacred-witchcraft-trial-drum "http://web.archive.org/web/20211013110929/https://amp.theguardian.com/world/2021/oct/13/sami-people-norway-ask-danish-queen-to-return-sacred-witchcraft-trial-drum")
-* [https://en.m.wikipedia.org/wiki/S](https://en.m.wikipedia.org/wiki/S "https://en.m.wikipedia.org/wiki/S")ámi_shamanism
+* [https://en.m.wikipedia.org/wiki/Sámi_shamanism](https://en.m.wikipedia.org/wiki/S "https://en.m.wikipedia.org/wiki/S")ámi_shamanism
 
 # References
 * Balto, Asta. "Sámi Culture and Spirituality: A Brief Overview." Journal of Northern Studies, vol. 13, no. 2, 2022, pp. 45-62.
