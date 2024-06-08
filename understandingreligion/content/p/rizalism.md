@@ -87,9 +87,6 @@ Rizalism represents a unique blend of nationalism, spirituality, and cultural id
 
 ## Further Reading
 
-- [Rizal and the Revolution](https://www.goodreads.com/book/show/19429712-rizal-and-the-revolution)
-- [The Life and Writings of José Rizal](https://www.amazon.com/Life-Writings-Jose-Rizal/dp/9715060045)
-
 ## References
 
 1. Anderson, Benedict. **Imagined Communities: Reflections on the Origin and Spread of Nationalism**. Verso, 1983.
