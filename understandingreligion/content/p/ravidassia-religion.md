@@ -24,9 +24,9 @@ The Ravidassia religion is a distinct faith that emerged from the teachings of G
 
 ## Historical Background
 
-### Life of Guru Ravidass
+### Life of Guru Ravidas
 
-Guru Ravidass, born in 1377 CE in Varanasi, India, was a prominent spiritual leader and reformer. He belonged to the leather-working Chamar caste, traditionally considered untouchable in the Hindu caste hierarchy. Despite facing significant social discrimination, Guru Ravidass gained a following due to his profound spiritual insights and egalitarian teachings.
+Guru Ravidas, born in 1377 CE in Varanasi, India, was a prominent spiritual leader and reformer. He belonged to the leather-working Chamar caste, traditionally considered untouchable in the Hindu caste hierarchy. Despite facing significant social discrimination, Guru Ravidas gained a following due to his profound spiritual insights and egalitarian teachings.
 
 ### Emergence of the Ravidassia Faith
 
