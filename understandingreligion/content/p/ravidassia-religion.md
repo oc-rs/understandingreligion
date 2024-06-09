@@ -7,7 +7,7 @@ Categories:
 - Traditions
 Tags:
 - Ravidassia
-- Guru Ravidass
+- Guru Ravidas
 - Sikhism
 - Indian religions
 - Dalit community
