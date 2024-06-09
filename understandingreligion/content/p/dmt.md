@@ -31,6 +31,7 @@ Featured: false
         <a href="https://www.talktofrank.com/drug/dimethyltryptamine">https://www.talktofrank.com/drug/dimethyltryptamine</a>
     </p>
 </div>
+
 ## Introduction
 
 DMT (Dimethyltryptamine) is a powerful psychedelic compound that has been used for centuries in various religious and spiritual contexts. Often referred to as the "spirit molecule," DMT is known for inducing profound and transformative experiences, characterized by vivid visions, encounters with otherworldly entities, and a deep sense of connection to the divine.
