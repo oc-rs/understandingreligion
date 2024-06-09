@@ -68,9 +68,7 @@ The Ravidassia faith continues to play a crucial role in advocating for the righ
 
 For more detailed information on the Ravidassia religion, consider the following resources:
 
-- [Ravidassia Official Website](https://www.ravidassia.org)
-- [Encyclopedia of Sikhism](http://www.advancedcentrepunjabi.org/eos/)
-- [Ravidassia Religious Practices](https://www.bbc.co.uk/religion/religions/ravidassia/)
+- [Wikipedia Article](https://en.m.wikipedia.org/wiki/Ravidassia)
 - https://doi-org.libezproxy.open.ac.uk/10.1177%2F0038022919876403
 
 # Image Credits
